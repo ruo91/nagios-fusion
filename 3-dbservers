@@ -1,0 +1,41 @@
+#!/bin/sh
+
+. ./fusion-sys.cfg
+
+# Was previous step completed?
+if [ ! -f installed.usersgroups ]; then
+	echo "Users/groups were not configured - run previous script" >&2
+	exit 1
+fi
+
+# Was this step already completed?
+if [ -f installed.dbservers ]; then
+	echo "Database servers already initialized - skipping."
+	exit 0
+fi
+
+
+##########################################
+# INITIALIZE POSTGRES
+##########################################
+
+echo "Initializing PostgresQL..."
+
+# Initialize Postgres
+service postgresql initdb
+
+# Start Postgres (needed for Centos, as initdb doesnt work)
+echo "Starting PostgresQL..."
+service postgresql start
+
+# Copy over access configuration file to use trust based authentication
+cp -f nagiosfusion/pg_hba.conf /var/lib/pgsql/data/pg_hba.conf
+
+echo "Restarting PostgresQL..."
+service postgresql restart
+
+echo "Database servers initialized OK"
+touch installed.dbservers
+
+
+

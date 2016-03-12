@@ -1,0 +1,10 @@
+#!/bin/sh
+
+if selinuxenabled; then
+	setenforce 0
+	cp -r nagiosfusion/selinux /etc/selinux/config
+fi
+
+echo "SELinux Disabled"
+#touch installed.selinux
+

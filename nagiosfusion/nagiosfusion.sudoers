@@ -1,0 +1,4 @@
+User_Alias NAGIOSFUSION=nagios
+User_Alias NAGIOSFUSIONWEB=apache
+NAGIOSFUSION ALL = NOPASSWD:/usr/local/nagiosfusion/scripts/upgrade_to_latest.sh
+NAGIOSFUSION ALL = NOPASSWD:/usr/local/nagiosfusion/scripts/change_timezone.sh

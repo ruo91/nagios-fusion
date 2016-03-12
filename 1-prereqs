@@ -1,0 +1,34 @@
+#!/bin/sh -e
+# $Id$
+# This file boot straps NagiosFusion install with all the yum packages.
+
+. ./fusion-sys.cfg
+
+# Check whether we have sufficient privileges
+if [ $(id -u) -ne 0 ]; then
+	echo "This script needs to be run as root/superuser." >&2
+	exit 1
+fi
+
+# Was previous step completed?
+if [ ! -f installed.yum ]; then
+	echo "Yum was not properly prepared - run previous script" >&2
+	exit 1
+fi
+
+# Are prereqs already installed?
+if [ -f installed.prereqs ]; then
+	echo "Prereqs already installed - skipping..."
+	echo "Note: If you want to update the RPMs installed on this system, run 'yum update'"
+	exit 0
+fi
+
+##########################################
+# INSTALL REQUIRED PACKAGES
+##########################################
+
+echo "Installing prerequisites..."
+yum -y install httpd php gd gd-devel dstat rrdtool xinetd php-gd unzip php-pear bind-utils postgresql postgresql-libs postgresql-server php-pgsql postgresql-devel php-odbc openssl openssl-devel unzip rpmdevtools php-xml php-tidy sysstat
+
+touch installed.prereqs
+touch installed.prereqs

@@ -1,0 +1,20 @@
+#!/bin/sh -e
+
+# Nagios crontab
+./install-crontab-nagios
+if [ $? -gt 0 ]; then 
+	echo "Nagios crontab failed! - run ./install-crontab-nagios"
+else
+	echo "nagios crontab installed"
+fi	
+
+# Root crontab
+./install-crontab-root
+if [ $? -gt 0 ]; then
+	echo "root crontab install failed - run ./install-root-crontab"
+else
+	echo "root crontab installed"
+fi
+
+touch installed.crontabs
+

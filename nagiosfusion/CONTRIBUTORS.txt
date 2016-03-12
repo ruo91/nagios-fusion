@@ -1,0 +1,7 @@
+Below is a list of known community contributors to Nagios Fusion.
+Thanks for your work in helping to improve this product!
+	- The Nagios Enterprises Team
+
+===============================================================
+Tobias Lätsch and Severin LÄUPI - 04/09/2013
+	- Added support for a custom port # to be in the Nagios server URLs 

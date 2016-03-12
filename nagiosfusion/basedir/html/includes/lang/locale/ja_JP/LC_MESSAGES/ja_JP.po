@@ -1,0 +1,4865 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: nagios fusion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-22 11:39-0500\n"
+"PO-Revision-Date: 2015-02-26 14:40+0900\n"
+"Last-Translator: \n"
+"Language-Team: Jupiter Technology Corp. <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja_JP\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.6.10\n"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils.inc.php:374
+#, fuzzy
+msgid "English"
+msgstr "英語"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils.inc.php:375
+#, fuzzy
+msgid "German"
+msgstr "ドイツ語"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils.inc.php:376
+#, fuzzy
+msgid "Spanish"
+msgstr "スペイン語"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils.inc.php:377
+#, fuzzy
+msgid "French"
+msgstr "フランス語"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils.inc.php:378
+#, fuzzy
+msgid "Italian"
+msgstr "イタリア語"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils.inc.php:379
+#, fuzzy
+msgid "Japanese"
+msgstr "日本人"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils.inc.php:380
+#, fuzzy
+msgid "Korean"
+msgstr "韓国語"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils.inc.php:381
+#, fuzzy
+msgid "Polish"
+msgstr "ポリッシュ"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils.inc.php:382
+#, fuzzy
+msgid "Portuguese"
+msgstr "ポルトガル語"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils.inc.php:383
+#, fuzzy
+msgid "Russian"
+msgstr "ロシア"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils.inc.php:384
+#, fuzzy
+msgid "Simplified Chinese"
+msgstr "簡体字中国語"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils.inc.php:385
+#, fuzzy
+msgid "Traditional Chinese"
+msgstr "繁体字中国語"
+
+#: trunk/nagiosfusion/basedir/html/includes/footer.inc.php:14
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:158
+#: trunk/nagiosfusion/basedir/html/admin/components.php:114
+#: trunk/nagiosfusion/basedir/html/admin/dashlets.php:106
+msgid "Check for Updates"
+msgstr "更新を確認"
+
+#: trunk/nagiosfusion/basedir/html/includes/footer.inc.php:17
+#: trunk/nagiosfusion/basedir/html/includes/footer.inc.php:33
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:156
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:650
+msgid "About"
+msgstr "About"
+
+#: trunk/nagiosfusion/basedir/html/includes/footer.inc.php:18
+#: trunk/nagiosfusion/basedir/html/includes/footer.inc.php:34
+msgid "Legal"
+msgstr "Legal"
+
+#: trunk/nagiosfusion/basedir/html/includes/footer.inc.php:30
+#: trunk/nagiosfusion/basedir/html/about/main.php:127
+msgid "Copyright"
+msgstr "Copyright"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:316
+msgid "Help Resources"
+msgstr "ヘルプリソース"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:328
+msgid "FAQs"
+msgstr "よくある質問（FAQ）"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:337
+msgid "Support Forum"
+msgstr "サポートフォーラム"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:346
+msgid "Nagios Library"
+msgstr "Nagiosライブラリー"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:355
+msgid "Support Wiki"
+msgstr "サポートWiki"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:374
+msgid "Documentation Guides"
+msgstr "ドキュメンテーションガイド"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:384
+msgid "Administrator Guide"
+msgstr "管理者ガイド"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:420
+msgid "Servers"
+msgstr "サーバ"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:431
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:533
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:534
+msgid "Manage Fused Servers"
+msgstr "Fused サーバーを管理"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:440
+msgid "Fused Server Credentials"
+msgstr "Fused サーバー認証情報"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:458
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:801
+msgid "Configuration"
+msgstr "設定"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:470
+msgid "System Configuration"
+msgstr "システム設定"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:496
+msgid "My Account"
+msgstr "マイアカウント"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:508
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:515
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:516
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:710
+msgid "Account Information"
+msgstr "アカウント情報"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:535
+msgid "Quick Tools"
+msgstr "クイックツール"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:546
+msgid "Admin Home"
+msgstr "管理者ホーム"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:564
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:576
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:593
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:594
+msgid "System Status"
+msgstr "システムステータス"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:586
+msgid "Check For Updates"
+msgstr "アップデート確認"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:604
+msgid "Users"
+msgstr "ユーザー"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:615
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:530
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:531
+msgid "Manage Users"
+msgstr "ユーザー管理"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:624
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1155
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1156
+msgid "Automatic Login"
+msgstr "自動ログイン"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:643
+msgid "System Config"
+msgstr "システム設定"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:654
+msgid "Manage System Config"
+msgstr "システム設定管理"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:663
+msgid "Manage Email Settings"
+msgstr "メール設定管理"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:672
+msgid "Reset Security Credentials"
+msgstr "セキュリティ認証のリセット"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:681
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:655
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:656
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:692
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:693
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:701
+msgid "License Information"
+msgstr "ライセンス情報"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:699
+msgid "System Extensions"
+msgstr "システム拡張"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:709
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:957
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:958
+msgid "Manage Components"
+msgstr "コンポーネント管理"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:718
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:1152
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:938
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:939
+msgid "Manage Dashlets"
+msgstr "ダッシュレット管理"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:782
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:1101
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:440
+msgid "My Dashboards"
+msgstr "マイダッシュボード"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:810
+#: trunk/nagiosfusion/basedir/html/config/main.php:86
+msgid "Server Status"
+msgstr "サーバステータス"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:822
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:675
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:676
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1151
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1152
+msgid "Tactical Overview"
+msgstr "タクティカル概要"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:833
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:35
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:87
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/summary.php:32
+msgid "Tactical Summary"
+msgstr "タクティカルサマリ"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:854
+msgid "Alerts"
+msgstr "アラート"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:866
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/recentalerts/recentalerts.inc.php:34
+msgid "Recent Alerts"
+msgstr "最近のアラート"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:876
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/topalertproducers/topalertproducers.inc.php:33
+msgid "Top Alert Producers"
+msgstr "トップアラートプロデューサー"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:993
+msgid "View Tools"
+msgstr "ビューツール"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:1005
+msgid "Rotate Views"
+msgstr "ビューのローテート"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:1020
+msgid "Add New View"
+msgstr "新しいビューの追加"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:1040
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:436
+msgid "My Views"
+msgstr "マイビュー"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:1065
+msgid "Dashboard Tools"
+msgstr "ダッシュボードツール"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:1081
+msgid "Add New Dashboard"
+msgstr "新しいダッシュボードの追加"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:1126
+msgid "Add Dashlets"
+msgstr "ダッシュレットの追加"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:1138
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:450
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:451
+msgid "Available Dashlets"
+msgstr "利用可能なダッシュレット"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-tacdata.inc.php:25
+#: trunk/nagiosfusion/basedir/html/includes/utils-tacdata.inc.php:61
+#: trunk/nagiosfusion/basedir/html/includes/utils-tacdata.inc.php:88
+msgid "A timeout occurred while attempting to contact the server"
+msgstr "サーバーへの接続試行中にタイムアウトが発生しました"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-tacdata.inc.php:32
+msgid "Failed to authenticate to server"
+msgstr "サーバーへの認証に失敗しました"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-tacdata.inc.php:33
+msgid "Change credentials"
+msgstr "認証情報の変更"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-tacdata.inc.php:43
+msgid "Unable to parse Nagios XI server response"
+msgstr "Nagios XIサーバーが応答しません"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-tacdata.inc.php:71
+#: trunk/nagiosfusion/basedir/html/includes/utils-tacdata.inc.php:98
+msgid "Unable to parse server response"
+msgstr "サーバー応答がありません"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/recentalerts/recentalerts.inc.php:27
+msgid "This dashlet displays the last 15 alerts across all fused servers."
+msgstr "このダッシュレットには全Fusedサーバーの最新 15 アラートが表示されます."
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/recentalerts/recentalerts.inc.php:101
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/recentalerts.php:26
+#, fuzzy
+msgid "Recent Notifications - Last 2 hours"
+msgstr "最近の通知 - 最後の2時間"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/timestack/timestack.inc.php:20
+msgid ""
+"This dashlet displays performance data for a host or service from the last 3"
+" timeperiods overlayed on a single graph."
+msgstr "このダッシュレットには単一グラフに直近の 3つの期間のホストまたはサービスのパフォーマンスデータが表示されます."
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/timestack/timestack.inc.php:26
+msgid "Time Stacked Performance Graph"
+msgstr "時間積み上げパフォーマンスグラフ"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/timestack/timestack.inc.php:42
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hoststatus/hoststatus.inc.php:55
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/timeline/timeline.inc.php:44
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/servicegroup/servicegroup.inc.php:55
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/servicestatus/servicestatus.inc.php:55
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hostgroup/hostgroup.inc.php:55
+msgid "Select A Server"
+msgstr "サーバーを選択"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/timestack/timestack.inc.php:50
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/topalertproducers/topalertproducers.inc.php:150
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/topalertproducers/topalertproducers.inc.php:159
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/timeline/timeline.inc.php:53
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/servicegroup/servicegroup.inc.php:64
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/servicestatus/servicestatus.inc.php:64
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:168
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hostgroup/hostgroup.inc.php:64
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:23
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:34
+#: trunk/nagiosfusion/basedir/html/config/main.php:82
+#: trunk/nagiosfusion/basedir/html/config/servers.php:108
+msgid "Server"
+msgstr "サーバー"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/timestack/timestack.inc.php:54
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/topalertproducers/topalertproducers.inc.php:151
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/topalertproducers/topalertproducers.inc.php:159
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hoststatus/hoststatus.inc.php:68
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hoststatus/hoststatus.inc.php:186
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/timeline/timeline.inc.php:57
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/servicestatus/servicestatus.inc.php:68
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/servicestatus/servicestatus.inc.php:210
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:24
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:35
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:353
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:684
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1004
+msgid "Host"
+msgstr "ホスト"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/timestack/timestack.inc.php:59
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/topalertproducers/topalertproducers.inc.php:152
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/topalertproducers/topalertproducers.inc.php:159
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/timeline/timeline.inc.php:62
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/servicestatus/servicestatus.inc.php:72
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/servicestatus/servicestatus.inc.php:212
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:25
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:36
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:355
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:685
+msgid "Service"
+msgstr "サービス"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/timestack/timestack.inc.php:65
+msgid "Time Period"
+msgstr "期間"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/timestack/timestack.inc.php:67
+msgid "Last 3 Days"
+msgstr "過去 3日間"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/timestack/timestack.inc.php:68
+msgid "Last 3 Weeks"
+msgstr "過去 3週間"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/timestack/timestack.inc.php:69
+msgid "Last 3 Months"
+msgstr "過去 3ヶ月"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:27
+msgid ""
+"Fused Status dashlets shows status totals across all servers in a single "
+"dashlet."
+msgstr "Fusedステータスダッシュレットは単一のダッシュレットに全サーバーのステータス合計を表示します."
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:35
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:81
+msgid "Fused Status Summary"
+msgstr "Fusedステータスサマリ"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:152
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:164
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hostgroup/hostgroup.inc.php:229
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:273
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:521
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:366
+msgid "Hosts"
+msgstr "ホスト"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:152
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:169
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hostgroup/hostgroup.inc.php:231
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:274
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:522
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:385
+msgid "Up"
+msgstr "稼働"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:152
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:170
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hostgroup/hostgroup.inc.php:232
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:275
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:523
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:386
+msgid "Down"
+msgstr "停止"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:152
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:171
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hostgroup/hostgroup.inc.php:233
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:276
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:524
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:387
+msgid "Unreachable"
+msgstr "到達不能"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:153
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:167
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:172
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:180
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:277
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:291
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:525
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:540
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:383
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:389
+msgid "Pending"
+msgstr "ペンディング"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:153
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:168
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:173
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:181
+msgid "Problems"
+msgstr "障害"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:153
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:168
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:174
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:182
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:398
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:467
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:653
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:722
+msgid "Unhandled"
+msgstr "未解決"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:153
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:168
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:175
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:183
+msgid "All"
+msgstr "すべて"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:166
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:165
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:286
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:535
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:368
+msgid "Services"
+msgstr "サービス"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:166
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:176
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:287
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:536
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:82
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:390
+msgid "Ok"
+msgstr "正常"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:166
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:177
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:288
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:537
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:391
+msgid "Warning"
+msgstr "警告"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:167
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:178
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:290
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:539
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:393
+msgid "Critical"
+msgstr "クリティカル"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:167
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:179
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:289
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:538
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:384
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:392
+msgid "Unknown"
+msgstr "不明"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:182
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:270
+msgid "Last Update Time"
+msgstr "最終更新日時"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:255
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:298
+msgid "Close"
+msgstr "閉じる"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/topalertproducers/topalertproducers.inc.php:26
+msgid ""
+"This dashlet displays the top 15 alert producers for the last 24 hours "
+"across all fused servers."
+msgstr "このダッシュレットは全Fusedサーバーを対象に過去 24時間で発生した上位 15 アラートを表示します."
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/topalertproducers/topalertproducers.inc.php:153
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/topalertproducers/topalertproducers.inc.php:159
+msgid "Rank"
+msgstr "ランク"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/topalertproducers/topalertproducers.inc.php:154
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/topalertproducers/topalertproducers.inc.php:159
+msgid "Alert Count"
+msgstr "アラート数"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/topalertproducers/topalertproducers.inc.php:181
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hostgroup/hostgroup.inc.php:238
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:72
+msgid "Last Update"
+msgstr "最終更新"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hoststatus/hoststatus.inc.php:26
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/servicegroup/servicegroup.inc.php:26
+msgid "Nagios XI Servers Only"
+msgstr "Nagios XI サーバーのみ"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hoststatus/hoststatus.inc.php:26
+msgid "This dashlet displays a status bar for a single Nagios XI host."
+msgstr "このダッシュレットは単一のNagios XIホストのステータスバーを表示します."
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hoststatus/hoststatus.inc.php:33
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:671
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:672
+msgid "Host Status"
+msgstr "ホストステータス"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hoststatus/hoststatus.inc.php:187
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/servicestatus/servicestatus.inc.php:211
+msgid "Host Details"
+msgstr "ホスト詳細"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/timeline/timeline.inc.php:20
+msgid ""
+"This dashlet displays a scalable performance graph for a host or service."
+msgstr "このダッシュレットは、ホストまたはサービスのスケーラブルパフォーマンスグラフを表示します."
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/timeline/timeline.inc.php:26
+msgid "Performance Graph"
+msgstr "パフォーマンスグラフ"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/servicegroup/servicegroup.inc.php:26
+msgid ""
+"This dashlet displays service summary information for a selected "
+"servicegroup."
+msgstr "このダッシュレットは選択したサービスグループのサービスサマリ情報を表示します."
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/servicegroup/servicegroup.inc.php:33
+msgid "Service Group Summary"
+msgstr "サービスグループサマリ"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/servicestatus/servicestatus.inc.php:26
+msgid ""
+"Nagios XI Servers Only. This dashlet displays service status information for"
+" a single Nagios XI service."
+msgstr "Nagios XIサーバーのみ. このダッシュレットは単一のNagios XIサービスのサービスステータス情報を表示します."
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/servicestatus/servicestatus.inc.php:33
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:673
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:674
+msgid "Service Status"
+msgstr "サービスステータス"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/servicestatus/servicestatus.inc.php:213
+msgid "Service Details"
+msgstr "サービス詳細"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:27
+msgid ""
+"Tactical summary dashlet that displays all tactical overview information in "
+"a compact view."
+msgstr "コンパクトなビューに全てのタクティカル概要情報を表示するタクティカルサマリダッシュレット"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:251
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:96
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:110
+msgid "Total"
+msgstr "合計"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hostgroup/hostgroup.inc.php:26
+msgid ""
+"Nagios XI Servers Only.  This dashlet displays host summary information for "
+"a selected hostgroup."
+msgstr "Nagios XIサーバーのみ. このダッシュレットは選択したホストグループのホストサマリ情報を表示します."
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hostgroup/hostgroup.inc.php:33
+msgid "Host Group Summary"
+msgstr "ホストグループサマリ"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hostgroup/hostgroup.inc.php:68
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hostgroup/hostgroup.inc.php:229
+msgid "Hostgroup"
+msgstr "ホストグループ"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hostgroup/hostgroup.inc.php:171
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hostgroup/hostgroup.inc.php:196
+msgid "Unable to retrieve data from server"
+msgstr "サーバーからデータを取得できませんでした"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hostgroup/hostgroup.inc.php:231
+msgid "View Up Hosts"
+msgstr "正常ホストを表示"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hostgroup/hostgroup.inc.php:232
+msgid "View Down Hosts"
+msgstr "停止ホストを表示"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hostgroup/hostgroup.inc.php:233
+msgid "View Unreachable Hosts"
+msgstr "到達不能ホストを表示"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/fusioncore.inc.php:40
+msgid "Provides core functions and interface functionality for Nagios Fusion."
+msgstr "Nagios FusionにCore機能とインターフェース機能を提供します."
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/dashlets.inc.php:55
+msgid "Displays helpful information on getting started with Nagios Fusion."
+msgstr "Nagios Fusionの使用を開始する上で有用な情報を表示します."
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/dashlets.inc.php:67
+msgid ""
+"Displays tasks that an administrator should take to setup and maintain the "
+"Nagios Fusion installation."
+msgstr "管理者が、Nagios Fusion インストレーションのセットアップとメンテナンスで行うべきタスクを表示します."
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/dashlets.inc.php:81
+msgid "Displays realtime status of core Fusion subsystem processes."
+msgstr "コアFusionサブプロセスのリアルタイムステータスを表示します."
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/dashlets.inc.php:95
+msgid "Displays realtime statistics of the Fusion server."
+msgstr "Fusionサーバーのリアルタイム統計情報を表示します."
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/dashlets.inc.php:108
+msgid ""
+"Displays the status of available updates for your Nagios Fusion "
+"installation."
+msgstr "Nagios Fusionインストレーションで利用可能な更新のステータスが表示されます."
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:24
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/dashlets-tasks.inc.php:38
+msgid "Administrative Tasks"
+msgstr "管理タスク"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:29
+msgid "Task"
+msgstr "タスク"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:44
+msgid "Configure system settings"
+msgstr "システム設定を構成"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:44
+msgid "Configure basic settings for your Fusion system"
+msgstr "Fusionシステムのの基本設定を行います"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:48
+msgid "Reset security credentials"
+msgstr "セキュリティ認証情報をリセット"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:49
+msgid "Change the default credentials used by the Fusion system"
+msgstr "Fusion システムで使用されるデフォルトの認証情報を変更します"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:54
+msgid "Configure mail settings"
+msgstr "メール設定を構成"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:54
+msgid "Configure email settings for your Fusion system"
+msgstr "Fusion システムのメール設定を行います"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:58
+msgid "Define fused servers"
+msgstr "Fusedサーバーを定義"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:59
+msgid "Configure servers that should be integrated into Fusion"
+msgstr "Fusionに統合するサーバーを設定"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:68
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:172
+msgid "Define server credentials"
+msgstr "サーバー認証を定義"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:69
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:173
+msgid "Define credentials used to authenticated to fused servers"
+msgstr "Fusedサーバーへの認証に使用される認証情報を定義します"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:73
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:176
+msgid "Initial Setup Tasks"
+msgstr "初期セットアップタスク"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:91
+msgid "The last"
+msgstr "前回の"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:91
+msgid "update check failed"
+msgstr "更新チェックが失敗しました"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:95
+msgid "A new Nagios Fusion"
+msgstr "新しいNagios Fusion"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:95
+msgid "update is available"
+msgstr "アップデートが利用可能"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:102
+msgid "Important Tasks"
+msgstr "重要なタスク"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:110
+msgid "Ongoing Tasks"
+msgstr "継続的なタスク"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:113
+msgid "Configure your fused servers"
+msgstr "Fusedサーバーの構成"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:113
+msgid "Add or modify servers to be fused"
+msgstr "Fusedするサーバーの追加または編集"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:114
+msgid "Add new user accounts"
+msgstr "新しいユーザーアカウントの追加"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:114
+msgid "Setup new users with access to Nagios Fusion"
+msgstr "Nagios Fusionにアクセスする新しいユーザーを設定します"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:138
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/dashlets-tasks.inc.php:102
+msgid "Getting Started Guide"
+msgstr "入門ガイド"
+
+# 画面上確認できない
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:161
+msgid "Tend to pending administrative tasks"
+msgstr "管理者タスクを保留する"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:162
+msgid "Configure initial Fusion settings"
+msgstr "Fusionの初期設定"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:184
+msgid "Common Tasks"
+msgstr "共通タスク"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:187
+msgid "Change your account settings"
+msgstr "アカウント設定を変更"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:187
+msgid "Change your account password and general preferences"
+msgstr "アカウントのパスワードや一般設定を変更します"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:191
+msgid "Getting Started"
+msgstr "はじめに"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:194
+#: trunk/nagiosfusion/basedir/html/help/main.php:60
+msgid "Learn about Fusion"
+msgstr "Fusionについて学ぶ"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:194
+msgid "Learn more about Fusion and its capabilities"
+msgstr "Fusionとその機能の詳細について学習します"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:195
+#: trunk/nagiosfusion/basedir/html/help/main.php:64
+msgid "Signup for Fusion news"
+msgstr "Fusionニュースにサインアップ"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:195
+msgid "Stay informed of the latest updates and happenings for Fusion"
+msgstr "最新のアップデートと Fusionの最新情報を入手します"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:206
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:177
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:384
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:124
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:179
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:62
+msgid "Last Updated"
+msgstr "最終更新日"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/dashlets-sysstat.inc.php:98
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:149
+msgid "Fusion System Component Status"
+msgstr "Fusionシステムコンポーネントのステータス"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/dashlets-misc.inc.php:97
+msgid "Available Updates"
+msgstr "利用可能なアップデート"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/dashlets-misc.inc.php:101
+msgid "Checking for updates..."
+msgstr "アップデートを確認しています..."
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/tac.php:87
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/tac.php:95
+msgid "Attention"
+msgstr "注意"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/tac.php:87
+msgid "You have not defined any fused servers yet"
+msgstr "まだFusedサーバーが定義されていません"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/tac.php:88
+msgid "Define some now"
+msgstr "今すぐ定義"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/tac.php:95
+msgid "You have chosen not to display any fused servers"
+msgstr "全てのFusedサーバーが非表示に設定されています"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/tac.php:96
+msgid "Change settings"
+msgstr "設定を変更"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:26
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:37
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:976
+#: trunk/nagiosfusion/basedir/html/config/servers.php:109
+msgid "Type"
+msgstr "タイプ"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:27
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:38
+msgid "State"
+msgstr "ステータス"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:28
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:39
+msgid "Time"
+msgstr "時間"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:29
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:40
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:362
+msgid "Contact"
+msgstr "連絡先"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:30
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:41
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:177
+msgid "Output"
+msgstr "出力"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:198
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:730
+msgid "Host Recovery"
+msgstr "ホスト復旧"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:200
+msgid "Host Problem"
+msgstr "ホスト障害"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:204
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:736
+msgid "Service Recovery"
+msgstr "サービス復旧"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:206
+msgid "Service Problem"
+msgstr "サービス障害"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:210
+msgid "Problem Acknowledged"
+msgstr "障害が対応されました"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:213
+msgid "Flapping Started"
+msgstr "フラッピングが開始しました"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:216
+msgid "Flapping Stopped"
+msgstr "フラッピングが停止しました"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:219
+msgid "Flapping Disabled"
+msgstr "フラッピングが無効です"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:222
+msgid "Downtime Started"
+msgstr "ダウンタイムが開始しました"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:225
+msgid "Downtime Ended"
+msgstr "ダウンタイムが終了しました"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:228
+msgid "Downtime Cancelled"
+msgstr "ダウンタイムがキャンセルされました"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:231
+msgid "Custom"
+msgstr "カスタム"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:143
+msgid "Update Check Problem: Last update check failed"
+msgstr "アップデートチェック障害：最終更新チェックが失敗しました"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:146
+msgid "A new Nagios Fusion update is available"
+msgstr "新しいNagios Fusionアップデートが利用可能です"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:151
+msgid "Visit"
+msgstr "参照"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:151
+msgid "to obtain the latest update"
+msgstr "最新の更新プログラムを入手"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:154
+msgid "Your Nagios Fusion installation is up to date"
+msgstr "Nagios Fusionは最新版です"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:167
+msgid "Latest Available Version"
+msgstr "最新バージョン"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:168
+msgid "Installed Version"
+msgstr "インストール済みバージョン"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:169
+msgid "Last Update Check"
+msgstr "最終更新チェック"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:202
+msgid "Could not read program data!"
+msgstr "プログラムデータの読み取りに失敗しました."
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:256
+msgid "System Ok"
+msgstr "システム正常"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:259
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:263
+msgid "System Problem"
+msgstr "システム障害"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:298
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:208
+msgid "Subsystem Poller"
+msgstr "サブシステムポーラー"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:307
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:324
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:341
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:354
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:367
+msgid "Last Run"
+msgstr "前回の実行"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:310
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:327
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:370
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:220
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:237
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:280
+msgid "Not Run Yet"
+msgstr "稼働していない"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:315
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:225
+msgid "Database Maintenance"
+msgstr "データベースメンテナンス"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:332
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:242
+msgid "Command Subsystem"
+msgstr "コマンドサブシステム"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:345
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:255
+msgid "Event Manager"
+msgstr "イベントマネージャ"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:358
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:268
+msgid "Cleaner"
+msgstr "クリーナー"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:375
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:285
+msgid "System Statistics"
+msgstr "システム統計"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:392
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:302
+msgid "Data unavailable"
+msgstr "データ使用不能"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:62
+msgid "Server Statistics"
+msgstr "サーバー統計"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:70
+msgid "Metric"
+msgstr "メトリック"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:71
+msgid "Value"
+msgstr "値"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:76
+msgid "Load"
+msgstr "ロード"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:85
+msgid "CPU Stats"
+msgstr "CPU統計"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:86
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:223
+#: trunk/nagiosfusion/basedir/html/admin/components.php:256
+msgid "User"
+msgstr "User"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:87
+msgid "Nice"
+msgstr "Nice"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:88
+msgid "System"
+msgstr "System"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:89
+msgid "I/O Wait"
+msgstr "I/O Wait"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:90
+msgid "Steal"
+msgstr "System"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:91
+msgid "Idle"
+msgstr "Idle"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:94
+msgid "Memory"
+msgstr "Memory"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:98
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:112
+msgid "Used"
+msgstr "Used"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:100
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:114
+#: trunk/nagiosfusion/basedir/html/includes/utilsl.inc.php:734
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:698
+msgid "Free"
+msgstr "Free"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:102
+msgid "Shared"
+msgstr "Shared"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:104
+msgid "Buffers"
+msgstr "Buffers"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:106
+msgid "Cached"
+msgstr "Cached"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:108
+msgid "Swap"
+msgstr "Swap"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:152
+msgid "No data"
+msgstr "データなし"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:158
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:975
+msgid "Component"
+msgstr "コンポーネント"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:158
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:180
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:686
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:521
+msgid "Status"
+msgstr "ステータス"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:199
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:173
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:523
+msgid "Actions"
+msgstr "アクション"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:201
+msgid "Unknown state"
+msgstr "不明なステータス"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:217
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:234
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:251
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:264
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:277
+msgid "Last Run "
+msgstr "前回の実行"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:217
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:234
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:251
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:264
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:277
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:294
+msgid " Ago"
+msgstr " 前"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:294
+msgid "Last Updated "
+msgstr "最終更新"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:36
+msgid "You have not defined authentication credentials for this server"
+msgstr "このサーバーの認証情報は定義されていません"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:36
+msgid "Define them now"
+msgstr "今すぐ定義する"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:249
+msgid "Unable to parse Nagios Core server response"
+msgstr "Nagios Coreサーバー応答を解析できません"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:267
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:514
+msgid "Status Summary"
+msgstr "ステータスサマリ"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:267
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:515
+msgid "Notes"
+msgstr "注記"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:267
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:515
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:295
+msgid "Edit"
+msgstr "編集"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:295
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:548
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:977
+msgid "Settings"
+msgstr "設定"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:298
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:556
+msgid "Notifications"
+msgstr "通知"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:299
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:557
+msgid "Active Checks"
+msgstr "アクティブチェック"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:300
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:558
+msgid "Passive Checks"
+msgstr "パッシブチェック"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:301
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:559
+msgid "Event Handlers"
+msgstr "イベントハンドラ"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:346
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:602
+msgid "Enabled"
+msgstr "有効"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:403
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:472
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:658
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:727
+msgid "Acknowledged"
+msgstr "対応済"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:408
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:477
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:663
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:732
+msgid "Scheduled"
+msgstr "スケジュール済み"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:414
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:488
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:669
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:743
+msgid "Disabled"
+msgstr "無効"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:482
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:737
+msgid "On Problem Hosts"
+msgstr "ホスト上の障害"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:555
+msgid "Monitoring Engine"
+msgstr "監視エンジン"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/index.php:68
+msgid "Destination name cannot be blank."
+msgstr "宛先名を空白にすることはできません."
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/index.php:72
+msgid "You must select one or more dashboards to deploy."
+msgstr "展開するために1つ以上のダッシュボードを選択する必要があります."
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/index.php:74
+msgid "You must select at least one user."
+msgstr "少なくとも1ユーザーを選択する必要があります."
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/index.php:108
+msgid "Dashboards deployed"
+msgstr "展開されたダッシュボード"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/index.php:248
+msgid "Dashboard Deployment Tool"
+msgstr "ダッシュボード展開ツール"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/index.php:251
+msgid ""
+"This tool allows admins to deploy one or more of their own dashboards to "
+"other users. This can be useful when you design a dashboard that other users"
+" may want access to. If you want each user's copy of your dashboard to stay "
+"synchronized with your dashboard, select the 'Keep Synced' option."
+msgstr ""
+"このツールで、管理者は1つ以上の自分のダッシュボードを他のユーザーに展開できます.  "
+"他のユーザーがアクセスしたいダッシュボードを設計するときに便利です. "
+"各ユーザーのダッシュボードのコピーと自分のダッシュボードを同期させたい場合は、'同期を維持'オプションを選択します."
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/index.php:255
+msgid "Note"
+msgstr "注記"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/index.php:256
+msgid ""
+"Re-deploying a dashboard that has already been deployed will overwrite the "
+"user's old copy of the deployed dashboard."
+msgstr "既に展開済みのダッシュボードを再展開すると、ユーザーの展開済みダッシュボードの古いコピーを上書きします."
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/index.php:272
+msgid "Dashboards To Deploy"
+msgstr "展開するダッシュボード"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/index.php:275
+msgid "Specify which of your dashboards should be deployed."
+msgstr "展開するダッシュボードを指定します."
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/index.php:281
+msgid "Deploy"
+msgstr "展開"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/index.php:282
+msgid "ID"
+msgstr "ID"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/index.php:283
+msgid "Local Name"
+msgstr "ローカル名"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/index.php:284
+msgid "Destination Name"
+msgstr "宛先名"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/index.php:285
+msgid "Keep Synced"
+msgstr "同期を維持"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/index.php:311
+msgid "Deploy To Users"
+msgstr "ユーザーに展開"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/index.php:314
+msgid "Specify which users the dashboards should be deployed to."
+msgstr "ダッシュ ボードを展開するユーザーを指定します."
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/deploydashboard.inc.php:28
+msgid "Error: This component requires Nagios Fusion 2012R1.2 or later."
+msgstr "エラー：このコンポーネントは、Nagios Fusion 2012R1.2以降が必要です."
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/deploydashboard.inc.php:38
+msgid "Allows admins to deploy dashboards to other users. "
+msgstr "管理者は他のユーザーにダッシュボードを展開することができます."
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/deploydashboard.inc.php:83
+msgid "Deploy Dashboards"
+msgstr "ダッシュボードを展開"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/xidata/xidata.php:118
+msgid "Select a Host"
+msgstr "ホストを選択"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/xidata/xidata.php:139
+msgid "Select a Hostgroup"
+msgstr "ホストグループを選択"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/xidata/xidata.php:149
+msgid "Select a Servicegroup"
+msgstr "サービスグループを選択"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/visualizations/visualizations.inc.php:30
+msgid ""
+"Fusion Visualizations is an interactive graphing tool for your Nagios data.\n"
+"\t\t\tFor most reliable graphs and dashlets, use Mozilla Firefox."
+msgstr ""
+"Fusion可視化は、Nagiosデータのインタラクティブなグラフ作成ツールです. \n"
+"\t\t\t信頼性の高いグラフやダッシュレットを表示するには、Mozilla Firefoxを使用してください."
+
+#: trunk/nagiosfusion/basedir/html/includes/components/visualizations/visualizations.inc.php:33
+msgid "This component requires Nagios Fusion 2012r1.0 or later"
+msgstr "このコンポーネントはNagios Fusion 2012r1.0以降が必要です"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/visualizations/visualizations.inc.php:86
+msgid "Visualizations"
+msgstr "可視化"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/visualizations/visualizations.inc.php:98
+msgid "Host Health"
+msgstr "ホストヘルス"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/visualizations/visualizations.inc.php:109
+msgid "Service Health"
+msgstr "サービスヘルス"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/visualizations/visualizations.inc.php:120
+msgid "Alert Histogram"
+msgstr "アラートヒストグラム"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/visualizations/visualizations.inc.php:152
+msgid "Displays a column graph of host health across all fused servers"
+msgstr "すべてのFusedサーバーについてのホストヘルスグラフを表示します"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/visualizations/visualizations.inc.php:159
+msgid "Dashlet Copyright &copy; 2012 Nagios Enterprises. All rights reserved."
+msgstr "Dashlet Copyright © 2012 Nagios Enterprises. 無断複写・転載を禁じます."
+
+#: trunk/nagiosfusion/basedir/html/includes/components/visualizations/visualizations.inc.php:168
+msgid "Displays a column graph of service health across all fused servers"
+msgstr "すべてのFusedサーバーについてのサービスヘルスグラフを表示します"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/visualizations/visualizations.inc.php:177
+msgid "Displays a histogram of alerts across all fused servers"
+msgstr "すべてのFusedサーバーについてアラートヒストグラムを表示します"
+
+#: trunk/nagiosfusion/basedir/html/includes/header.inc.php:51
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:201
+msgid "Logged in as"
+msgstr "ログイン"
+
+#: trunk/nagiosfusion/basedir/html/includes/header.inc.php:54
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:190
+msgid "Logout"
+msgstr "ログアウト"
+
+#: trunk/nagiosfusion/basedir/html/includes/header.inc.php:91
+#: trunk/nagiosfusion/basedir/html/includes/header.inc.php:132
+msgid "Home"
+msgstr "ホーム"
+
+#: trunk/nagiosfusion/basedir/html/includes/header.inc.php:92
+#: trunk/nagiosfusion/basedir/html/includes/header.inc.php:133
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:488
+msgid "Views"
+msgstr "ビュー"
+
+#: trunk/nagiosfusion/basedir/html/includes/header.inc.php:93
+#: trunk/nagiosfusion/basedir/html/includes/header.inc.php:134
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:490
+msgid "Dashboards"
+msgstr "ダッシュボード"
+
+#: trunk/nagiosfusion/basedir/html/includes/header.inc.php:95
+#: trunk/nagiosfusion/basedir/html/includes/header.inc.php:136
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1024
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1029
+msgid "Configure"
+msgstr "設定"
+
+#: trunk/nagiosfusion/basedir/html/includes/header.inc.php:99
+#: trunk/nagiosfusion/basedir/html/includes/header.inc.php:138
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:624
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:625
+msgid "Help"
+msgstr "ヘルプ"
+
+#: trunk/nagiosfusion/basedir/html/includes/header.inc.php:101
+#: trunk/nagiosfusion/basedir/html/includes/header.inc.php:142
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:222
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:489
+msgid "Admin"
+msgstr "管理"
+
+#: trunk/nagiosfusion/basedir/html/includes/header.inc.php:104
+#: trunk/nagiosfusion/basedir/html/includes/header.inc.php:150
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:15
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:30
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:58
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:73
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:189
+msgid "Login"
+msgstr "ログイン"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-topalertproducers.inc.php:72
+msgid "No credentials defined for this server yet"
+msgstr "このサーバーに定義済みの認証情報がありません"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-topalertproducers.inc.php:90
+msgid "Unable to fetch data from server"
+msgstr "サーバーからデータを取得できません"
+
+#: trunk/nagiosfusion/basedir/html/includes/utilsl.inc.php:725
+#: trunk/nagiosfusion/basedir/html/includes/utilsl.inc.php:734
+#: trunk/nagiosfusion/basedir/html/includes/utilsl.inc.php:743
+#: trunk/nagiosfusion/basedir/html/includes/utilsl.inc.php:757
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:697
+msgid "License Type"
+msgstr "ライセンスの種類"
+
+#: trunk/nagiosfusion/basedir/html/includes/utilsl.inc.php:725
+#: trunk/nagiosfusion/basedir/html/includes/utilsl.inc.php:734
+msgid "Purchase a license"
+msgstr "ライセンスを購入"
+
+#: trunk/nagiosfusion/basedir/html/includes/utilsl.inc.php:725
+#: trunk/nagiosfusion/basedir/html/includes/utilsl.inc.php:734
+msgid "and receive support and upgrade benefits!"
+msgstr "し、サポートとアップグレードのメリットを受けとる!"
+
+#: trunk/nagiosfusion/basedir/html/includes/utilsl.inc.php:743
+msgid "Commercial"
+msgstr "商用"
+
+#: trunk/nagiosfusion/basedir/html/includes/utilsl.inc.php:757
+msgid "Invalid License Key"
+msgstr "無効なライセンスキー"
+
+#: trunk/nagiosfusion/basedir/html/includes/utilsl.inc.php:757
+msgid "Purchase a License"
+msgstr "ライセンスを購入"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:13
+msgid "Missing Page"
+msgstr "不足しているページ"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:14
+msgid "Unimplemented Feature"
+msgstr "実装されていない機能"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:16
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:28
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:74
+msgid "Reset Password"
+msgstr "リセットパスワード"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:17
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:31
+msgid "Password Sent"
+msgstr "パスワードの送信"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:18
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:76
+msgid "Install"
+msgstr "インストール"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:19
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:41
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:197
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:407
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:598
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:611
+msgid "Error"
+msgstr "エラー"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:25
+msgid "What the..."
+msgstr "何..."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:26
+msgid "Wouldn't that be nice..."
+msgstr "それは良くない..."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:27
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:583
+msgid "Password Change Required"
+msgstr "パスワード変更の要求"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:29
+msgid "Nagios Fusion&trade;"
+msgstr "Nagios Fusion™"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:32
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:155
+#: trunk/nagiosfusion/basedir/html/about/main.php:83
+msgid "Credits"
+msgstr "クレジット"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:33
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:652
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:653
+msgid "Legal Information"
+msgstr "法律情報"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:39
+msgid "Sending Feedback..."
+msgstr "フィードバックを送信..."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:40
+msgid "Thank You!"
+msgstr "ありがとうございました！"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:55
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:518
+msgid "Account Preferences"
+msgstr "アカウント設定"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:56
+msgid "General Options"
+msgstr "一般オプション"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:57
+msgid "User Account Information"
+msgstr "ユーザーアカウント情報"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:65
+msgid "General Program Settings"
+msgstr "一般的なプログラム設定"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:66
+msgid "Default User Settings"
+msgstr "デフォルトのユーザー設定"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:67
+msgid "Advanced Settings"
+msgstr "高度な設定"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:75
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1140
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1141
+msgid "Upgrade"
+msgstr "アップグレード"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:77
+#: trunk/nagiosfusion/basedir/html/login.php:641
+msgid "Change Password"
+msgstr "パスワード変更"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:78
+msgid "Update"
+msgstr "更新"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:79
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:88
+msgid "Update Settings"
+msgstr "設定を更新"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:80
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:225
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:81
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:224
+msgid "Continue"
+msgstr "続ける"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:83
+msgid "Add User"
+msgstr "ユーザーの追加"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:84
+msgid "Update User"
+msgstr "ユーザーの更新"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:85
+msgid "Submit"
+msgstr "実行"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:86
+msgid "Go"
+msgstr "Go"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:87
+msgid "Update Permissions"
+msgstr "アクセス権の更新"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:89
+msgid "Upload File"
+msgstr "ファイルのアップロード"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:90
+msgid "Upload Plugin"
+msgstr "プラグインをアップロード"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:91
+msgid "Check For Updates Now"
+msgstr "今すぐ更新を確認"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:97
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:170
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:194
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1006
+#: trunk/nagiosfusion/basedir/html/config/main.php:87
+msgid "Username"
+msgstr "ユーザー名"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:98
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:195
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1007
+#: trunk/nagiosfusion/basedir/html/config/main.php:88
+msgid "Password"
+msgstr "パスワード"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:99
+msgid "New Password"
+msgstr "新しいパスワード"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:100
+msgid "Repeat New Password"
+msgstr "新しいパスワード（確認）"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:101
+msgid "Repeat Password"
+msgstr "パスワード（確認）"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:102
+msgid "Admin Email Address"
+msgstr "管理用メールアドレス"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:103
+msgid "Email Address"
+msgstr "メールアドレス"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:104
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:199
+msgid "Language"
+msgstr "言語"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:105
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:200
+msgid "Theme"
+msgstr "テーマ"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:106
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:171
+msgid "Name"
+msgstr "名前"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:107
+msgid "Authorization Level"
+msgstr "認証レベル"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:108
+msgid "Force Password Change at Next Login"
+msgstr "回ログイン時にパスワード変更を強制する"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:109
+msgid "Email User Account Information"
+msgstr "ユーザーにアカウント情報をメールする"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:110
+msgid "Email User New Password"
+msgstr "ユーザーに新しいパスワードをメールする"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:111
+msgid "Date Format"
+msgstr "日付フォーマット"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:112
+msgid "Number Format"
+msgstr "数値フォーマット"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:113
+msgid "Comments"
+msgstr "コメント"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:114
+msgid "Your Name (Optional)"
+msgstr "あなたの名前（任意）"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:115
+msgid "Your Email Address (Optional)"
+msgstr "あなたのメールアドレス（任意）"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:120
+msgid "Invalid username or password."
+msgstr "ユーザー名またはパスワードが無効です."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:121
+msgid "No username specified."
+msgstr "ユーザー名が指定されていません."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:122
+msgid "No account was found by that name."
+msgstr "この名前でアカウントが見つかりませんでした."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:123
+msgid "Unable to get account email address."
+msgstr "アカウントのメールアドレスを取得できません."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:124
+msgid "Unable to get admin email address."
+msgstr "管理者のメールアドレスを取得できません."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:125
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:128
+msgid "Email address is invalid."
+msgstr "メールアドレスが無効です."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:126
+msgid "Username is blank."
+msgstr "ユーザー名が空白です."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:127
+msgid "Email address is blank."
+msgstr "メールアドレスが空白です."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:129
+msgid "Password is blank."
+msgstr "パスワードが空白です."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:130
+msgid "Security level is blank."
+msgstr "セキュリティレベルが空白です."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:131
+msgid "An account with that username already exists."
+msgstr "ユーザー名のアカウントはすでに存在しています."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:132
+msgid "Failed to add account"
+msgstr "アカウントの追加に失敗しました"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:133
+msgid "Unable to assign account privileges."
+msgstr "アカウント権限の割当てに失敗しました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:134
+msgid "URL is blank."
+msgstr "URLが空白です."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:135
+msgid "Passwords do not match."
+msgstr "パスワードが一致しません."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:136
+msgid "Default language not specified."
+msgstr "デフォルトの言語が指定されていません."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:137
+msgid "Default theme not specified."
+msgstr "デフォルトのテーマが指定されていません."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:138
+msgid "Name is blank."
+msgstr "名前が空白です."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:139
+msgid "Invalid URL."
+msgstr "URLが正しくありません."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:140
+msgid "User account was not found."
+msgstr "ユーザーアカウントが見つかりませんでした."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:141
+msgid "Blank authorization level."
+msgstr "認証レベルが空白です."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:142
+msgid "Invalid authorization level."
+msgstr "認証レベルが無効です."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:143
+msgid "User account was not specified."
+msgstr "ユーザーアカウントが指定されていません."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:144
+msgid "You cannot delete your own account."
+msgstr "自分のアカウントを削除することはできません."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:145
+msgid "No account selected."
+msgstr "アカウントが選択されていません."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:146
+msgid "Invalid account."
+msgstr "アカウントが無効です."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:147
+msgid "No admin name specified."
+msgstr "管理者名が指定されていません."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:148
+msgid "No admin email address specified."
+msgstr "管理者のメールアドレスが指定されていません."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:149
+msgid "Admin email address is invalid."
+msgstr "管理者のメールアドレスが無効です."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:154
+msgid "Legal Info"
+msgstr "法律情報"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:157
+msgid "Privacy Policy"
+msgstr "個人情報保護方針"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:160
+msgid "First Page"
+msgstr "最初のページ"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:161
+msgid "Last Page"
+msgstr "最後のページ"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:162
+msgid "Next Page"
+msgstr "次のページ"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:163
+msgid "Previous Page"
+msgstr "前のページ"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:164
+msgid "Page"
+msgstr "ページ"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:172
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:715
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1129
+#: trunk/nagiosfusion/basedir/html/loginsplash.inc.php:36
+#: trunk/nagiosfusion/basedir/html/about/main.php:79
+#: trunk/nagiosfusion/basedir/html/login.php:255
+msgid "Email"
+msgstr "メール"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:174
+#: trunk/nagiosfusion/basedir/html/admin/components.php:242
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:522
+msgid "Date"
+msgstr "日付"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:175
+msgid "Result"
+msgstr "結果"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:176
+msgid "File"
+msgstr "ファイル"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:178
+msgid "Snapshot Result"
+msgstr "スナップショット結果"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:179
+#: trunk/nagiosfusion/basedir/html/admin/components.php:240
+msgid "Version"
+msgstr "バージョン"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:187
+msgid "The page that went missing was: "
+msgstr "不足しているページ："
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:188
+msgid ""
+"We're currently working on this feature.  Until it's completed, you can't "
+"have it!  Seriously though - just sit tight for a while and we'll get it "
+"done."
+msgstr "現在、この機能に取り組んでいます. 今後、それを完了させる予定です."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:191
+msgid "Forgot your password?"
+msgstr "パスワードをお忘れですか？"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:192
+msgid "You have logged out."
+msgstr "ログアウトしました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:193
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:635
+msgid "Try Again"
+msgstr "再試行"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:196
+msgid "Administrator Password"
+msgstr "管理者パスワード"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:198
+msgid "Query"
+msgstr "クエリー"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:202
+msgid "Menu"
+msgstr "メニュー"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:203
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:578
+msgid "Settings Updated."
+msgstr "設定が更新されました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:204
+msgid "Yes"
+msgstr "Yes"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:205
+msgid "No"
+msgstr "No"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:206
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:207
+msgid "Options Updated."
+msgstr "オプションが更新されました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:208
+msgid "User Updated."
+msgstr "ユーザーが更新されました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:209
+msgid "User Added."
+msgstr "ユーザが追加されました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:210
+msgid "User Deleted."
+msgstr "ユーザーが削除されました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:211
+msgid "Users Deleted."
+msgstr "ユーザーが削除されました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:212
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:567
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:568
+msgid "Add New User"
+msgstr "新規ユーザーの追加"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:213
+msgid "Your session has timed out."
+msgstr "セッションがタイムアウトしました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:214
+msgid "Search..."
+msgstr "検索..."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:215
+msgid "With Selected:"
+msgstr "選択済み："
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:216
+msgid "Check Now"
+msgstr "今すぐ確認"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:217
+msgid "Your version is up to date."
+msgstr "最新バージョンです."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:218
+msgid "An update is available."
+msgstr "アップデートが入手可能です."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:219
+msgid "New version information"
+msgstr "新バージョン情報"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:220
+msgid "Your current version"
+msgstr "現在のバージョン"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:221
+msgid "Notices"
+msgstr "通知"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:226
+msgid "Per Page"
+msgstr "件"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:228
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:229
+msgid "N/A"
+msgstr "N/A"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:238
+msgid "total records"
+msgstr "レコード総数"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:239
+msgid "total matches for"
+msgstr "一致総数"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:240
+msgid "Showing"
+msgstr "表示"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:241
+msgid "of"
+msgstr "of"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:242
+msgid "You are currently running"
+msgstr "実行しています"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:243
+msgid "was released on"
+msgstr "がリリースされました"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:249
+msgid ""
+"The page you requested seems to be missing.  It is theoretically possible - "
+"though highly unlikely - that we are to blame for this.  It is far more "
+"likely that something is wrong with the Universe.  Run for it!"
+msgstr "リクエストしたページは、なくなっているようです."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:250
+msgid "Enter your username to have your password reset and emailed to you."
+msgstr "パスワードをリセットしメールを送信するユーザー名を入力してください."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:251
+msgid "Your account password has been reset and emailed to you."
+msgstr "アカウントのパスワードがリセットされて、メールが送信されました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:252
+msgid "Nagios Reports is already installed and up-to-date."
+msgstr "Nagiosレポートは既にインストールされ、最新の状態です."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:253
+msgid ""
+"Your installation requires an upgrade.  Click the button below to begin."
+msgstr "インストールはアップグレードが必要です. 開始するには、以下のボタンをクリックしてください."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:254
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:256
+msgid "One or more errors were encountered:"
+msgstr "1つ以上のエラーが発生しました："
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:255
+msgid ""
+"Nagios Reports has not yet been setup.  Complete the form below to install "
+"it."
+msgstr "Nagiosレポートまだセットアップされていません. インストールするには、以下のフォームに記入します."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:257
+msgid ""
+"One or more fatal errors were encountered during the installation process:"
+msgstr "インストール処理中に1つ以上の致命的なエラーがが発生しました： "
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:258
+msgid "Upgrade is complete!"
+msgstr "アップグレードが完了しました!"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:259
+msgid ""
+"Installation is complete!  You can now login with the following credentials:"
+msgstr "インストールが完了しました！これで、次の認証情報を使用してログインすることができます."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:260
+msgid "An error occurred while executing the following SQL query."
+msgstr "次のSQLクエリーを実行中にエラーが発生しました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:261
+msgid "Unable to connect to database"
+msgstr "データベースに接続できません"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:262
+msgid "You are required to change your password before proceeding."
+msgstr "続行する前にパスワードを変更する必要があります."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:263
+msgid ""
+"We love input!  Tell us what you think about this product and you'll "
+"directly drive future innovation!"
+msgstr "この製品のご意見をお聞かせください、今後のイノベーションに役立てます！"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:264
+msgid "Please wait..."
+msgstr "しばらくお待ちください..."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:265
+msgid ""
+"Thanks for helping to make this product better!  We'll review your comments "
+"as soon as we get a chance.  Until then, kudos to you for being awesome and "
+"helping drive innovation!<br><br>   - The Dedicated Team @ Nagios "
+"Enterprises"
+msgstr ""
+"製品の改善にご協力いただき、ありがとうございます. できるだけはやくあなたのコメントを確認します. <br><br> -  Nagios "
+"Enterprises専門チーム"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:266
+msgid "An error occurred.  Please try again later."
+msgstr "エラーが発生しました. 後でやり直してください."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:275
+msgid "Nagios Fusion Password Reset"
+msgstr "Nagios Fusionパスワードがリセットされました"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:276
+msgid "Nagios Fusion Password Changed"
+msgstr "Nagios Fusionパスワードが変更されました"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:277
+msgid "Nagios Fusion Account Created"
+msgstr "Nagios Fusionアカウントが作成されました"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:279
+#, php-format
+msgid ""
+"Your Nagios Fusion account password has been reset to:\n"
+"\n"
+"%s\n"
+"\n"
+"You can login to Nagios Fusion at the following URL:\n"
+"\n"
+"%s\n"
+"\n"
+msgstr ""
+"Nagios Fusionアカウントのパスワードが次にリセットされました：\n"
+"\n"
+"%s\n"
+"\n"
+"次のURLでNagios Fusionにログインできます：\n"
+"\n"
+"%s\n"
+"\n"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:281
+#, php-format
+msgid ""
+"Your Nagios Fusion account password has been changed by an administrator.  You can login using the following information:\n"
+"\n"
+"Username: %s\n"
+"Password: %s\n"
+"URL: %s\n"
+"\n"
+msgstr ""
+"あなたのNagios Fusionアカウントのパスワードは、管理者によって変更されました. 次の情報でログインできます：\n"
+"\n"
+"ユーザー名: %s\n"
+"パスワード: %s\n"
+"URL: %s\n"
+"\n"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:283
+#, php-format
+msgid ""
+"An account has been created for you to access Nagios Fusion.  You can login using the following information:\n"
+"\n"
+"Username: %s\n"
+"Password: %s\n"
+"URL: %s\n"
+"\n"
+msgstr ""
+"Nagios Fusionにアクセスするためのアカウントが作成されました. 次の情報でログインできます：\n"
+"\n"
+"ユーザー名: %s\n"
+"パスワード: %s\n"
+"URL: %s\n"
+"\n"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:296
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:471
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:538
+msgid "Delete"
+msgstr "削除"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:297
+msgid "Clear Search Criteria"
+msgstr "検索条件をクリア"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:299
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:914
+msgid "Permissions"
+msgstr "アクセス権"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:300
+msgid "Customize Permissions"
+msgstr "アクセス権のカスタマイズ"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:301
+msgid "Masquerade As"
+msgstr "マスカレード"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:302
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:536
+msgid "View"
+msgstr "ビュー"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:303
+msgid "Popout"
+msgstr "ポップアウト"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:304
+msgid "Add to My Views"
+msgstr "マイビューに追加"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:305
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:412
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:418
+msgid "Add View"
+msgstr "ビューの追加"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:306
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:425
+msgid "Edit View"
+msgstr "ビューの編集"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:307
+msgid "Delete View"
+msgstr "ビューの削除"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:308
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:406
+msgid "Send Us Feedback"
+msgstr "フィードバックを送る"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:309
+msgid "Get Permalink"
+msgstr "パーマリンクを取得"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:310
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:537
+msgid "Download"
+msgstr "ダウンロード"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:311
+msgid "View Output"
+msgstr "出力の表示"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:312
+msgid "View Host Notifications"
+msgstr "ホスト通知の表示"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:313
+msgid "View Current Host Status"
+msgstr "現在のホストステータスを表示"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:314
+msgid "View Current Status of Host Services"
+msgstr "現在のホストサービスのステータスを表示"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:315
+msgid "View Service Notifications"
+msgstr "サービス通知を表示"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:316
+msgid "View Current Service Status"
+msgstr "現在のサービスステータスを表示"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:317
+msgid "View Current Status For Host Services"
+msgstr "現在のホストサービスのステータスを表示"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:318
+msgid "View Host History"
+msgstr "ホスト履歴を表示"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:319
+msgid "View Service History"
+msgstr "サービス履歴を表示"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:320
+msgid "View Host Trends"
+msgstr "ホストの傾向を表示"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:321
+msgid "View Service Trends"
+msgstr "サービスの傾向を表示"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:322
+msgid "View Host Availability"
+msgstr "ホストの可用性を表示"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:323
+msgid "View Service Availability"
+msgstr "サービスの可用性を表示"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:324
+msgid "View Host Alert Histogram"
+msgstr "ホストアラートヒストグラム"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:325
+msgid "View Service Alert Histogram"
+msgstr "サービスアラートヒストグラム"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:326
+msgid "Refresh"
+msgstr "リフレッシュ"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:327
+msgid "Force Refresh"
+msgstr "強制リフレッシュ"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:328
+msgid "Clear Filter"
+msgstr "フィルタのクリア"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:329
+msgid "Edit Settings"
+msgstr "設定の編集"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:335
+msgid "YYYY-MM-DD HH:MM:SS"
+msgstr "YYYY-MM-DD HH:MM:SS"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:336
+msgid "MM/DD/YYYY HH:MM:SS"
+msgstr "MM/DD/YYYY HH:MM:SS"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:337
+msgid "DD/MM/YYYY HH:MM:SS"
+msgstr "DD/MM/YYYY HH:MM:SS"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:343
+msgid "1000.00"
+msgstr "1000.00"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:344
+msgid "1,000.00"
+msgstr "1,000.00"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:345
+msgid "1.000,00"
+msgstr "1.000,00"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:346
+msgid "1 000,00"
+msgstr "1 000,00"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:347
+msgid "1'000,00"
+msgstr "1'000,00"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:354
+msgid "Host Group"
+msgstr "ホストグループ"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:356
+msgid "Service Group"
+msgstr "サービスグル​​ープ"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:357
+msgid "Host Escalation"
+msgstr "ホストエスカレーション"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:358
+msgid "Service Escalation"
+msgstr "サービスエスカレーション"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:359
+msgid "Host Dependency"
+msgstr "ホスト依存関係"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:360
+msgid "Service Dependency"
+msgstr "サービス依存関係"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:361
+msgid "Timeperiod"
+msgstr "期間"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:363
+msgid "Contact Group"
+msgstr "連絡先グループ"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:364
+msgid "Command"
+msgstr "コマンド"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:367
+msgid "Host Groups"
+msgstr "ホストグループ"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:369
+msgid "Service Groups"
+msgstr "サービスグル​​ープ"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:370
+msgid "Host Escalations"
+msgstr "ホストエスカレーション"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:371
+msgid "Service Escalations"
+msgstr "サービスエスカレーション"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:372
+msgid "Host Dependencies"
+msgstr "ホスト依存関係"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:373
+msgid "Service Dependencies"
+msgstr "サービス依存関係"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:374
+msgid "Timeperiods"
+msgstr "期間"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:375
+msgid "Contacts"
+msgstr "連絡先"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:376
+msgid "Contact Groups"
+msgstr "連絡先グループ"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:377
+msgid "Commands"
+msgstr "コマンド"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:395
+msgid "Hard"
+msgstr "ハード"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:396
+msgid "Soft"
+msgstr "ソフト"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:398
+msgid "Passive"
+msgstr "パッシブ"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:399
+msgid "Active"
+msgstr "アクティブ"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:408
+msgid "An error occurred processing your request. :-("
+msgstr "リクエストの処理中にエラーが発生しました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:409
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:641
+msgid "Please Wait"
+msgstr "お待ちください"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:410
+msgid "Processing..."
+msgstr "処理中..."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:413
+msgid "Use this to add what you see on the screen to your <b>Views</b> page."
+msgstr "<b>ビュー</b>ページにこの画面で閲覧したものを追加します."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:414
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:420
+msgid "View Added"
+msgstr "ビュー追加"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:415
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:421
+msgid "Success! Your view was added to your <b>Views</b> page."
+msgstr "成功！<b>ビュー</b>ページにビューが追加されました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:416
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:423
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:430
+msgid "View Title"
+msgstr "ビュータイトル"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:422
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:429
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:434
+msgid "URL"
+msgstr "URL"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:427
+msgid "View Changed"
+msgstr "ビューの変更"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:428
+msgid "Success! Your view was updated successfully."
+msgstr "成功！ビューが正常に更新されました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:432
+msgid "Permalink"
+msgstr "パーマリンク"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:433
+msgid "Copy the URL below to retain a direct link to your current view."
+msgstr "現在のビューへの直接リンクを保持するには、以下のURLをコピーします."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:437
+msgid "No Views Defined"
+msgstr "定義済みのビューがありません"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:438
+msgid "You have no views defined."
+msgstr "ビューが定義されていません."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:441
+msgid "No Dashboards Defined"
+msgstr "定義済みのダッシュボードがありません"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:442
+msgid "You have no dashboards defined."
+msgstr "ダッシュボードが定義されていません."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:444
+msgid "Add A New Dashboard"
+msgstr "新しいダッシュボードの追加"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:445
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:460
+msgid "Edit Dashboard"
+msgstr "ダッシュボードの編集"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:446
+msgid "Delete Dashboard"
+msgstr "ダッシュボードの削除"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:448
+msgid "Pause"
+msgstr "一時停止"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:452
+msgid ""
+"The following dashlets can be added to any one or more of your dashboards.  "
+"How awesome!"
+msgstr "以下のダシュレットは、1つ以上のダッシュボードに追加することができます."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:454
+msgid "Add Dashboard"
+msgstr "ダッシュボードの追加"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:455
+msgid "Use this to add a new dashboard to your <b>Dashboards</b> page."
+msgstr "新しいダッシュボードを<b>ダッシュボード</b>ページに追加します."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:456
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:464
+msgid "Dashboard Title"
+msgstr "ダッシュボードタイトル"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:457
+msgid "Dashboard Added"
+msgstr "ダッシュボードが追加されました"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:458
+msgid "Success! Your new dashboard has been added."
+msgstr "成功！新しいダッシュボードが追加されました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:462
+msgid "Dashboard Changed"
+msgstr "ダッシュボードの変更"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:463
+msgid "Success! Your dashboard was updated successfully."
+msgstr "成功！ダッシュボードが正常に更新されました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:466
+msgid "Confirm Dashboard Deletion"
+msgstr "ダッシュボードの削除を確認"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:467
+msgid ""
+"Are you sure you want to delete this dashboard and all dashlets it contains?"
+msgstr "このダッシュボードとそれに含まれるすべてのダッシュレットを削除してもよろしいですか？"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:468
+msgid "Dashboard Deleted"
+msgstr "ダッシュボードが削除されました"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:469
+msgid "The requested dashboard has been deleted.  Good riddance!"
+msgstr "要求されたダッシュボードが削除されました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:473
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:474
+msgid "Bad Dashboard"
+msgstr "バッドダッシュボード"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:475
+msgid "Unfortunately for you, that dashboard is not valid...  Too bad."
+msgstr "残念ですが、このダッシュボードは無効です ... "
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:477
+msgid "View Deleted"
+msgstr "ビューが削除されました"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:478
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:507
+msgid "Good riddance!"
+msgstr "処理が成功しました"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:480
+msgid "Add To Dashboard"
+msgstr "ダッシュボードへ追加"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:481
+msgid ""
+"Add this powerful little dashlet to one of your dashboards for visual "
+"goodness."
+msgstr "このダッシュレットをあなたのダッシュボードに追加します."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:482
+msgid "Dashlet Title"
+msgstr "ダッシュレットタイトル"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:484
+msgid "Dashlet Added"
+msgstr "ダッシュレットの追加"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:485
+msgid ""
+"The little dashlet that could will now be busy at work on your dashboard..."
+msgstr "ダッシュレットをダッシュボードに追加しています..."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:486
+msgid "Which Dashboard?"
+msgstr "追加するダッシュボード"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:491
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:492
+msgid "Addons"
+msgstr "アドオン"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:494
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:496
+msgid "No View"
+msgstr "ビューなし"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:495
+msgid "There is no active view to delete."
+msgstr "削除するためのアクティブなビューがありません."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:497
+msgid "There is no active view to edit."
+msgstr "編集するためのアクティブなビューがありません."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:499
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:501
+msgid "No Dashboard"
+msgstr "ダッシュボードがありません"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:500
+msgid "There is no active dashboard to delete."
+msgstr "削除するアクティブなダッシュボードはありません."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:502
+msgid "There is no active dashboard to edit."
+msgstr "編集するアクティブなダッシュボードはありません."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:504
+msgid "Add It"
+msgstr "追加"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:506
+msgid "Dashlet Deleted"
+msgstr "ダッシュレットが削除されました"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:509
+msgid "Pin / Float Dashlet"
+msgstr "ダッシュレットの固定/固定解除"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:510
+msgid "Configure Dashlet"
+msgstr "ダッシュレットの設定"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:511
+msgid "Delete Dashlet"
+msgstr "ダッシュレットの削除"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:512
+msgid "Background Color"
+msgstr "背景色"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:517
+msgid "General Account Settings"
+msgstr "一般アカウント設定"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:520
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:521
+msgid "Notification Preferences"
+msgstr "通知設定"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:524
+msgid "Ignore Update Notices"
+msgstr "アップデートの通知を無視"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:525
+msgid "Changes are disabled while in demo mode."
+msgstr "デモモードでは、変更が無効になっています."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:527
+msgid "System Settings"
+msgstr "システム設定"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:528
+msgid "Automatically Check for Updates"
+msgstr "更新を自動的に確認する"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:536
+msgid "Server added."
+msgstr "サーバーが追加されました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:537
+msgid "Server updated."
+msgstr "サーバーが更新されました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:538
+msgid "Server deleted."
+msgstr "サーバーが削除されました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:539
+msgid "servers deleted."
+msgstr "サーバーが削除されました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:540
+msgid "Add a new server"
+msgstr "新規サーバーを追加"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:542
+msgid "Update Server"
+msgstr "サーバーを更新"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:543
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:545
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:546
+msgid "Add Server"
+msgstr "サーバーを追加"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:547
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:548
+msgid "Edit Server"
+msgstr "サーバーを編集"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:550
+msgid "Server Name"
+msgstr "サーバー名"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:551
+msgid "Server Address"
+msgstr "サーバーアドレス"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:552
+msgid "Public URL"
+msgstr "公開URL"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:553
+msgid "Internal URL"
+msgstr "内部URL"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:554
+#: trunk/nagiosfusion/basedir/html/config/main.php:83
+msgid "Server Type"
+msgstr "サーバーの種類"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:555
+msgid "Server Location"
+msgstr "サーバーの場所"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:556
+msgid "Server Notes"
+msgstr "サーバーのメモ"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:557
+msgid "Authentication Method"
+msgstr "認証方法"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:560
+msgid "Not Matching Records Found."
+msgstr "一致するレコードが見つかりません."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:562
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:603
+msgid "Clone"
+msgstr "クローン"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:564
+msgid "Masquerade Notice"
+msgstr "マスカレード通知"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:565
+msgid ""
+"You are about to masquerade as another user.  If you choose to continue you "
+"will be logged out of your current account and logged in as the selected "
+"user.  In the process of doing so, you may loose your admin privileges."
+msgstr ""
+"別ユーザーになり済まそうとしています. 続行する場合、現在のアカウントがログアウトされて選択したユーザーとしてログインされます. "
+"この処理中に、管理者権限を失う可能性があります."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:569
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:570
+msgid "Edit User"
+msgstr "ユーザーの編集"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:572
+msgid "General Settings"
+msgstr "一般設定"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:573
+msgid "Preferences"
+msgstr "優先"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:574
+msgid "Security Settings"
+msgstr "セキュリティ設定"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:576
+msgid "Program URL"
+msgstr "プログラムURL"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:580
+msgid "Administrator Name"
+msgstr "管理者名"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:581
+msgid "Administrator Email Address"
+msgstr "管理者のメールアドレス"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:585
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:586
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:587
+msgid "Clone User"
+msgstr "ユーザーのクローン"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:589
+msgid "User cloned."
+msgstr "ユーザーがクローンされました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:591
+msgid ""
+"Use this functionality to create a new user account that is an exact clone "
+"of another account on the system.  The cloned account will inherit all "
+"preferences, views, and dashboards of the original user."
+msgstr ""
+"システム上の別アカウントを正確にクローンして新しいユーザーを作成します. "
+"クローンされたアカウントは、元のユーザーのすべての設定、ビュー、ダッシュボードを継承します."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:595
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:596
+msgid "Monitoring Engine Status"
+msgstr "監視エンジンステータス"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:599
+msgid "You cannot delete your home page dashboard."
+msgstr "ホームページのダッシュボードを削除することはできません."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:601
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:605
+msgid "Clone Dashboard"
+msgstr "ダッシュボードのクローン\""
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:606
+msgid ""
+"Use this to make an exact clone of the current dashboard and all its "
+"wonderful dashlets."
+msgstr "現在のダッシュボードとそのすべてのダッシュレットの正確なクローンを作成するために使用します."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:607
+msgid "Dashboard Cloned"
+msgstr "ダッシュボードがクローンされました"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:608
+msgid "Dashboard successfully cloned."
+msgstr "ダッシュボードのクローンに成功しました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:609
+msgid "New Title"
+msgstr "新しいタイトル"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:612
+msgid ""
+"Deleting dashlets from the home page dashboard is disabled while in demo "
+"mode."
+msgstr "デモモードでは、ホームページダッシュボードからダッシュレットを削除できません."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:614
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:615
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1025
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1030
+msgid "Performance Graphs"
+msgstr "パフォーマンスグラフ"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:617
+msgid "There are no datasources to display for this service."
+msgstr "このサービスに表示するデータソースはありません."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:619
+msgid "Clear Date"
+msgstr "日付をリセット"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:620
+msgid ""
+"You are not authorized to access this feature.  Contact your Nagios Fusion "
+"administrator for more information, or to obtain access to this feature."
+msgstr ""
+"この機能にアクセスする権限がありません. 詳細について、またはこの機能へのアクセスを取得するには、Nagios "
+"Fusion管理者にお問い合わせください."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:622
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:623
+msgid "Reports"
+msgstr "レポート"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:627
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:628
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:634
+msgid "Apply Configuration"
+msgstr "設定を適用"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:630
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:631
+msgid "Applying Configuration"
+msgstr "設定を適用しています"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:632
+msgid ""
+"Use this feature to apply any outstanding configuration changes to Nagios "
+"Core.  Changes will be applied and the monitoring engine will be restarted "
+"with the updated configuration."
+msgstr "Nagios Coreに未処理の設定変更を適用します. 変更が適用され、監視エンジンが最新の構成で再起動されます."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:636
+msgid "Success!  Nagios Core was restarted with an updated configuration."
+msgstr "成功！Nagios Coreは最新の設定で再起動されました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:637
+msgid ""
+"An error occurred while attempting to apply your configuration to Nagios "
+"Core.  Monitoring engine configuration files have been rolled back to their "
+"last known good checkpoint."
+msgstr ""
+"Nagios Coreへの設定を適用しようとしたときにエラーが発生しました. "
+"監視エンジンの設定ファイルは、最後の既知のチェックポイントにロールバックされました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:638
+msgid "View configuration snapshots"
+msgstr "設定のスナップショットを表示"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:639
+msgid "View a snapshot of this configuration error"
+msgstr "この設定エラーのスナップショットを表示"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:642
+msgid "Submitting command"
+msgstr "コマンドを実行しています"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:644
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:645
+msgid "Help for Nagios Fusion"
+msgstr "Nagios Fusionのヘルプ"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:646
+msgid "Get Help Online"
+msgstr "オンラインヘルプ"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:647
+msgid "More Options"
+msgstr "その他のオプション"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:649
+#: trunk/nagiosfusion/basedir/html/loginsplash.inc.php:11
+#: trunk/nagiosfusion/basedir/html/login.php:230
+msgid "About Nagios Fusion"
+msgstr "Nagios Fusionについて"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:659
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:660
+msgid "Administration"
+msgstr "管理"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:663
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:664
+msgid "Host Status Detail"
+msgstr "ホストステータス詳細"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:665
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:666
+msgid "Service Status Detail"
+msgstr "サービスステータス詳細"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:667
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:668
+msgid "Service Group Status"
+msgstr "サービスグループステータス"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:669
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:670
+msgid "Host Group Status"
+msgstr "ホストグループステータス"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:677
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:678
+msgid "Open Problems"
+msgstr "未解決障害"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:679
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:680
+msgid "Host Problems"
+msgstr "ホスト障害"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:681
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:682
+msgid "Service Problems"
+msgstr "サービス障害"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:687
+msgid "Last Check"
+msgstr "前回のチェック"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:688
+msgid "Attempt"
+msgstr "試行"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:689
+msgid "Duration"
+msgstr "期間"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:690
+msgid "Status Information"
+msgstr "ステータス情報"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:696
+msgid "License Key"
+msgstr "ライセンスキー"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:699
+msgid "(Limited edition without support)"
+msgstr "（サポートなし限定版）"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:700
+msgid "Licensed"
+msgstr "ライセンスあり"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:702
+msgid "Your License Key"
+msgstr "ライセンスキー"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:703
+msgid "Update Key"
+msgstr "ライセンスの更新"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:704
+msgid "The license key you entered is not valid."
+msgstr "入力したライセンスキーが有効ではありません."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:705
+msgid "License key updated successfully"
+msgstr "ライセンスキーが正常に更新されました"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:706
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:707
+msgid "License Exceeded"
+msgstr "ライセンス超過"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:708
+msgid "You have exceeded your license, so this feature is not available."
+msgstr "ライセンスを超過しています. この機能は利用できません."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:712
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1120
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1121
+msgid "Notification Methods"
+msgstr "通知方法"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:713
+msgid ""
+"Specify the methods by which you'd like to receive alert messages.  "
+"<br><b>Note:</b>These methods are only used if you have <a "
+"href='notifyprefs.php'>enabled notifications</a> for your account."
+msgstr ""
+"アラートメッセージの受信方法を指定します. <br><b>注：</b>これらの方法は、アカウントの<a "
+"href='notifyprefs.php'>通知を有効</a>の場合にのみ使用されます."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:716
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1132
+msgid "Mobile Phone Text Message"
+msgstr "携帯電話のテキストメッセージ"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:717
+msgid "Enable Notifications"
+msgstr "通知を有効にする"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:718
+msgid ""
+"Choose whether or not you want to receive alert messages.  <br><b>Note:</b> "
+"You must specify which notification methods to use in the <a "
+"href='notifymethods.php'>notification methods</a> page."
+msgstr ""
+"アラートメッセージを受信するかどうかを選択します. <br><b>注：</b> <a "
+"\"href='notifymethods.php'>通知方法</a>ページで使用する通知方法を指定する必要があります."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:719
+msgid "Notification Status"
+msgstr "通知ステータス"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:720
+msgid "Mobile Phone Number"
+msgstr "携帯電話番号"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:721
+msgid "Mobile Phone Carrier"
+msgstr "携帯キャリア"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:722
+msgid "Invalid mobile phone number."
+msgstr "携帯電話番号が無効です."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:723
+msgid "Missing mobile phone number."
+msgstr "携帯電話番号が入力されていません."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:724
+msgid "Notification preferences updated."
+msgstr "通知設定を更新しました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:725
+msgid "Notification Types"
+msgstr "通知タイプ"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:726
+msgid "Select the types of alerts you'd like to receive."
+msgstr "受信したいアラートの種類を選択します."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:727
+msgid "Notification Times"
+msgstr "通知時刻"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:728
+msgid "Specify the times of day you'd like to receive alerts."
+msgstr "アラートを受信したい時刻を指定します."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:731
+msgid "Host Down"
+msgstr "ホスト停止"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:732
+msgid "Host Unreachable"
+msgstr "ホスト到達不能"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:733
+msgid "Host Flapping"
+msgstr "ホストフッラピング"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:734
+msgid "Host Downtime"
+msgstr "ホストダウンタイム"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:735
+msgid "Service Warning"
+msgstr "サービス警告"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:737
+msgid "Service Unknown"
+msgstr "サービス不明"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:738
+msgid "Service Critical"
+msgstr "サービスクリティカル"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:739
+msgid "Service Flapping"
+msgstr "サービスフッラピング"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:740
+msgid "Service Downtime"
+msgstr "サービスダウンタイム"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:742
+msgid "No notification methods selected."
+msgstr "通知方法が選択されていません."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:743
+msgid "One or more time ranges is invalid."
+msgstr "時間帯が不正です."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:744
+msgid "No mobile carrier selected."
+msgstr "携帯キャリアが選択されていません."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:757
+msgid "From"
+msgstr "From"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:758
+msgid "To"
+msgstr "To"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:760
+msgid "Can see all hosts and services"
+msgstr "すべてのホストとサービスを閲覧できる"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:761
+msgid "Can (re)configure hosts and services"
+msgstr "ホストとサービスを（再）設定できる"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:762
+msgid "Can control all hosts and services"
+msgstr "すべてのホストとサービスを制御できる"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:763
+msgid "Can see/control monitoring engine"
+msgstr "監視エンジンを表示/制御できる"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:764
+msgid "Can access advanced features"
+msgstr "高度な機能にアクセスできる"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:765
+msgid "Has read-only access"
+msgstr "読み取り専用アクセス"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:767
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:768
+msgid "Not Authorized"
+msgstr "許可されていない"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:769
+msgid ""
+"You are not authorized to view the requested object, or the object does not "
+"exist."
+msgstr "要求されたオブジェクトを表示する権限がないか、オブジェクトが存在しません."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:771
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:772
+msgid "Notification Messages"
+msgstr "通知メッセージ"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:773
+msgid ""
+"Use this feature to customize the content of the notification messages you "
+"receive."
+msgstr "受信する通知メッセージの内容をカスタマイズします."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:775
+msgid "Email Notifications"
+msgstr "メール通知"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:776
+msgid ""
+"Specify the format of the host and service alert messages you receive via "
+"email."
+msgstr "メール受信するホストとサービスのアラートッセージの形式を指定します."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:778
+msgid "Mobile Text Notifications"
+msgstr "携帯テキスト通知"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:779
+msgid ""
+"Specify the format of the host and service alert messages you receive via "
+"mobile text message."
+msgstr "携帯電話のテキストメッセージで受信するホストとサービスのアラートメッセージの形式を指定します."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:781
+msgid "Host Alert Subject"
+msgstr "ホストアラートの件名"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:782
+msgid "Host Alert Message"
+msgstr "ホストアラートのメッセージ"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:783
+msgid "Service Alert Subject"
+msgstr "サービスアラートの件名"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:784
+msgid "Service Alert Message"
+msgstr "サービスアラートのメッセージ"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:786
+msgid "You must agree to the license before using this software."
+msgstr "このソフトウェアを使用する前にライセンスに同意する必要があります."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:787
+msgid ""
+"I have read, understood, and agree to be bound by the terms of the license "
+"above."
+msgstr "上記のライセンス条件を読んで理解しました. 同意します."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:789
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:790
+msgid "License Agreement"
+msgstr "ライセンス契約"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:791
+msgid ""
+"You must agree to the Nagios Software License Terms and Conditions before "
+"continuing using this software."
+msgstr "このソフトウェアを使用する前に、Nagiosソフトウェアライセンス契約条件に同意する必要があります."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:793
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:794
+msgid "Nagios Fusion Installer"
+msgstr "Nagios Fusionインストーラー"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:795
+msgid ""
+"Welcome to the Nagios Fusion installation.  Just answer a few simple "
+"questions and you'll be ready to go."
+msgstr "Nagios Fusionのインストールへようこそ. いくつかの簡単な質問に答えると次に進む準備ができます."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:797
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:798
+msgid "Installation Complete"
+msgstr "インストレーションが完了しました"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:799
+msgid "Congratulations! You have successfully installed Nagios Fusion."
+msgstr "おめでとうございます！Nagios Fusionのインストールに成功しました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:802
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:803
+msgid "Configuration Options"
+msgstr "設定オプション"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:804
+msgid "What would you like to configure?"
+msgstr "何を設定しますか?"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:806
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:807
+msgid "Server Credentials"
+msgstr "サーバーの認証情報"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:808
+msgid ""
+"You must configure authentication credentials for each server you wish to "
+"access in Nagios Fusion.  To prevent a server from being displayed elsewhere"
+" in Fusion, uncheck the server's <i>Display</i> checkbox."
+msgstr ""
+"Nagios Fusionでアクセスしたいサーバーの認証情報を設定する必要があります. "
+"Fusionでサーバーを非表示にしたい場合は、サーバーの<i>表示</i> チェックボックスのチェックを外してください."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:810
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:811
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:817
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:822
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:825
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:828
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:831
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:834
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:837
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:838
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:846
+msgid "Monitoring Wizard"
+msgstr "監視ウィザード"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:814
+msgid "Next"
+msgstr "次"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:815
+msgid "Back"
+msgstr "戻る"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:818
+msgid "Monitoring Wizard - Step 1"
+msgstr "監視ウィザード - ステップ 1"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:820
+msgid ""
+"Monitoring wizards guide you through the process of monitoring devices, "
+"servers, applications, services, and more.  Select the appropriate wizard "
+"below to get started."
+msgstr ""
+"監視ウィザードはデバイス、サーバー、アプリケーション、サービスなどの監視プロセスをガイドします. 以下から適切なウィザードを選択して開始してください."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:823
+msgid "Monitoring Wizard - Step 2"
+msgstr "監視ウィザード - ステップ 2"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:826
+msgid "Monitoring Wizard - Step 3"
+msgstr "監視ウィザード - ステップ 3"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:829
+msgid "Monitoring Wizard - Step 4"
+msgstr "監視ウィザード - ステップ 4"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:832
+msgid "Monitoring Wizard - Step 5"
+msgstr "監視ウィザード - ステップ 5"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:835
+msgid "Monitoring Wizard - Final Step"
+msgstr "監視ウィザード - 最終ステップ"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:840
+msgid "Configuration Request Successful"
+msgstr "設定リクエストが成功しました"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:841
+msgid ""
+"Your configuration changes have been successfully applied to the monitoring "
+"engine."
+msgstr "設定の変更が監視エンジンに適用されました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:843
+msgid "Configuration Error"
+msgstr "設定エラー"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:844
+msgid ""
+"An error occurred while attempting to apply your configuration to the "
+"monitoring engine.  Contact your Nagios administrator if this problem "
+"persists."
+msgstr "監視エンジンに設定を適用しようとしたときにエラーが発生しました. この障害が解決しない場合は、Nagios管理者に問い合わせてください."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:847
+msgid "Monitoring Wizard - An Error Occurrred"
+msgstr "\"監視ウィザード -  エラーが発生しました"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:849
+msgid "Configuration Request Error"
+msgstr "設定リクエストエラー"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:850
+msgid ""
+"An error occurred while attempting to modify the monitoring engine.  This "
+"error occurred because the wizard attempted to modify hosts or services that"
+" you do not have permission for.  Contact your Nagios Fusion administrator "
+"for more information."
+msgstr ""
+"監視エンジンを変更中にエラーが発生しました. このエラーは、アクセス権限を持っていないホストまたはサービスを変更しようとしたために発生しました. "
+"詳細については、Nagios Fusion管理者に問い合わせください."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:852
+msgid "No wizard selected."
+msgstr "ウィザードが選択されていません."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:854
+msgid "Apply"
+msgstr "適用"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:855
+msgid "Run the Monitoring Wizard Again"
+msgstr "再度この監視ウィザードを実行する"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:857
+msgid "Apply Settings"
+msgstr "設定を適用"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:859
+msgid "Quick Find"
+msgstr "クイック検索"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:861
+msgid ""
+"<p>Manage your Fusion installation with the administrative options available"
+" to you in this section.  Make sure you complete any setup tasks that are "
+"shown below before using your Fusion installation.</p>"
+msgstr ""
+"<p>このセクションでは、管理オプションを使用してFusionインストレーションを管理します. "
+"Fusionを使用する前に、以下に記載されているすべてのセットアップ作業を完了させてください.</p>"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:863
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:864
+msgid "Security Credentials"
+msgstr "セキュリティ認証情報"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:866
+msgid ""
+"<p>Use this form to reset various internal security credentials used by your"
+" Fusion system.  This is an important step to ensure your Fusion system does"
+" not use default passwords or tokens, which may leave it open to a security "
+"breach.</p>"
+msgstr ""
+"<p>Fusionシステムで使用される様々な内部セキュリティ認証情報をリセットできます. "
+"これは、デフォルトのパスワードやトークンを使用しないようにするための重要なステップです. "
+"デフォルトのパスワードやトークンの使用はセキュリティ上の問題があります.</p>"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:868
+msgid "Component Credentials"
+msgstr "コンポーネントの認証情報"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:870
+msgid ""
+"The credentials listed below are used to manage various aspects of the "
+"Fusion system.  Remember these passwords!"
+msgstr "以下の認証情報は、Fusionシステムの様々な管理に使用されます.  これらのパスワードを忘れないでください！"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:872
+msgid "Sub-System Credentials"
+msgstr "サブシステムの認証情報"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:874
+msgid ""
+"<p>You do not need to remember the credentials below, as they are only used "
+"internally by the Fusion system.</p>"
+msgstr "<p>以下の認証情報はFusionシステムが内部で使用するため記憶する必要はありません.</p>"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:876
+msgid "Fusion Subsystem Ticket"
+msgstr "Fusionサブシステムのチケット"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:877
+msgid "Update Credentials"
+msgstr "認証情報を更新"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:878
+msgid "Current"
+msgstr "現在"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:879
+msgid "Config Manager Backend Password"
+msgstr "Config Managerのバックエンドのパスワード"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:880
+msgid "New Config Manager Admin Password"
+msgstr "新しいConfig Managerの管理者パスワード"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:881
+msgid "Admin Username"
+msgstr "管理者ユーザー名"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:883
+msgid "No subsystem ticket."
+msgstr "サブシステムのチケットが入力されていません."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:884
+msgid "No config backend password."
+msgstr "設定バックエンドのパスワードが入力されていません."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:886
+msgid "Security credentials updated successfully."
+msgstr "セキュリティ認証情報が正常に更新されました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:888
+msgid "Nagios Core Backend Password"
+msgstr "Nagios Coreバックエンドのパスワード"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:890
+msgid "No Nagios Core backend password."
+msgstr "Nagios Coreバックエンドのパスワードが入力されていません."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:892
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:893
+msgid "Audit Log"
+msgstr "監査ログ"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:894
+msgid ""
+"The audit log provides admins with a record of changes that occur on the "
+"Fusion system, which is useful for ensuring your organization meets "
+"compliance requirements."
+msgstr "監査ログはFusionシステム上で行われた変更の記録を管理者に提供します. これは組織のコンプライアンス要件を確保するために有用です."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:896
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:897
+msgid "Monitoring Configuration Snapshots"
+msgstr "監視設定のスナップショット"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:898
+msgid ""
+"The latest configuration snapshots of the Fusion monitoring engine are shown"
+" below.  Download the most recent snapshots as backups, or get vital "
+"information for troubleshooting configuration errors."
+msgstr ""
+"以下は、Fusion監視エンジンの最新の設定スナップショットです. "
+"最新のスナップショットをバックアップとしてダウンロードしたり、設定エラーのトラブルシューティングのために重要な情報を取得したりできます."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:900
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:901
+msgid "Monitoring Plugins"
+msgstr "監視プラグイン"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:902
+msgid ""
+"Manage the monitoring plugins and scripts that are installed on this system."
+"  Use caution when deleting plugins or scripts, as they may cause your "
+"monitoring system to generate errors."
+msgstr ""
+"このシステムにインストールされている監視プラグインとスクリプトを管理します. "
+"プラグインやスクリプトの削除は、監視システムにエラーを引き起こす可能性があるので注意してください."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:904
+msgid "Browse File"
+msgstr "ファイルを閲覧"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:905
+msgid "Upload A New Plugin"
+msgstr "新しいプラグインをアップロード"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:907
+msgid "New plugin was installed successfully."
+msgstr "新しいプラグインが正常にインストールされました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:908
+msgid ""
+"Plugin could not be installed - directory permissions may be incorrect."
+msgstr "プラグインをインストールできませんでした - ディレクトリのアクセス権限が正しくない可能性があります."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:910
+msgid "Plugin deleted."
+msgstr "プラグインが削除されました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:911
+msgid "Plugin delete failed - directory permissions may be incorrect."
+msgstr "プラグインの削除に失敗しました - ディレクトリのアクセス権限が正しくない可能性があります."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:912
+msgid "No plugin selected for upload."
+msgstr "アップロードするプラグインが選択されていません."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:915
+msgid "Owner"
+msgstr "所有者"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:916
+msgid "Group"
+msgstr "グループ"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:918
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:919
+msgid "Manage Configuration Wizards"
+msgstr "設定ウィザードを管理"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:920
+msgid ""
+"Manage the configuration wizards installed on this system.  You can find "
+"additional configuration wizards at <a "
+"href='http://exchange.nagios.org/directory/Addons/Configuration"
+"/Configuration-Wizards' target='_blank'>Nagios Exchange</a>.  Need a custom "
+"configuration wizard created for your organization?  <a "
+"href='http://www.nagios.com/contact/' target='_blank'>Contact us</a> for "
+"pricing information."
+msgstr ""
+"このシステムにインストールされている設定ウィザードを管理します. 追加の設定ウィザードは <a "
+"href='http://exchange.nagios.org/directory/Addons/Configuration"
+"/Configuration-Wizards' target='_blank'>Nagios Exchange</a> にあります.  "
+"組織のためにカスタム設定ウィザードの作成が必要ですか？ 価格については <a href='http://www.nagios.com/contact/'"
+" target='_blank'>こちらへ</a> お問い合わせください."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:922
+msgid "Upload A New Wizard"
+msgstr "新規ウィザードをアップロード"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:923
+msgid "Upload Wizard"
+msgstr "ウィザードをアップロード"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:925
+msgid "Wizard"
+msgstr "ウィザード"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:926
+msgid "Wizard Type"
+msgstr "ウィザードタイプ"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:928
+msgid "No wizard selected for upload."
+msgstr "アップロードするウィザードが選択されていません."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:929
+msgid "Wizard upload failed."
+msgstr "ウィザードのアップロードに失敗しました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:930
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:934
+msgid "Wizard scheduled for installation."
+msgstr "ウィザードのインストールが予定されました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:931
+msgid "Wizard installed."
+msgstr "ウィザードがインストールされました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:932
+msgid "Wizard installation failed."
+msgstr "ウィザードのインストールに失敗しました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:933
+msgid "Wizard packaging timed out."
+msgstr "ウィザードのパッケージングがタイムアウトしました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:935
+msgid "Wizard deleted."
+msgstr "ウィザードが削除されました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:936
+msgid "Wizard scheduled for deletion."
+msgstr "ウィザードが削除予定です."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:940
+msgid ""
+"Manage the dashlets installed on this system.  You can find additional "
+"dashlets at <a href='http://exchange.nagios.org/directory/Addons/Dashlets' "
+"target='_blank'>Nagios Exchange</a>.<br>Need a custom dashlet created for "
+"your organization?  <a href='http://www.nagios.com/contact/' "
+"target='_blank'>Contact us</a> for pricing information."
+msgstr ""
+"このシステムでインストール済みのダッシュレットを管理します. 追加のダッシュレットは <a "
+"href='http://exchange.nagios.org/directory/Addons/Dashlets' "
+"target='_blank'>Nagios Exchange</a> に見つかります.<br>カスタムダッシュレットの作成が必要ですか？ "
+"価格については<a href='http://www.nagios.com/contact/' target='_blank'>お問い合わせ</a> "
+"ください."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:944
+msgid "Upload a New Dashlet"
+msgstr "新しいダッシュレットをアップロード"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:945
+msgid "Upload Dashlet"
+msgstr "ダッシュレットをアップロード"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:947
+msgid "Dashlet"
+msgstr "ダッシュレット"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:949
+msgid "Dashlet scheduled for installation."
+msgstr "ダッシュレットのインストールが予定されました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:950
+msgid "Dashlet upload failed."
+msgstr "ダッシュレットのアップロードが失敗しました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:951
+msgid "Dashlet packaging timed out."
+msgstr "ダッシュレットのパッケージングがタイムアウトしました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:952
+msgid "Dashlet deleted."
+msgstr "ダッシュレットが削除されました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:953
+msgid "Dashlet scheduled for deletion."
+msgstr "ダッシュレットが削除予定です."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:954
+msgid "Dashlet installed."
+msgstr "ダッシュレットがインストールされました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:955
+msgid "Dashlet installation failed."
+msgstr "ダッシュレットのインストールに失敗しました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:959
+msgid ""
+"Manage the components installed on this system.  You can find additional "
+"dashlets at <a href='http://exchange.nagios.org/directory/Addons/Components'"
+" target='_blank'>Nagios Exchange</a>.<br>Need a custom component created to "
+"extend Nagios Fusion's capabilities?  <a "
+"href='http://www.nagios.com/contact/' target='_blank'>Contact us</a> for "
+"pricing information."
+msgstr ""
+"このシステムにインストール済みのコンポーネントを管理します. 追加のコンポーネントは <a "
+"href='http://exchange.nagios.org/directory/Addons/Components' "
+"target='_blank'>Nagios Exchange</a> に見つかります.<br>Nagios "
+"Fusionの機能を拡張するためにカスタムコンポーネントの作成が必要ですか?  価格については <a "
+"href='http://www.nagios.com/contact/' target='_blank'>お問合せ</a> ください."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:961
+msgid "Component deleted."
+msgstr "コンポーネントが削除されました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:962
+msgid "Component scheduled for delettion."
+msgstr "コンポーネントが削除予定です."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:963
+msgid "Component upload failed."
+msgstr "コンポーネントがアップロードに失敗しました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:964
+msgid "Component scheduled for installation."
+msgstr "コンポーネントのインストールが予定されました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:965
+msgid "Component installed."
+msgstr "コンポーネントがインストールされました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:966
+msgid "Component installation failed."
+msgstr "コンポーネントのインストールに失敗しました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:967
+msgid "Component packaging timed out."
+msgstr "コンポーネントのパッケージングがタイムアウトしました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:969
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:970
+msgid "Config snapshot deleted."
+msgstr "設定スナップショットが削除されました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:972
+msgid "Upload a New Component"
+msgstr "新しいコンポーネントをアップロード"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:973
+msgid "Upload Component"
+msgstr "コンポーネントをアップロード"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:979
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:980
+msgid "Component Configuration"
+msgstr "コンポーネントの設定"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:982
+msgid "Component settings updated."
+msgstr "コンポーネントの設定を更新しました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:984
+msgid "Error submitting command."
+msgstr "エラー：コマンド送信に失敗しました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:986
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:987
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:990
+msgid "Send Test Notifications"
+msgstr "テスト通知を送信"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:988
+msgid ""
+"Click the button below to send test notifications to your email and/or "
+"mobile phone."
+msgstr "メールおよび(または)携帯電話にテスト通知を送信するには以下のボタンをクリックします."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:992
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:993
+msgid "Mail Settings"
+msgstr "メール設定"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:994
+msgid ""
+"Modify the settings used by your Nagios Fusion system for sending "
+"informational messages.<br><b>Note:</b> Mail messages may fail to be "
+"delivered if your Fusion server does not have a valid DNS name."
+msgstr ""
+"アラートメールおよび情報メッセージを送信するためにNagios Fusionシステムが使用する設定を変更します. "
+"<br><b>注：</b>Fusionサーバが有効なDNS名を持っていない場合、メールの配信に失敗する可能性があります."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:996
+msgid "Mail settings updated."
+msgstr "メール設定が更新されました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:998
+msgid "General Mail Settings"
+msgstr "一般的なメール設定"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:999
+msgid "Mail Method"
+msgstr "メール方法"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1000
+msgid "Send Mail From"
+msgstr "メールの送信元"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1002
+msgid "SMTP Settings"
+msgstr "SMTP設定"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1005
+msgid "Port"
+msgstr "ポート"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1008
+msgid "Security"
+msgstr "セキュリティー"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1010
+msgid "No from address specified."
+msgstr "fromアドレスが指定されていません."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1011
+msgid "No SMTP host specified."
+msgstr "SMTPホストが指定されていません."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1012
+msgid "No SMTP port specified."
+msgstr "SMTPポートが指定されていません."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1014
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1015
+msgid "Test Email Settings"
+msgstr "メール設定のテスト"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1016
+msgid "Use this to test your mail settings."
+msgstr "メール設定をテストします."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1017
+msgid "Send Test Email"
+msgstr "テストメールを送信"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1019
+msgid "No performance graphs were found for this service."
+msgstr "このサービスのパフォーマンスグラフが見つかりませんでした. "
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1020
+msgid "No performance graphs were found for this host."
+msgstr "パフォーマンスグラフは、このホストで見つかりませんでした."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1022
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1027
+msgid "Overview"
+msgstr "概要"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1023
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1028
+msgid "Advanced"
+msgstr "詳細"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1032
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1033
+msgid "Monitoring Process"
+msgstr "監視プロセス"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1035
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1036
+msgid "Monitoring Performance"
+msgstr "監視パフォーマンス"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1039
+msgid "Your Comment"
+msgstr "コメント"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1041
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1042
+msgid "Network Outages"
+msgstr "ネットワーク停止"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1044
+msgid "View Hostgroup Overview"
+msgstr "ホストグループ概要を表示"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1045
+msgid "View Hostgroup Summary"
+msgstr "ホストグループのサマリを表示"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1046
+msgid "View Hostgroup Grid"
+msgstr "ホストグループのグリッドを表示"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1047
+msgid "View Hostgroup Service Details"
+msgstr "ホストグループのサービス詳細を表示"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1048
+msgid "View Hostgroup Commands"
+msgstr "ホストグループのコマンドを表示"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1050
+msgid "View Servicegroup Overview"
+msgstr "サービスグループの概要を表示"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1051
+msgid "View Servicegroup Summary"
+msgstr "サービスグループのサマリを表示"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1052
+msgid "View Servicegroup Grid"
+msgstr "サービスグループのグリッドを表示"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1053
+msgid "View Servicegroup Service Details"
+msgstr "サービスグループのサービス詳細を表示"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1054
+msgid "View Servicegroup Commands"
+msgstr "サービスグループのコマンドを表示"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1056
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1057
+msgid "Network Status Map"
+msgstr "ネットワークステータスマップ"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1059
+msgid "View Tree Map"
+msgstr "ツリーマップを表示"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1060
+msgid "View Balloon Map"
+msgstr "バルーンマップを表示"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1062
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1063
+msgid "Acknowledgements and Comments"
+msgstr "対応とコメント"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1065
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1066
+msgid "Confirm Service Deletion"
+msgstr "サービス削除の確認"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1067
+msgid ""
+"Are you sure you want to delete this service and remove it from the "
+"monitoring configuration?"
+msgstr "このサービスを削除し、監視設定から削除してもよろしいですか？"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1069
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1070
+msgid "Service Deletion Error"
+msgstr "サービスの削除エラー"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1072
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1073
+msgid "Service Deletion Scheduled"
+msgstr "サービス削除予定"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1075
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1076
+msgid "Confirm Host Deletion"
+msgstr "ホスト削除の確認"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1077
+msgid ""
+"Are you sure you want to delete this host and remove it from the monitoring "
+"configuration?"
+msgstr "このホストを削除し、監視設定から削除してもよろしいですか？"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1079
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1080
+msgid "Host Deletion Error"
+msgstr "ホストの削除エラー"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1082
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1083
+msgid "Host Deletion Scheduled"
+msgstr "ホストの削除予定"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1085
+msgid "Create as Monitoring Contact"
+msgstr "監視の連絡先を作成する"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1087
+msgid ""
+"Management of notification preferences is not available because your account"
+" is not configured to be a monitoring contact.  Contact your Nagios Fusion "
+"administrator for details."
+msgstr ""
+"アカウントが監視の連絡先として設定されていないため、通知設定を管理できません. 詳細については、Nagios Fusion管理者にお問い合わせください."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1088
+msgid ""
+"Management of notification preferences is not available for your account.  "
+"Contact your Nagios Fusion administrator for details."
+msgstr "ご利用のアカウントでは、通知設定の管理を利用できません. 詳細については、Nagios Fusion管理者にお問い合わせください."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1089
+msgid ""
+"Testing notification messages is not available for your account.  Contact "
+"your Nagios Fusion administrator for details."
+msgstr "ご利用のアカウントでは、通知メッセージのテストを利用できません, 詳細については、Nagios Fusion管理者にお問い合わせください."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1091
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1092
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1094
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1095
+msgid "Configure Service"
+msgstr "サービスの設定"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1097
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1098
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1100
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1101
+msgid "Configure Host"
+msgstr "ホストの設定"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1103
+msgid "Service Re-Configuration Successful"
+msgstr "サービスの再設定成功"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1104
+msgid "The service has successfully been re-configured with the new settings."
+msgstr "サービスが正常に新しい設定で再構成されました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1106
+msgid "Service Re-Configuration Failed"
+msgstr "サービスの再設定に失敗"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1107
+msgid ""
+"A failure occurred while attempting to re-configure the service with the new"
+" settings."
+msgstr "新しい設定でサービスの再設定中にエラーが発生しました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1110
+msgid "Host Re-Configuration Successful"
+msgstr "ホストの再設定成功"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1111
+msgid "The host has successfully been re-configured with the new settings."
+msgstr "ホストは正常に新しい設定で再構成されました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1113
+msgid "Host Re-Configuration Failed"
+msgstr "ホストの再設定に失敗"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1114
+msgid ""
+"A failure occurred while attempting to re-configure the host with the new "
+"settings."
+msgstr "新しい設定でサービスの再設定中にエラーが発生しました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1116
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1117
+msgid "Updates"
+msgstr "アップデート"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1118
+msgid ""
+"Ensure your IT infrastructure is monitored effectively by keeping up with "
+"the latest updates to Nagios Fusion.  Visit <a "
+"href='http://www.nagios.com/products/nagiosfusion/' "
+"target='_blank'>www.nagios.com</a> to get the latest versions of Nagios "
+"Fusion."
+msgstr ""
+"ITインフラストラクチャを最新版のNagios Fusionで効果的に監視していることを確認してください. Nagios Fusionの最新バージョンは"
+" <a href='http://www.nagios.com/products/nagiosfusion/' "
+"target='_blank'>www.nagios.com</a> から入手できます."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1122
+msgid ""
+"Select the methods by which you'd like to receive host and service alerts."
+msgstr "ホストとサービスのアラートを受信する方法を選択します."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1124
+msgid "Notification methods updated."
+msgstr "通知方法が更新されました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1126
+msgid "Built-In Notification Methods"
+msgstr "ビルトイン通知方法"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1127
+msgid "Additional Notification Methods"
+msgstr "追加の通知方法"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1130
+msgid "Receive alerts via email."
+msgstr "メールでアラートを受信します."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1133
+msgid "Receive text alerts to your cellphone."
+msgstr "携帯電話でテキストアラートを受信します."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1135
+msgid ""
+"No additional notification methods have been installed or enabled by the "
+"administrator."
+msgstr "追加の通知方法は、インストールされていないか、または管理者によって有効にされません."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1138
+msgid "Finish Upgrade"
+msgstr "アップグレード完了"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1142
+msgid ""
+"Your Nagios Fusion instance requires some modifications to complete the "
+"upgrade process.  Don't worry - its easy."
+msgstr "Nagios Fusionインスタンスは、アップグレードプロセスを完了するためにいくつかの変更が必要です. 心配いりません - 簡単です."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1144
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1145
+msgid "Upgrade Complete"
+msgstr "アップグレードが完了しました"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1146
+msgid ""
+"Congratulations!  Your Nagios Fusion upgrade has completed successfully."
+msgstr "おめでとうございます！Nagios Fusionのアップグレードが正常に完了しました."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1148
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1149
+msgid "Recurring Scheduled Downtime"
+msgstr "定期的なダウンタイムスケジュール"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1157
+msgid ""
+"These options allow you to configure a user account that should be used to "
+"automatically login visitors.  Visitors can logout of the default account "
+"and into their own if they wish."
+msgstr ""
+"ビジターが自動ログインに使用するユーザーアカウントを設定できます. "
+"ビジターは必要に応じてデフォルトのアカウントからログアウトし自身のアカウントでログインできます."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1158
+msgid "Auto-Login"
+msgstr "自動ログイン"
+
+#: trunk/nagiosfusion/basedir/html/install.php:95
+#: trunk/nagiosfusion/basedir/html/admin/globalconfig.php:211
+msgid "Timezone Settings"
+msgstr "タイムゾーン設定"
+
+#: trunk/nagiosfusion/basedir/html/install.php:98
+#: trunk/nagiosfusion/basedir/html/admin/globalconfig.php:214
+msgid "Timezone"
+msgstr "タイムゾーン"
+
+#: trunk/nagiosfusion/basedir/html/install.php:161
+msgid "Unable to get user id for admin account."
+msgstr "管理者アカウントのユーザーIDの取得に失敗しました."
+
+#: trunk/nagiosfusion/basedir/html/install.php:233
+msgid "You may now login to Nagios Fusion using the following credentials"
+msgstr "以下の認証情報を使用してNagios Fusionにログインできます"
+
+#: trunk/nagiosfusion/basedir/html/install.php:242
+msgid "Login to Nagios Fusion"
+msgstr "Nagios Fusionへログイン"
+
+#: trunk/nagiosfusion/basedir/html/help/main.php:49
+msgid "Get help for Nagios Fusion online."
+msgstr "Nagios Fusionオンラインヘルプを取得します."
+
+#: trunk/nagiosfusion/basedir/html/help/main.php:51
+msgid "Visit the Nagios Library"
+msgstr "Nagiosライブラリ"
+
+#: trunk/nagiosfusion/basedir/html/help/main.php:52
+msgid "Visit the Support Forum"
+msgstr "サポートフォーラム"
+
+#: trunk/nagiosfusion/basedir/html/help/main.php:53
+msgid "Visit the Support Wiki"
+msgstr "サポートWiki"
+
+#: trunk/nagiosfusion/basedir/html/help/main.php:61
+msgid "Learn more about Fusion and its capabilities."
+msgstr "Fusionとその機能について学習します."
+
+#: trunk/nagiosfusion/basedir/html/help/main.php:65
+msgid "Stay informed of the latest updates and happenings for Fusion."
+msgstr "最新のアップデートとFusionの最新情報を入手します."
+
+#: trunk/nagiosfusion/basedir/html/loginsplash.inc.php:13
+#: trunk/nagiosfusion/basedir/html/login.php:232
+msgid ""
+"Nagios Fusion is a powerful enterprise dashboard for visualizing IT "
+"infrastructure status and enabling faster problem resolution across an "
+"organization's entire IT infrastructure.\tFor more information on Nagios "
+"Fusion, visit"
+msgstr ""
+"Nagios Fusionは ITインフラのステータスを可視化する強力なエンタープライズレベルのダッシュボードです. "
+"組織全体のITインフラストラクチャに関する障害をすばやく解決できます."
+
+#: trunk/nagiosfusion/basedir/html/loginsplash.inc.php:16
+#: trunk/nagiosfusion/basedir/html/login.php:235
+msgid "Nagios Learning Opportunities"
+msgstr "Nagios学習の機会"
+
+#: trunk/nagiosfusion/basedir/html/loginsplash.inc.php:18
+#: trunk/nagiosfusion/basedir/html/login.php:237
+msgid "Learn about Nagios"
+msgstr "Nagiosについて学ぶ："
+
+#: trunk/nagiosfusion/basedir/html/loginsplash.inc.php:19
+#: trunk/nagiosfusion/basedir/html/login.php:238
+msgid "training"
+msgstr "トレーニング"
+
+#: trunk/nagiosfusion/basedir/html/loginsplash.inc.php:20
+#: trunk/nagiosfusion/basedir/html/login.php:239
+msgid "and"
+msgstr "と"
+
+#: trunk/nagiosfusion/basedir/html/loginsplash.inc.php:21
+#: trunk/nagiosfusion/basedir/html/login.php:240
+msgid "certification"
+msgstr "認定"
+
+#: trunk/nagiosfusion/basedir/html/loginsplash.inc.php:24
+#: trunk/nagiosfusion/basedir/html/login.php:243
+msgid ""
+"Want to learn about how other experts are utilizing Nagios?  Don't miss your"
+" chance to attend the next"
+msgstr "エキスパート達がどのようにNagiosを利用しているのか？次回のチャンスをお見逃しなく："
+
+#: trunk/nagiosfusion/basedir/html/loginsplash.inc.php:26
+#: trunk/nagiosfusion/basedir/html/login.php:245
+msgid "Nagios World Conference"
+msgstr "Nagios World Conference"
+
+#: trunk/nagiosfusion/basedir/html/loginsplash.inc.php:28
+#: trunk/nagiosfusion/basedir/html/about/main.php:71
+#: trunk/nagiosfusion/basedir/html/login.php:247
+msgid "Contact Us"
+msgstr "お問い合わせください"
+
+#: trunk/nagiosfusion/basedir/html/loginsplash.inc.php:30
+#: trunk/nagiosfusion/basedir/html/about/main.php:73
+#: trunk/nagiosfusion/basedir/html/login.php:249
+msgid "Have a question or technical problem? Contact us today"
+msgstr "質問や技術的な障害のお問い合わせ"
+
+#: trunk/nagiosfusion/basedir/html/loginsplash.inc.php:33
+#: trunk/nagiosfusion/basedir/html/about/main.php:76
+#: trunk/nagiosfusion/basedir/html/login.php:252
+msgid "Support"
+msgstr "サポート"
+
+#: trunk/nagiosfusion/basedir/html/loginsplash.inc.php:34
+#: trunk/nagiosfusion/basedir/html/about/main.php:77
+#: trunk/nagiosfusion/basedir/html/login.php:253
+msgid "Online Support Forum"
+msgstr "オンラインサポートフォーラム"
+
+#: trunk/nagiosfusion/basedir/html/loginsplash.inc.php:35
+#: trunk/nagiosfusion/basedir/html/about/main.php:78
+#: trunk/nagiosfusion/basedir/html/login.php:254
+msgid "Sales"
+msgstr "販売"
+
+#: trunk/nagiosfusion/basedir/html/loginsplash.inc.php:35
+#: trunk/nagiosfusion/basedir/html/about/main.php:78
+#: trunk/nagiosfusion/basedir/html/login.php:254
+msgid "Phone"
+msgstr "電話"
+
+#: trunk/nagiosfusion/basedir/html/loginsplash.inc.php:36
+#: trunk/nagiosfusion/basedir/html/about/main.php:79
+#: trunk/nagiosfusion/basedir/html/login.php:255
+msgid "Fax"
+msgstr "Fax"
+
+#: trunk/nagiosfusion/basedir/html/loginsplash.inc.php:37
+#: trunk/nagiosfusion/basedir/html/about/main.php:80
+#: trunk/nagiosfusion/basedir/html/login.php:256
+msgid "Web"
+msgstr "Web"
+
+#: trunk/nagiosfusion/basedir/html/about/main.php:61
+msgid "All rights reserved"
+msgstr "無断複写・転載を禁じます"
+
+#: trunk/nagiosfusion/basedir/html/about/main.php:64
+msgid "License"
+msgstr "ライセンス"
+
+#: trunk/nagiosfusion/basedir/html/about/main.php:67
+#: trunk/nagiosfusion/basedir/html/about/main.php:134
+msgid "Use of Nagios Fusion is subject to acceptance of the"
+msgstr "Nagios Fusionの使用は同意を必要とします："
+
+#: trunk/nagiosfusion/basedir/html/about/main.php:68
+#: trunk/nagiosfusion/basedir/html/about/main.php:135
+msgid "Nagios Software License Terms and Conditions"
+msgstr "Nagiosのソフトウェアライセンス規約"
+
+#: trunk/nagiosfusion/basedir/html/about/main.php:86
+msgid ""
+"We'd like to thank the many individuals, companies, partners, and customers who have shared their ideas \n"
+"\tand stories with us and participaged in developing some really great software solutions that have \n"
+"\tmade Nagios Fusion a possibility.  Neither Nagios Enterprises nor Nagios Fusion are necessarily endorsed \n"
+"\tby any of these parties - we just wanted to list them here as a public way of thanking them for the contributions they've made in various ways."
+msgstr ""
+"我々は、アイデアと物語を共有し、Nagios "
+"XIの可能性を本当に素晴らしいソフトウェアソリューションの開発に参加してくれる多くの個人、企業、パートナー、顧客に感謝しています. Nagios "
+"EnterprisesおよびNagios Fusionは必ずしもこれらの方々に承認いただいているわけではありません - "
+"我々は様々な方法で行っていただいた貢献をここで感謝したいと思います."
+
+#: trunk/nagiosfusion/basedir/html/about/main.php:93
+msgid ""
+"Some particular Open Source projects and development communities we'd like to thank include:<br>\n"
+"\tThe PHP development community, the MySQL and Postgres development communities, the ADODB project team, \n"
+"\tThe Jquery project team and expanded Jquery community, the PHPMailer team, the RRDTool project, and the \n"
+"\tentire Nagios Community and greater OSS community members who make great OSS solutions a possibility \n"
+"\tthrough their tireless contributions.  We just wanted to let you know that we think you rock."
+msgstr ""
+"いくつかの特定のオープンソースプロジェクトや開発コミュニティに感謝します:<br>\n"
+"\tPHP開発コミュニティ、MySQLとPostgres開発コミュニティ、ADODBプロジェクト・チーム、Jqueryプロジェクト・チームと拡張されたJqueryコミュニティfamfamfam.comのSilkアイコンセット、PHPMailerチーム、RRDToolプロジェクト、Nagios Coreプロジェクト、Nagios Pluginsプロジェクト、PNPプロジェクト、Nagvisプロジェクト、NagiosQLプロジェクト、Vartour Styleプロジェクト、F*Nagiosイメージ・パックの作成者、すべてのNagios Community、すばらしいOSSソリューションをたゆみない貢献を通じて可能性を作るOSSコミュニティのメンバー. "
+
+#: trunk/nagiosfusion/basedir/html/about/main.php:101
+msgid ""
+"\tWe'd like to give an extra special thanks to the individual founders and leaders of each OSS project mentioned \n"
+"\tabove.  We know that it takes a lot to build something that stands head and shoulders above the competition.  \n"
+"\tKudos for you to bringing awesomeness into the world."
+msgstr ""
+"\t上記のOSSプロジェクトの個々の創始者とリーダーに特別な感謝を贈ります. "
+"我々は、競合よりはるかに優れた何かを構築するのは簡単ではないことを知っています. "
+
+#: trunk/nagiosfusion/basedir/html/about/main.php:128
+#: trunk/nagiosfusion/basedir/html/about/main.php:171
+msgid "All rights reserved."
+msgstr "無断複写・転載を禁じます."
+
+#: trunk/nagiosfusion/basedir/html/about/main.php:138
+msgid "Disclaimer of Warranty"
+msgstr "保証の免責事項"
+
+#: trunk/nagiosfusion/basedir/html/about/main.php:141
+msgid ""
+"Nagios Fusion and all information, documentation, and software components contained in and \n"
+"\tdistributed with it are provided AS IS with NO WARRANTY OF ANY KIND, INCLUDING THE WARRANTY OF DESIGN, MERCHANTABILITY, AND FITNESS FOR A PARTICULAR PURPOSE."
+msgstr ""
+"Nagios "
+"Fusionに含まれるすべての情報、ドキュメント、およびソフトウェアコンポーネントは、設計の保証、商品性、特定目的への適合性を含め、いかなる種類の保証なしで、現状のまま提供されます."
+
+#: trunk/nagiosfusion/basedir/html/about/main.php:145
+msgid "Trademarks"
+msgstr "商標について"
+
+#: trunk/nagiosfusion/basedir/html/about/main.php:148
+msgid ""
+"Nagios, Nagios Fusion, Nagios XI, Nagios Core, and Nagios graphics are trademarks, servicemarks, \n"
+"\tregistered servicemarks or registered trademarks of Nagios Enterprises. All other trademarks, \n"
+"\tservicemarks, registered trademarks, and registered servicemarks mentioned herein may be the \n"
+"\tproperty of their respective owner(s).  Use of our trademarks is subject to Nagios Enterprises"
+msgstr ""
+"Nagios、Nagios Fusion、Nagios XI、Nagios Core、Nagios graphicsは、商標、ロゴ、Nagios "
+"Enterprisesの登録商標マークまたは登録商標です. "
+"ここに記載されているその他すべての商標、ロゴ、登録商標、登録商標マークは、該当するそれぞれの所有者の財産です. 当社商標の使用は、Nagios "
+"Enterprisesの対象となります"
+
+#: trunk/nagiosfusion/basedir/html/about/main.php:152
+msgid "Trademark Use Restrictions"
+msgstr "商標の使用制限"
+
+#: trunk/nagiosfusion/basedir/html/login.php:286
+msgid "Username/password match Nagios Fusion database information."
+msgstr "ユーザー名/パスワードがNagios Fusionデータベース情報に一致しました."
+
+#: trunk/nagiosfusion/basedir/html/login.php:290
+msgid "Username/password do not match data stored in Nagios Fusion database."
+msgstr "ユーザー名/パスワードがNagios Fusionデータベースに格納されたデータと一致しません."
+
+#: trunk/nagiosfusion/basedir/html/login.php:293
+msgid "Error running SQL query against NagiosFusion database."
+msgstr "Nagios FusionデータベースでSQLクエリーの実行時にエラーが発生しました."
+
+#: trunk/nagiosfusion/basedir/html/login.php:393
+msgid "The specified user account has been disabled or does not exist."
+msgstr "指定されたユーザーアカウントが無効になっているか、または存在しません."
+
+#: trunk/nagiosfusion/basedir/html/login.php:446
+msgid ""
+"The specified user account has not been setup in this application - contact "
+"your Nagios Fusion administrator."
+msgstr "指定されたユーザーアカウントは、このアプリケーションで設定されていません - Nagios Fusion管理者に問い合わせてください."
+
+#: trunk/nagiosfusion/basedir/html/login.php:453
+msgid ""
+"An error was encountered when looking up the user in the Nagios Fusion "
+"database."
+msgstr "Nagios Fusionデータベースでユーザーの検索中にエラーが発生しました."
+
+#: trunk/nagiosfusion/basedir/html/login.php:463
+msgid "Debug Information"
+msgstr "デバッグ情報"
+
+#: trunk/nagiosfusion/basedir/html/admin/components.php:110
+msgid "Get Components"
+msgstr "コンポーネントを取得"
+
+#: trunk/nagiosfusion/basedir/html/admin/components.php:244
+msgid "Author"
+msgstr "作成者"
+
+#: trunk/nagiosfusion/basedir/html/admin/components.php:246
+msgid "Website"
+msgstr "Webサイト"
+
+#: trunk/nagiosfusion/basedir/html/admin/components.php:253
+msgid "Core"
+msgstr "Core"
+
+#: trunk/nagiosfusion/basedir/html/admin/components.php:295
+msgid "Up to date"
+msgstr "最新"
+
+#: trunk/nagiosfusion/basedir/html/admin/components.php:578
+msgid ""
+"Could not download component version list from Nagios Server, check Internet"
+" Connnectivity"
+msgstr "Nagiosサーバーからコンポーネントのバージョンリストをダウンロードできません. インターネット接続できているか確認してください "
+
+#: trunk/nagiosfusion/basedir/html/admin/dashlets.php:102
+msgid "Get Dashlets"
+msgstr "ダッシュレットを取得"
+
+#: trunk/nagiosfusion/basedir/html/admin/dashlets.php:441
+msgid "Dashlet Versions Updated"
+msgstr "ダッシュレットのバージョンが更新されました"
+
+#: trunk/nagiosfusion/basedir/html/admin/dashlets.php:445
+msgid ""
+"Could not download dashlet version list from Nagios Server, check Internet "
+"Connnectivity"
+msgstr "Nagiosサーバーからダッシュレットバージョンをダウンロードできませんでした. インターネット接続を確認してください"
+
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:178
+msgid "This action is not available in Demo Mode."
+msgstr "このアクションは、デモモードで使用できません."
+
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:215
+msgid "<strong>The update was completed successfully!</strong>"
+msgstr "<strong>更新が正常に完了しました！</strong>"
+
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:220
+msgid ""
+"The update did not complete successfully. Please try updating manually."
+msgstr "更新が正常に完了しませんでした. 手動で更新を行ってください."
+
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:227
+msgid "Command not found."
+msgstr "コマンドが見つかりません."
+
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:301
+msgid ""
+"Are you sure you want to upgrade Nagios Fusion?\\n\\nWarning: Overwriting "
+"Fusion files ... Please make backups of any edited files before running this"
+" upgrade. Does not include components unless it's a core Fusion component."
+msgstr ""
+"Nagios Fusionのアップグレードを行いますか ?\\n\\n警告： Fusionファイルが上書きされます. "
+"このアップグレードを実行する前に編集したファイルをバックアップしてください. "
+"コアFusionコンポーネントでない限り、コンポーネントを含めないでください."
+
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:346
+msgid "View Update Log"
+msgstr "更新ログを表示する"
+
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:347
+msgid "Update Ran:"
+msgstr "更新実施："
+
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:348
+msgid "Update Status:"
+msgstr "更新ステータス："
+
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:374
+msgid "<strong>Please wait.</strong> Upgrade is starting..."
+msgstr "<strong>お待ちください.</strong> アップグレードが開始しています..."
+
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:400
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:509
+msgid "Go Back"
+msgstr "戻る"
+
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:403
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:507
+msgid "Complete Upgrade"
+msgstr "アップグレード完了"
+
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:470
+msgid "Checking..."
+msgstr "チェックしています..."
+
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:475
+msgid "Upgrade to Latest Version"
+msgstr "最新バージョンにアップグレード"
+
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:490
+msgid ""
+"<strong>Update in progress.</strong> Please wait. Update may take a few "
+"minutes."
+msgstr "<strong>更新中</strong> お待ちください. アップデートには数分かかる場合があります."
+
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:515
+msgid "Update History"
+msgstr "更新履歴"
+
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:516
+msgid "History of all updates performed from the Fusion web UI."
+msgstr "Fusion Webインターフェイスから実行されたすべての更新の履歴."
+
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:546
+msgid "No updates have been performed from the UI yet."
+msgstr "これまでにUIから更新が実行されたことはありません."
+
+#: trunk/nagiosfusion/basedir/html/admin/globalconfig.php:96
+msgid "You must set a theme"
+msgstr "テーマを設定する必要があります"
+
+#: trunk/nagiosfusion/basedir/html/admin/globalconfig.php:236
+msgid "Default Display/Theme Settings"
+msgstr "デフォルトの表示/テーマ設定"
+
+#: trunk/nagiosfusion/basedir/html/admin/globalconfig.php:239
+msgid "XI User Interface Theme"
+msgstr "XIユーザーインタフェースのテーマ"
+
+#: trunk/nagiosfusion/basedir/html/admin/globalconfig.php:242
+msgid "Classic XI"
+msgstr "Classic XI"
+
+#: trunk/nagiosfusion/basedir/html/admin/globalconfig.php:243
+msgid "XI 2014"
+msgstr "XI 2014"
+
+#: trunk/nagiosfusion/basedir/html/admin/globalconfig.php:248
+msgid "Highcharts Color Theme"
+msgstr "Highchartsカラーテーマ"
+
+#: trunk/nagiosfusion/basedir/html/admin/globalconfig.php:251
+msgid "Default (White)"
+msgstr "デフォルト（白）"
+
+#: trunk/nagiosfusion/basedir/html/admin/globalconfig.php:252
+msgid "Classic (Gray)"
+msgstr "クラッシック （グレー）"
+
+#: trunk/nagiosfusion/basedir/html/admin/globalconfig.php:257
+msgid "Use Highcharts for Perfdata Graphs"
+msgstr "PerfdataグラフでHighchartsを使用する"
+
+#: trunk/nagiosfusion/basedir/html/admin/autologin.php:93
+msgid "Auto-Login Settings"
+msgstr "自動ログイン設定"
+
+#: trunk/nagiosfusion/basedir/html/admin/autologin.php:99
+msgid "Enable Auto-Login"
+msgstr "自動ログインを有効にする"
+
+#: trunk/nagiosfusion/basedir/html/admin/autologin.php:108
+msgid "Account"
+msgstr "アカウント"
+
+#: trunk/nagiosfusion/basedir/html/admin/mailsettings.php:88
+msgid "Send A Test Email"
+msgstr "テストメールを送信"
+
+#: trunk/nagiosfusion/basedir/html/admin/testemail.php:70
+msgid "An email will be sent to"
+msgstr "メールが送信されます"
+
+#: trunk/nagiosfusion/basedir/html/admin/testemail.php:73
+msgid "Change your email address"
+msgstr "メールアドレスを変更する"
+
+#: trunk/nagiosfusion/basedir/html/admin/testemail.php:116
+msgid "Nagios XI Email Test"
+msgstr "Nagios XIメールテスト"
+
+#: trunk/nagiosfusion/basedir/html/admin/testemail.php:117
+msgid "This is a test email from Nagios XI"
+msgstr "これはNagios XIからのテストメールです"
+
+#: trunk/nagiosfusion/basedir/html/admin/testemail.php:129
+msgid "A test email was sent to"
+msgstr "テストメールが送信されました"
+
+#: trunk/nagiosfusion/basedir/html/admin/testemail.php:132
+msgid "Mailer said"
+msgstr "メーラーからの情報："
+
+#: trunk/nagiosfusion/basedir/html/admin/testemail.php:136
+msgid "An error occurred sending a test email!"
+msgstr "テストメールの送信時にエラーが発生しました"
+
+#: trunk/nagiosfusion/basedir/html/config/system_config.php:63
+msgid "Global system settings for Nagios Fusion"
+msgstr "Nagios Fusionのグローバルシステム設定"
+
+#: trunk/nagiosfusion/basedir/html/config/system_config.php:70
+msgid ""
+"The active interval is the frequency in seconds which Fusion polls the "
+"remote servers for data while actively being used"
+msgstr "アクティブ間隔はFusionがアクティブに使用されている間にリモートサーバーにデータをポーリングする頻度（秒）です"
+
+#: trunk/nagiosfusion/basedir/html/config/system_config.php:71
+msgid "Active Polling Interval"
+msgstr "アクティブポーリング間隔"
+
+#: trunk/nagiosfusion/basedir/html/config/system_config.php:72
+#: trunk/nagiosfusion/basedir/html/config/system_config.php:77
+msgid "seconds"
+msgstr "秒"
+
+#: trunk/nagiosfusion/basedir/html/config/system_config.php:74
+msgid ""
+"The passive interval is the frequency in seconds which Fusion polls the remote servers for data while the Fusion interface is not in use. \n"
+"\tSome components in Fusion will continue to aquire data for trending purposes"
+msgstr ""
+"パッシブ間隔はFusionインターフェースが使用されていない間にFusionがリモートサーバーにデータをポーリングする頻度（秒）です.\n"
+"\tFusionコンポーネントの中にはデータの取得を継続するものがあります"
+
+#: trunk/nagiosfusion/basedir/html/config/system_config.php:76
+msgid "Passive Polling Interval"
+msgstr "パッシブポーリング間隔"
+
+#: trunk/nagiosfusion/basedir/html/config/main.php:84
+msgid "Display"
+msgstr "表示"
+
+#: trunk/nagiosfusion/basedir/html/config/main.php:85
+msgid "Auth Type"
+msgstr "認証タイプ"
+
+#: trunk/nagiosfusion/basedir/html/config/main.php:89
+msgid "Auth Check"
+msgstr "認証チェック"
+
+#: trunk/nagiosfusion/basedir/html/config/main.php:99
+msgid "No fused servers have been defined"
+msgstr "Fusedサーバーが定義されていません"
+
+#: trunk/nagiosfusion/basedir/html/config/main.php:101
+msgid "Define fused servers now"
+msgstr "Fusedサーバーを定義する"
+
+#: trunk/nagiosfusion/basedir/html/config/servers.php:110
+msgid "Address"
+msgstr "アドレス"
+
+#: trunk/nagiosfusion/basedir/html/config/servers.php:111
+msgid "Authentication"
+msgstr "認証情報"
+
+#: trunk/nagiosfusion/basedir/html/config/servers.php:112
+msgid "Location"
+msgstr "場所"
+
+#: trunk/nagiosfusion/basedir/html/config/servers.php:298
+msgid "Nagios XI"
+msgstr "Nagios XI"
+
+#: trunk/nagiosfusion/basedir/html/config/servers.php:305
+msgid "Nagios Core"
+msgstr "Nagios Core"
+
+#: trunk/nagiosfusion/basedir/html/config/servers.php:336
+msgid "A friendly name associated with this server"
+msgstr "このサーバーに関連付けるわかりやすい名前"
+
+#: trunk/nagiosfusion/basedir/html/config/servers.php:346
+msgid "The IP address or FQDNS of the server"
+msgstr "このサーバーのIPアドレスまたはFQDNS"
+
+#: trunk/nagiosfusion/basedir/html/config/servers.php:366
+msgid "The type of monitoring server this is"
+msgstr "サーバーの監視タイプ"
+
+#: trunk/nagiosfusion/basedir/html/config/servers.php:386
+msgid "The authentication method used to access the server"
+msgstr "サーバーへのアクセスに使用する認証方法"
+
+#: trunk/nagiosfusion/basedir/html/config/servers.php:396
+#: trunk/nagiosfusion/basedir/html/config/servers.php:407
+msgid "The full URL used to access this"
+msgstr "アクセスに使用する完全URL"
+
+#: trunk/nagiosfusion/basedir/html/config/servers.php:396
+msgid "instance by a client's browser"
+msgstr "インスタンス（クライアントブラウザからのアクセス）"
+
+#: trunk/nagiosfusion/basedir/html/config/servers.php:397
+#: trunk/nagiosfusion/basedir/html/config/servers.php:408
+msgid "Example"
+msgstr "例"
+
+#: trunk/nagiosfusion/basedir/html/config/servers.php:407
+msgid ""
+"instance from the Nagios Fusion server (if different from the public URL)"
+msgstr "インスタンス（公開URLと異なる場合、Nagios Fusionサーバーからアクセス）"
+
+#: trunk/nagiosfusion/basedir/html/config/servers.php:418
+msgid "An optional text description of the location of this server"
+msgstr "サーバーの場所の説明（任意）"
+
+#: trunk/nagiosfusion/basedir/html/config/servers.php:430
+msgid "Optional notes about this server"
+msgstr "サーバーについてのメモ（任意）"
+
+#: trunk/nagiosfusion/basedir/html/dashboards/dashlets.php:53
+msgid "Need a custom dashlet created for your organization?  No problem!"
+msgstr "カスタムダッシュレットの作成が必要ですか？心配ありません!"
+
+#: trunk/nagiosfusion/basedir/html/dashboards/dashlets.php:54
+msgid "Contact us"
+msgstr "お問い合わせ"
+
+#: trunk/nagiosfusion/basedir/html/dashboards/dashlets.php:54
+msgid "for pricing information"
+msgstr ":　価格について"
+
+#: trunk/nagiosfusion/basedir/html/dashboards/index.php:47
+msgid "Untitled Dashboard"
+msgstr "無題ダッシュボード"
+
+#~ msgid ""
+#~ "The full URL used to access this Nagios Core or Nagios XI instance by a "
+#~ "client's browser"
+#~ msgstr "クライアントのブラウザによって、このNagiosのコアまたはNagiosのxiのインスタンスにアクセスするときに使用する完全なURL"
+
+#~ msgid ""
+#~ "The full URL used to access this Nagios Core or Nagios XI instance from the "
+#~ "Nagios Fusion server (if different from the public URL)"
+#~ msgstr ""
+#~ "Nagiosの融合サーバからこのNagiosのコアまたはNagiosのxiのインスタンスにアクセスするときに使用する完全なURL（パブリックURLと異なる場合）"
+
+#~ msgid "User Guide"
+#~ msgstr "ユーザーガイド"

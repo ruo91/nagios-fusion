@@ -1,0 +1,8 @@
+#!/bin/sh -e
+
+if [ -f /usr/local/nagiosfusion/var/fusionversion ]; then
+	grep release= /usr/local/nagiosfusion/var/fusionversion | cut -d = -f 2
+else
+	echo 0
+fi
+

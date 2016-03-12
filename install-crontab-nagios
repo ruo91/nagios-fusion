@@ -1,0 +1,8 @@
+#!/bin/sh
+
+crontab -l -u nagios | grep -v "/usr/local/nagiosfusion/" > /tmp/nagios.crontab.new
+cat nagiosfusion/crontab.nagios >> /tmp/nagios.crontab.new
+
+crontab -u nagios /tmp/nagios.crontab.new
+
+rm -f /tmp/nagios.crontab.new

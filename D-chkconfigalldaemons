@@ -1,0 +1,39 @@
+#!/bin/sh -e
+
+# Was previous step completed?
+if [ ! -f installed.crontabs ]; then
+	echo "Crontabs were not configured - run previous script" >&2
+	exit 1
+fi
+
+# Was this step already completed?
+if [ -f installed.chkconfig ]; then
+	echo "Daemons already configured - skipping."
+	exit 0
+fi
+
+#####################################
+## STARTUP SCRIPTS
+#####################################
+
+chkconfig --level 35 postgresql on
+chkconfig --level 35 httpd on
+
+#####################################
+## SHUTDOWN SCRIPTS
+#####################################
+
+chkconfig --level 01246 postgresql off
+chkconfig --level 01246 httpd off
+
+
+#####################################
+## MISC DAEMONS THAT NEEDS TO BE RUNNING
+#####################################
+
+/sbin/chkconfig crond on
+
+echo "Daemons configured to start OK"
+touch installed.chkconfig
+
+

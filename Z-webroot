@@ -1,0 +1,12 @@
+#!/bin/sh -e
+
+# Save old web root page
+if [ -f /var/www/html/index.html ]; then
+	mv -f /var/www/html/index.html /var/www/html/index.html.orig
+fi
+if [ -f /var/www/html/index.php ]; then
+	mv -f /var/www/html/index.php /var/www/html/index.php.orig
+fi
+
+# New web root index page
+cp nagiosfusion/webroot.php /var/www/html/index.php

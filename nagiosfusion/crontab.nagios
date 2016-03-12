@@ -1,0 +1,5 @@
+* * * * * /usr/bin/php -q /usr/local/nagiosfusion/cron/cmdsubsys.php > /usr/local/nagiosfusion/var/cmdsubsys.log 2>&1
+* * * * * /usr/bin/php -q /usr/local/nagiosfusion/cron/eventman.php > /usr/local/nagiosfusion/var/eventman.log 2>&1
+* * * * * /usr/bin/php -q /usr/local/nagiosfusion/cron/sysstat.php > /usr/local/nagiosfusion/var/sysstat.log 2>&1
+*/5 * * * * /usr/bin/php -q /usr/local/nagiosfusion/cron/dbmaint.php > /usr/local/nagiosfusion/var/dbmaint.log 2>&1
+*/5 * * * * /usr/bin/php -q /usr/local/nagiosfusion/cron/poller.php > /usr/local/nagiosfusion/var/poller.log 2>&1

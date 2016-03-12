@@ -1,0 +1,134 @@
+2014 R1.1 06/23/2015
+===============================
+- Added support for CentOS/RHEL 7 -JO
+- Fixed bug when clicking "Check For Updates Now" not actually updating the page's update dashlet -JO
+- Fixed links in hostgroup dashlet to go to proper XI page -JO
+- Fixed classic style gray graph option to properly change graphs (also fixed saving config options correctly) -JO
+- Fixed issue where log in was taking extremely long due to update checks being performed during login -JO
+- Fixed issue when saving new settings for profile/account info it would give an error and not save -JO
+- Fixed issue with sessions logging in -SW,JO
+- Fixed restore script to not use unzip, but tar like the backup script -JO
+- Fixed permalinks setting xiwindow variable instead of fusionwindow -SW
+- Fixed language names to be the actual names -JO
+- fixed encoding of form values -SW
+
+2014 R1.0 06/03/2014
+===============================
+- New theme for 2014 version of fusion that matches all Nagios products -JO
+- Updated highcharts to version 4.0.1 -JO
+- Added outlines to dashlets when being dragged -JO
+- Added saved user-based collapsible menus -SW
+- Added the ability to snap dashlets -JO
+- Added the ability to resize graph dashlets without refreshing page -JO
+- Added user-based saved collapsible menus -SW
+- Added the ability to set timezone in system config and on install -JO
+- Added the ability to perform Fusion updates from the web UI -JO
+- Added getting started dashlet for new users upon login -JO
+- Fixed printing pages with new 2014 Fusion style -JO
+- Fixed issues with visualization dashlets not displaying properly in dashboard -JO
+- Fixed broken links in help section -JO
+- Fixed display issues in TAC -SW
+- Fixed broken links using xiwindow instead of fusionwindow -JO
+- Fixed fusion backup script to create tars intead of zips and updated directory that stores backups -JO
+- Fixed time stacked graph's time period option to actually work -JO
+- Fixed graph dashlets to re-size when re-sized -JO
+- Fixed bug where graphs were not able to be zoomed in when in dashboards -JO
+- Fixed broken links in TAC -JO
+- Fixed page titles -JO
+- Fixed issue where logging in as user via admin would create a window in a window -JO
+- Removed the manual upgrade by logging out/in when upgrading -JO
+- Moved manage servers into the configure menu along with server credentials -JO
+
+2012 R1.8
+===============================
+- Fix broken options on Admin -> Manage System Config introduced with addition of 2014 theme options -SW
+
+2012 R1.7 01/20/2014
+===============================
+- Fixed bug that allows users to go to configure and change server login credentials -JO
+- Fixed bug where Nagios Core servers would not show "unreachable/timed out" in Tactical Overview -JO 
+
+2012 R1.6 08/27/2013
+===============================
+- Fix bug where XI sessions would timeout if you didn't change pages in Fusion -SW
+- Fix bug in Tactical overview where items under unreachable hosts were displaying after acknowledged -SW
+- Allow a locale to be passed to the login page to force a certain language upon login. login.php?locale=en_ES - MG
+- Bug fix for Fusion to work with Ubuntu's modified nagios3 package - MG
+- Added support for a custom port # to be in the Nagios server URLs (Patch by Tobias Lätsch and Severin LÄUPI) - MG
+
+2012 R1.5 01/17/2013
+===============================
+- Fixed bug that could stop installer if mysqld wasn't installed - MG
+- Fixed bug where CentOS and RHEL 5.x couldn't run poller because of a missing PHP class - MG
+- Fixed potential bug with top alert producers being empty - MG
+- Added default language POT file as well as kickstarted language files for multiple translations - MG
+- Added a "check for updates" feature for Fusion Components and Dashlets - SW
+
+2012 R1.4 12/17/2012
+===============================
+- Subsystem poller.log now displays total loop time to track iteration time -MG
+- Fixed bug with license agreement appearing on page twice for new users - MG
+- Fixed potential bug where XML errors could prevent alert histogram from displaying - MG
+- Added support for custom logo component - MG
+- Added gettext support for internationalization. - MG
+	- Default language files are in /usr/local/nagiosfusion/html/includes/lang/locale/default
+- Added support for a custom login splash page using the Fusion Custom Login component - MG	
+- Removed mysql related packages from prereqs since it is not used for Fusion - MG
+
+2012 R1.3 10/08/2012
+===============================
+- Modified session write process to substantially decrease load times for dashlets - MG
+- Fixed bug where deleted servers weren't being purged from the tactical data cache - MG
+- Added dashboard deployment as a built-in component - MG
+- Created server deletion callback so new components can clean out their own cached data - MG
+- Fixed bug with blue fullscreen triangle not resizing properly - MG
+- XI Session logins once happen once upon login instead of each time the top frame reloads - MG
+- Updated the subsystem poller to output the human readable names for the servers in the log - MG
+- Added a subsystem checked to the UI to make sure subsystem jobs are running on time - MG
+- Updated CSS to use the rounded corners with CSS3 standards - MG
+- Added System Status page to the admin menu - MG
+- Added subsystem status dashlet - MG
+- Added sysstat dashlet - MG
+- Added Automatic Login feature - MG
+
+2012 R1.2 08/09/2012
+===============================
+- Fixed jquery bug with draggable dashlets not dragging - MG
+- Added a sanity fix for users who failed to add trailing slash for the server address. - MG
+- Fixed bug with update check timing out - MG
+
+2012R1.1 06/28/2012
+===============================
+- Minor installer tweaks (selinux)
+- Added service status dashlet
+- XI Timeline and Timestacked graphs can resize vertically if using XI's graph explorer 1.3 component or later
+- Added support for LDAP and Proxy Components
+- Fixed timeline / time stack dashlet resizing bug
+- "Add Servers" page now auto selects authentication method to be either basic or session depending on server type
+- Fixed missing dashlet images and missing service status dashlet
+- Fixed undefined variables on users.php page 
+- Added missing images for dashlets 
+- Fix for DB cache update for tactical data, it will retry upon initial failure 
+- Fixed Jquery draggable bug for IE9
+
+2012 R1.0 (Beta) 06/06/2012
+===============================
+- Users now build their own home menu section as custom dashboards
+- Added subsystem polling process
+- Added active session detection
+- Fusion data polling now caches data locally to allow for more features and faster load times
+- global connection timeout variable can now be specified in /usr/local/nagiosfusion/config.inc.php for varying connection times
+	$cfg['default_timeout'] = 30;
+- Data polling / refresh rate can now be configured from the main Configure menu. 	
+- Removed support support for Nagios V-Shell for now
+
+**Features**
+- Added Tactical Summary Page / Dashlet
+- Added Fused Summary Dashlet
+- Added Recent Alerts Page / Dashlet
+- Added Top Alert Producers Page / Dashlet
+- Added Host/Service Health Visualizations
+- Added Alert Histogram Visualization
+- Added Nagios XI host / service status dashlets
+- Added Nagios XI Graph Explorer dashlets
+- Added Nagios XI Hostgroup / Servicegroup dashlsets

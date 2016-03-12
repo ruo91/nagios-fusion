@@ -1,0 +1,30 @@
+#!/bin/sh
+
+. ./fusion-sys.cfg
+
+# Was previous step completed?
+if [ ! -f installed.prereqs ]; then
+	echo "Prereqs were not installed - run previous script" >&2
+	exit 1
+fi
+
+# Was this step already completed?
+if [ -f installed.usersgroups ]; then
+	echo "Users/groups already configured - skipping."
+	exit 0
+fi
+
+
+##########################################
+# CREATE USERS AND GROUPS
+##########################################
+
+echo "Adding users and groups..."
+eval "$useraddbin" -n "$nagiosuser"
+eval "$groupaddbin" "$nagiosgroup"
+eval "$usermodbin" -a -G "$nagiosgroup" "$nagiosuser"
+eval "$usermodbin" -a -G "$nagiosgroup" "$apacheuser"
+
+echo "Users and groups added OK"
+touch installed.usersgroups
+

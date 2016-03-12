@@ -1,0 +1,4 @@
+/usr/local/nagiosfusion/var/*log {
+    missingok
+    notifempty
+}

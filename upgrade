@@ -1,0 +1,75 @@
+#!/bin/sh -e
+
+./init.sh
+. ./fusion-sys.cfg
+
+# Grag args
+arg=""
+while [ $# != 0 ]; do
+	arg="$1"
+	shift
+done
+
+# Get existing version ID
+oldversion=`./get-version`
+
+if [ $oldversion -eq 0 ]; then
+	echo "ERROR: Could not determine currently installed version of Nagios Fusion!"
+	exit
+fi
+
+echo "OLD VERSION: $oldversion"
+
+## VERSION-SPECIFIC FIXES ####################################
+
+if [ $oldversion -lt 200 ]; then
+	# Create Postgres db structure
+	echo "Updating postgres db structure..."
+	psql -U nagiosfusion nagiosfusion < nagiosfusion/schema.pgsql.sql
+fi
+
+##############End version specific fixes ####################
+
+# Install updated Nagios Fusion PHP files, scripts, etc. to /usr/local/nagiosfusion
+./install-html
+
+# Install Sourceguardian extension in PHP.ini and update loaders
+./install-sourceguardian-extension.sh
+
+# Update the crontabs
+echo "Updating crontabs..."
+./install-crontab-nagios
+./install-crontab-root
+
+# Fix/update sudoers
+./install-sudoers
+
+# Make sure latest prereqs are installed
+set -C
+if [ "$arg" != "noprereqs" ]; then
+	touch installed.yum
+	./1-prereqs
+fi
+
+# Fix perms on Backups (make backup directory if it doesn't exist)
+mkdir -p /store/backups/nagiosfusion
+chown nagios:nagios -R /store/backups/nagiosfusion
+
+# Make sure to run the PHP upgrade
+php "$proddir/html/upgrade.php"
+
+if [ $ver -eq 7 ]; then
+	ip=$(ip addr | egrep -1 ens[0-9][0-9] | grep -m 1 'inet' | awk '/inet[^6]/{print substr($2,0)}' | sed 's|/.*||')
+else
+	ip=$(ifconfig | egrep -1 eth[0-9] | grep -m 1 'inet' | awk '/inet[^6]/{print substr($2,6)}')
+fi
+
+cat <<-EOF
+	==================
+	UPGRADE COMPLETED!
+	==================
+
+	You can access the Nagios Fusion web interface by visiting:
+	    http://$ip/nagiosfusion/
+
+EOF

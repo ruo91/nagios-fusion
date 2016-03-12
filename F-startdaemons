@@ -1,0 +1,10 @@
+#!/bin/sh -e
+
+. ./fusion-sys.cfg
+
+for svc in httpd crond postgresql; do
+	service $svc restart || exit 1
+done
+
+echo "Daemons started OK"
+

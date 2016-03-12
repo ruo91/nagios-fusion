@@ -1,0 +1,86 @@
+#!/bin/sh -e
+
+. ./fusion-sys.cfg
+
+
+# Was previous step completed?
+if [ ! -f installed.sourceguardian ]; then
+	echo "Databases were not installed - run previous script" >&2
+	exit 1
+fi
+
+
+if [ -f installed.nagiosfusion ]; then
+	echo "Fusion base files already installed" >&2
+	exit 0
+fi
+
+
+##########################################
+# CREATE MAIN PRODUCT DIRECTORIES
+##########################################
+
+echo "Creating product directory..."
+if [ ! -d $proddir ]; then
+   `$mkdirbin $proddir` 
+fi
+
+# Copy over Fusion files
+`cp -r ./nagiosfusion/basedir/* $proddir`
+
+# Change ownership on directories and files
+`$chownbin -R $nagiosuser.$nagiosgroup $proddir`
+
+# Set permissions on temp directory
+chown -R apache.nagios $proddir/tmp
+chmod -R 6775 $proddir/tmp
+
+# Logrotate entry
+cp ./nagiosfusion/logrotate.nagiosfusion /etc/logrotate.d/nagiosfusion
+
+# Set permissions on component etc directory
+chown -R apache.nagios $proddir/etc/components
+chmod -R 6775 $proddir/etc/components
+
+# Set permissions on component var directory
+chown -R apache.nagios $proddir/var/components
+chmod -R 6775 $proddir/var/components
+
+# Fix perms on Backups (make backup directory if it doesn't exist)
+mkdir -p /store/backups/nagiosfusion
+chown nagios:nagios -R /store/backups/nagiosfusion
+
+# Add main Apache conf file
+`cp nagiosfusion/httpd.nagiosfusion.conf $httpdconfdir/nagiosfusion.conf`
+
+# Restart Apache
+service httpd reload
+
+# Create Postgres database and user
+cwd=`pwd`
+echo "Creating postgres database and user..."
+su - postgres -c  $cwd/nagiosfusion/create_postgres_db.sh
+#read
+
+# Restart Postgres
+echo "Restarting postgres..."
+service postgresql restart
+
+# Sleep a bit...
+sleep 7
+
+# Create Postgres db structure
+echo "Creating postgres db structure..."
+psql -U nagiosfusion nagiosfusion < nagiosfusion/schema.pgsql.sql
+#read
+
+# Load initial Postgres data
+echo "Loading postgres db..."
+psql -U nagiosfusion nagiosfusion < nagiosfusion/load_pgsql_db.sql
+#read
+
+echo ""
+echo "Nagios Fusion setup completed."
+
+touch installed.nagiosfusion
+

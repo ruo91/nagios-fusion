@@ -1,0 +1,30 @@
+#!/bin/sh -e
+
+. ./fusion-sys.cfg
+
+# Was previous step completed?
+if [ ! -f installed.sudoers ]; then
+	echo "Sudoers file was not initialized - run previous script" >&2
+	exit 1
+fi
+
+# UPDATE FIREWALL SETTINGS AND RESTART IPTABLES
+cp -f nagiosfusion/iptables /etc/sysconfig
+
+# Disable dynamic firewall for static iptables firewall (from fedora documentation)
+if [ $ver -eq 7 ]; then
+	if [ -z ${RPMINSTALL+x} ]; then
+        yum install iptables-services -y
+	fi
+    systemctl mask firewalld.service
+	systemctl enable iptables.service
+
+	# Save and start up iptables
+	systemctl stop firewalld.service
+	iptables-save
+	systemctl restart iptables.service
+else
+	service iptables restart
+fi
+
+echo "Firewall rules updated OK"

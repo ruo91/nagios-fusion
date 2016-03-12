@@ -1,0 +1,6041 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: Nagios Fusion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-22 11:39-0500\n"
+"PO-Revision-Date: 2012-12-26 14:44-0600\n"
+"Last-Translator: \n"
+"Language-Team: Nagios Enterprises <techteam@nagios.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: gettext\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils.inc.php:374
+#, fuzzy
+msgid "English"
+msgstr "英语"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils.inc.php:375
+#, fuzzy
+msgid "German"
+msgstr "德国"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils.inc.php:376
+#, fuzzy
+msgid "Spanish"
+msgstr "西班牙语"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils.inc.php:377
+#, fuzzy
+msgid "French"
+msgstr "法国"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils.inc.php:378
+#, fuzzy
+msgid "Italian"
+msgstr "意大利"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils.inc.php:379
+#, fuzzy
+msgid "Japanese"
+msgstr "日本"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils.inc.php:380
+#, fuzzy
+msgid "Korean"
+msgstr "朝鲜的"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils.inc.php:381
+#, fuzzy
+msgid "Polish"
+msgstr "抛光"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils.inc.php:382
+#, fuzzy
+msgid "Portuguese"
+msgstr "葡萄牙"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils.inc.php:383
+#, fuzzy
+msgid "Russian"
+msgstr "俄"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils.inc.php:384
+#, fuzzy
+msgid "Simplified Chinese"
+msgstr "简化中国"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils.inc.php:385
+#, fuzzy
+msgid "Traditional Chinese"
+msgstr "中国传统"
+
+#: trunk/nagiosfusion/basedir/html/includes/footer.inc.php:14
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:158
+#: trunk/nagiosfusion/basedir/html/admin/components.php:114
+#: trunk/nagiosfusion/basedir/html/admin/dashlets.php:106
+#, fuzzy
+msgid "Check for Updates"
+msgstr "检查更新"
+
+#: trunk/nagiosfusion/basedir/html/includes/footer.inc.php:17
+#: trunk/nagiosfusion/basedir/html/includes/footer.inc.php:33
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:156
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:650
+#, fuzzy
+msgid "About"
+msgstr "关于"
+
+#: trunk/nagiosfusion/basedir/html/includes/footer.inc.php:18
+#: trunk/nagiosfusion/basedir/html/includes/footer.inc.php:34
+#, fuzzy
+msgid "Legal"
+msgstr "法律"
+
+#: trunk/nagiosfusion/basedir/html/includes/footer.inc.php:30
+#: trunk/nagiosfusion/basedir/html/about/main.php:127
+#, fuzzy
+msgid "Copyright"
+msgstr "版权"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:316
+#, fuzzy
+msgid "Help Resources"
+msgstr "帮助资源"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:328
+#, fuzzy
+msgid "FAQs"
+msgstr "常见问题"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:337
+#, fuzzy
+msgid "Support Forum"
+msgstr "支持论坛"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:346
+#, fuzzy
+msgid "Nagios Library"
+msgstr "Nagios的图书馆"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:355
+#, fuzzy
+msgid "Support Wiki"
+msgstr "支持维基"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:374
+#, fuzzy
+msgid "Documentation Guides"
+msgstr "文档指南"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:384
+#, fuzzy
+msgid "Administrator Guide"
+msgstr "管理员指南"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:420
+#, fuzzy
+msgid "Servers"
+msgstr "服务器"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:431
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:533
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:534
+#, fuzzy
+msgid "Manage Fused Servers"
+msgstr "管理融合服务器"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:440
+#, fuzzy
+msgid "Fused Server Credentials"
+msgstr "服务器凭据"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:458
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:801
+#, fuzzy
+msgid "Configuration"
+msgstr "组态"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:470
+#, fuzzy
+msgid "System Configuration"
+msgstr "系统配置"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:496
+#, fuzzy
+msgid "My Account"
+msgstr "我的帐户"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:508
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:515
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:516
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:710
+#, fuzzy
+msgid "Account Information"
+msgstr "帐户信息"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:535
+#, fuzzy
+msgid "Quick Tools"
+msgstr "快速工具"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:546
+#, fuzzy
+msgid "Admin Home"
+msgstr "管理首页"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:564
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:576
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:593
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:594
+#, fuzzy
+msgid "System Status"
+msgstr "系统状态"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:586
+#, fuzzy
+msgid "Check For Updates"
+msgstr "“检查更新”"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:604
+#, fuzzy
+msgid "Users"
+msgstr "用户"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:615
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:530
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:531
+#, fuzzy
+msgid "Manage Users"
+msgstr "管理用户"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:624
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1155
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1156
+#, fuzzy
+msgid "Automatic Login"
+msgstr "自动登录"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:643
+#, fuzzy
+msgid "System Config"
+msgstr "系统配置"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:654
+#, fuzzy
+msgid "Manage System Config"
+msgstr "管理系统配置"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:663
+#, fuzzy
+msgid "Manage Email Settings"
+msgstr "管理电子邮件设置"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:672
+#, fuzzy
+msgid "Reset Security Credentials"
+msgstr "重置安全性凭证"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:681
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:655
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:656
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:692
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:693
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:701
+#, fuzzy
+msgid "License Information"
+msgstr "许可信息"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:699
+#, fuzzy
+msgid "System Extensions"
+msgstr "系统扩展"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:709
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:957
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:958
+#, fuzzy
+msgid "Manage Components"
+msgstr "管理组件"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:718
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:1152
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:938
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:939
+#, fuzzy
+msgid "Manage Dashlets"
+msgstr "管理Dashlets"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:782
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:1101
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:440
+#, fuzzy
+msgid "My Dashboards"
+msgstr "我的仪表板"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:810
+#: trunk/nagiosfusion/basedir/html/config/main.php:86
+#, fuzzy
+msgid "Server Status"
+msgstr "服务器状态"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:822
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:675
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:676
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1151
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1152
+#, fuzzy
+msgid "Tactical Overview"
+msgstr "战术概述"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:833
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:35
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:87
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/summary.php:32
+#, fuzzy
+msgid "Tactical Summary"
+msgstr "战术总结"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:854
+#, fuzzy
+msgid "Alerts"
+msgstr "通知"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:866
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/recentalerts/recentalerts.inc.php:34
+#, fuzzy
+msgid "Recent Alerts"
+msgstr "最近的警示"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:876
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/topalertproducers/topalertproducers.inc.php:33
+#, fuzzy
+msgid "Top Alert Producers"
+msgstr "前提醒生产商"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:993
+#, fuzzy
+msgid "View Tools"
+msgstr "查看工具"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:1005
+#, fuzzy
+msgid "Rotate Views"
+msgstr "旋转视图"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:1020
+#, fuzzy
+msgid "Add New View"
+msgstr "添加新视图"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:1040
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:436
+#, fuzzy
+msgid "My Views"
+msgstr "我见"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:1065
+#, fuzzy
+msgid "Dashboard Tools"
+msgstr "仪表板工具"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:1081
+#, fuzzy
+msgid "Add New Dashboard"
+msgstr "添加新的仪表板"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:1126
+#, fuzzy
+msgid "Add Dashlets"
+msgstr "添加Dashlets"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-menu.inc.php:1138
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:450
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:451
+#, fuzzy
+msgid "Available Dashlets"
+msgstr "可Dashlets"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-tacdata.inc.php:25
+#: trunk/nagiosfusion/basedir/html/includes/utils-tacdata.inc.php:61
+#: trunk/nagiosfusion/basedir/html/includes/utils-tacdata.inc.php:88
+#, fuzzy
+msgid "A timeout occurred while attempting to contact the server"
+msgstr "试图连接到服务器时发生超时"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-tacdata.inc.php:32
+#, fuzzy
+msgid "Failed to authenticate to server"
+msgstr "无法验证服务器"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-tacdata.inc.php:33
+#, fuzzy
+msgid "Change credentials"
+msgstr "更改凭据"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-tacdata.inc.php:43
+#, fuzzy
+msgid "Unable to parse Nagios XI server response"
+msgstr "我们无法解析的Nagios XI服务器响应"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-tacdata.inc.php:71
+#: trunk/nagiosfusion/basedir/html/includes/utils-tacdata.inc.php:98
+#, fuzzy
+msgid "Unable to parse server response"
+msgstr "无法解析服务器的响应"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/recentalerts/recentalerts.inc.php:27
+#, fuzzy
+msgid "This dashlet displays the last 15 alerts across all fused servers."
+msgstr "这dashlet显示在过去的15融合服务器在所有的警报。"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/recentalerts/recentalerts.inc.php:101
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/recentalerts.php:26
+#, fuzzy
+msgid "Recent Notifications - Last 2 hours"
+msgstr "最近的通知 -  2小时以来"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/timestack/timestack.inc.php:20
+#, fuzzy
+msgid ""
+"This dashlet displays performance data for a host or service from the last 3"
+" timeperiods overlayed on a single graph."
+msgstr "这dashlet的主机或服务从过去的3 timeperiods，覆盖在一个单一的图形显示性能数据。"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/timestack/timestack.inc.php:26
+#, fuzzy
+msgid "Time Stacked Performance Graph"
+msgstr "时间堆叠性能曲线图"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/timestack/timestack.inc.php:42
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hoststatus/hoststatus.inc.php:55
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/timeline/timeline.inc.php:44
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/servicegroup/servicegroup.inc.php:55
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/servicestatus/servicestatus.inc.php:55
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hostgroup/hostgroup.inc.php:55
+#, fuzzy
+msgid "Select A Server"
+msgstr "选择一台服务器"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/timestack/timestack.inc.php:50
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/topalertproducers/topalertproducers.inc.php:150
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/topalertproducers/topalertproducers.inc.php:159
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/timeline/timeline.inc.php:53
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/servicegroup/servicegroup.inc.php:64
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/servicestatus/servicestatus.inc.php:64
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:168
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hostgroup/hostgroup.inc.php:64
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:23
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:34
+#: trunk/nagiosfusion/basedir/html/config/main.php:82
+#: trunk/nagiosfusion/basedir/html/config/servers.php:108
+#, fuzzy
+msgid "Server"
+msgstr "服务器"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/timestack/timestack.inc.php:54
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/topalertproducers/topalertproducers.inc.php:151
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/topalertproducers/topalertproducers.inc.php:159
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hoststatus/hoststatus.inc.php:68
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hoststatus/hoststatus.inc.php:186
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/timeline/timeline.inc.php:57
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/servicestatus/servicestatus.inc.php:68
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/servicestatus/servicestatus.inc.php:210
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:24
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:35
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:353
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:684
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1004
+#, fuzzy
+msgid "Host"
+msgstr "主持人"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/timestack/timestack.inc.php:59
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/topalertproducers/topalertproducers.inc.php:152
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/topalertproducers/topalertproducers.inc.php:159
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/timeline/timeline.inc.php:62
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/servicestatus/servicestatus.inc.php:72
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/servicestatus/servicestatus.inc.php:212
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:25
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:36
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:355
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:685
+#, fuzzy
+msgid "Service"
+msgstr "服务"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/timestack/timestack.inc.php:65
+#, fuzzy
+msgid "Time Period"
+msgstr "时间段"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/timestack/timestack.inc.php:67
+#, fuzzy
+msgid "Last 3 Days"
+msgstr "最后3天"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/timestack/timestack.inc.php:68
+#, fuzzy
+msgid "Last 3 Weeks"
+msgstr "过去的3周"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/timestack/timestack.inc.php:69
+#, fuzzy
+msgid "Last 3 Months"
+msgstr "过去3个月"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:27
+#, fuzzy
+msgid ""
+"Fused Status dashlets shows status totals across all servers in a single "
+"dashlet."
+msgstr "融合的状态dashlets显示在一个单一的dashlet在所有服务器的状态汇总。"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:35
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:81
+#, fuzzy
+msgid "Fused Status Summary"
+msgstr "熔融状态摘要"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:152
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:164
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hostgroup/hostgroup.inc.php:229
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:273
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:521
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:366
+#, fuzzy
+msgid "Hosts"
+msgstr "主机"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:152
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:169
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hostgroup/hostgroup.inc.php:231
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:274
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:522
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:385
+#, fuzzy
+msgid "Up"
+msgstr "上"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:152
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:170
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hostgroup/hostgroup.inc.php:232
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:275
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:523
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:386
+#, fuzzy
+msgid "Down"
+msgstr "下"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:152
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:171
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hostgroup/hostgroup.inc.php:233
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:276
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:524
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:387
+#, fuzzy
+msgid "Unreachable"
+msgstr "不可达"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:153
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:167
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:172
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:180
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:277
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:291
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:525
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:540
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:383
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:389
+#, fuzzy
+msgid "Pending"
+msgstr "有待"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:153
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:168
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:173
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:181
+#, fuzzy
+msgid "Problems"
+msgstr "问题"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:153
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:168
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:174
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:182
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:398
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:467
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:653
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:722
+#, fuzzy
+msgid "Unhandled"
+msgstr "未处理"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:153
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:168
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:175
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:183
+#, fuzzy
+msgid "All"
+msgstr "所有"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:166
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:165
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:286
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:535
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:368
+#, fuzzy
+msgid "Services"
+msgstr "服务"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:166
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:176
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:287
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:536
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:82
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:390
+#, fuzzy
+msgid "Ok"
+msgstr "行"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:166
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:177
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:288
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:537
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:391
+#, fuzzy
+msgid "Warning"
+msgstr "警告"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:167
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:178
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:290
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:539
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:393
+#, fuzzy
+msgid "Critical"
+msgstr "批评"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:167
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:179
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:289
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:538
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:384
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:392
+#, fuzzy
+msgid "Unknown"
+msgstr "未知"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:182
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:270
+#, fuzzy
+msgid "Last Update Time"
+msgstr "最后更新时间"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/fusedstatus/fusedstatus.inc.php:255
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:298
+#, fuzzy
+msgid "Close"
+msgstr "关闭"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/topalertproducers/topalertproducers.inc.php:26
+#, fuzzy
+msgid ""
+"This dashlet displays the top 15 alert producers for the last 24 hours "
+"across all fused servers."
+msgstr "这dashlet显示前15个警报生产商，过去24小时内的所有融合服务器。"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/topalertproducers/topalertproducers.inc.php:153
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/topalertproducers/topalertproducers.inc.php:159
+#, fuzzy
+msgid "Rank"
+msgstr "排名"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/topalertproducers/topalertproducers.inc.php:154
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/topalertproducers/topalertproducers.inc.php:159
+#, fuzzy
+msgid "Alert Count"
+msgstr "警报计数"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/topalertproducers/topalertproducers.inc.php:181
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hostgroup/hostgroup.inc.php:238
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:72
+#, fuzzy
+msgid "Last Update"
+msgstr "最后更新"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hoststatus/hoststatus.inc.php:26
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/servicegroup/servicegroup.inc.php:26
+#, fuzzy
+msgid "Nagios XI Servers Only"
+msgstr "Nagios的XI服务器"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hoststatus/hoststatus.inc.php:26
+#, fuzzy
+msgid "This dashlet displays a status bar for a single Nagios XI host."
+msgstr "在此dashlet显示状态栏为一个单个的Nagios的喜主机。"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hoststatus/hoststatus.inc.php:33
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:671
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:672
+#, fuzzy
+msgid "Host Status"
+msgstr "主机状态"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hoststatus/hoststatus.inc.php:187
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/servicestatus/servicestatus.inc.php:211
+#, fuzzy
+msgid "Host Details"
+msgstr "主机详细信息"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/timeline/timeline.inc.php:20
+#, fuzzy
+msgid ""
+"This dashlet displays a scalable performance graph for a host or service."
+msgstr "这dashlet显示一个可扩展的主机或服务的性能曲线图。"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/timeline/timeline.inc.php:26
+#, fuzzy
+msgid "Performance Graph"
+msgstr "性能曲线图"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/servicegroup/servicegroup.inc.php:26
+#, fuzzy
+msgid ""
+"This dashlet displays service summary information for a selected "
+"servicegroup."
+msgstr "在这dashlet显示选定的servicegroup服务的摘要信息。"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/servicegroup/servicegroup.inc.php:33
+#, fuzzy
+msgid "Service Group Summary"
+msgstr "服务组总结"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/servicestatus/servicestatus.inc.php:26
+#, fuzzy
+msgid ""
+"Nagios XI Servers Only. This dashlet displays service status information for"
+" a single Nagios XI service."
+msgstr "Nagios的XI服务器上。这dashlet会显示为一个单一的nagios XI服务服务的状态信息。"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/servicestatus/servicestatus.inc.php:33
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:673
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:674
+#, fuzzy
+msgid "Service Status"
+msgstr "服务状态"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/servicestatus/servicestatus.inc.php:213
+#, fuzzy
+msgid "Service Details"
+msgstr "服务细节"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:27
+#, fuzzy
+msgid ""
+"Tactical summary dashlet that displays all tactical overview information in "
+"a compact view."
+msgstr "战术的总结dashlet，在一个紧凑的视图中显示所有的战术概要信息。"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/tacsummary/tacsummary.inc.php:251
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:96
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:110
+#, fuzzy
+msgid "Total"
+msgstr "总"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hostgroup/hostgroup.inc.php:26
+#, fuzzy
+msgid ""
+"Nagios XI Servers Only.  This dashlet displays host summary information for "
+"a selected hostgroup."
+msgstr "Nagios的XI服务器上。这dashlet显示选定的主机组的主机的摘要信息。"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hostgroup/hostgroup.inc.php:33
+#, fuzzy
+msgid "Host Group Summary"
+msgstr "主机组摘要"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hostgroup/hostgroup.inc.php:68
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hostgroup/hostgroup.inc.php:229
+#, fuzzy
+msgid "Hostgroup"
+msgstr "主机组"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hostgroup/hostgroup.inc.php:171
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hostgroup/hostgroup.inc.php:196
+#, fuzzy
+msgid "Unable to retrieve data from server"
+msgstr "无法从服务器检索数据"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hostgroup/hostgroup.inc.php:231
+#, fuzzy
+msgid "View Up Hosts"
+msgstr "查看主机"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hostgroup/hostgroup.inc.php:232
+#, fuzzy
+msgid "View Down Hosts"
+msgstr "查看关闭的主机"
+
+#: trunk/nagiosfusion/basedir/html/includes/dashlets/hostgroup/hostgroup.inc.php:233
+#, fuzzy
+msgid "View Unreachable Hosts"
+msgstr "查看无法访问的主机"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/fusioncore.inc.php:40
+#, fuzzy
+msgid "Provides core functions and interface functionality for Nagios Fusion."
+msgstr "提供核心功能和接口功能Nagios的融合。"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/dashlets.inc.php:55
+#, fuzzy
+msgid "Displays helpful information on getting started with Nagios Fusion."
+msgstr "显示有用的信息开始使用Nagios的融合。"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/dashlets.inc.php:67
+#, fuzzy
+msgid ""
+"Displays tasks that an administrator should take to setup and maintain the "
+"Nagios Fusion installation."
+msgstr "显示任务，管理员应采取安装和维护安装Nagios的融合。"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/dashlets.inc.php:81
+#, fuzzy
+msgid "Displays realtime status of core Fusion subsystem processes."
+msgstr "显示核心融合子系统进程的实时状态。"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/dashlets.inc.php:95
+#, fuzzy
+msgid "Displays realtime statistics of the Fusion server."
+msgstr "显示的Fusion服务器的实时统计。"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/dashlets.inc.php:108
+#, fuzzy
+msgid ""
+"Displays the status of available updates for your Nagios Fusion "
+"installation."
+msgstr "显示可用的更新您的安装Nagios的融合的状态。"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:24
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/dashlets-tasks.inc.php:38
+#, fuzzy
+msgid "Administrative Tasks"
+msgstr "管理任务"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:29
+#, fuzzy
+msgid "Task"
+msgstr "任务"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:44
+#, fuzzy
+msgid "Configure system settings"
+msgstr "配置系统设置"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:44
+#, fuzzy
+msgid "Configure basic settings for your Fusion system"
+msgstr "配置融合系统的基本设置"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:48
+#, fuzzy
+msgid "Reset security credentials"
+msgstr "复位安全认证"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:49
+#, fuzzy
+msgid "Change the default credentials used by the Fusion system"
+msgstr "更改默认使用的凭据融合系统"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:54
+#, fuzzy
+msgid "Configure mail settings"
+msgstr "配置邮件设置"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:54
+#, fuzzy
+msgid "Configure email settings for your Fusion system"
+msgstr "配置电子邮件设置融合系统"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:58
+#, fuzzy
+msgid "Define fused servers"
+msgstr "定义融合服务器"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:59
+#, fuzzy
+msgid "Configure servers that should be integrated into Fusion"
+msgstr "配置服务器，应纳入融合"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:68
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:172
+#, fuzzy
+msgid "Define server credentials"
+msgstr "定义服务器的凭据"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:69
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:173
+#, fuzzy
+msgid "Define credentials used to authenticated to fused servers"
+msgstr "定义用于融合服务器的身份验证的凭据"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:73
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:176
+#, fuzzy
+msgid "Initial Setup Tasks"
+msgstr "初始设置任务"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:91
+#, fuzzy
+msgid "The last"
+msgstr "最后"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:91
+#, fuzzy
+msgid "update check failed"
+msgstr "更新检查失败"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:95
+#, fuzzy
+msgid "A new Nagios Fusion"
+msgstr "一个新的Nagios的融合"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:95
+#, fuzzy
+msgid "update is available"
+msgstr "更新可用"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:102
+#, fuzzy
+msgid "Important Tasks"
+msgstr "重要的任务"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:110
+#, fuzzy
+msgid "Ongoing Tasks"
+msgstr "进行中的任务"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:113
+#, fuzzy
+msgid "Configure your fused servers"
+msgstr "配置您的融合服务器"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:113
+#, fuzzy
+msgid "Add or modify servers to be fused"
+msgstr "添加或修改服务器将融合"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:114
+#, fuzzy
+msgid "Add new user accounts"
+msgstr "添加新的用户帐户"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:114
+#, fuzzy
+msgid "Setup new users with access to Nagios Fusion"
+msgstr "设置新的用户访问Nagios的融合"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:138
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/dashlets-tasks.inc.php:102
+#, fuzzy
+msgid "Getting Started Guide"
+msgstr "入门指南"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:161
+#, fuzzy
+msgid "Tend to pending administrative tasks"
+msgstr "往往待行政任务"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:162
+#, fuzzy
+msgid "Configure initial Fusion settings"
+msgstr "配置最初的融合设置"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:184
+#, fuzzy
+msgid "Common Tasks"
+msgstr "常见任务"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:187
+#, fuzzy
+msgid "Change your account settings"
+msgstr "更改您的帐户设置"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:187
+#, fuzzy
+msgid "Change your account password and general preferences"
+msgstr "更改您的帐户密码和一般偏好"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:191
+#, fuzzy
+msgid "Getting Started"
+msgstr "入门"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:194
+#: trunk/nagiosfusion/basedir/html/help/main.php:60
+#, fuzzy
+msgid "Learn about Fusion"
+msgstr "了解融合"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:194
+#, fuzzy
+msgid "Learn more about Fusion and its capabilities"
+msgstr "了解更多关于Fusion和它的功能"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:195
+#: trunk/nagiosfusion/basedir/html/help/main.php:64
+#, fuzzy
+msgid "Signup for Fusion news"
+msgstr "注册融合新闻"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:195
+#, fuzzy
+msgid "Stay informed of the latest updates and happenings for Fusion"
+msgstr "随时了解最新的更新和发生聚变"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-tasks.inc.php:206
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:177
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:384
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:124
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:179
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:62
+#, fuzzy
+msgid "Last Updated"
+msgstr "最后更新"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/dashlets-sysstat.inc.php:98
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:149
+#, fuzzy
+msgid "Fusion System Component Status"
+msgstr "融合系统组件状态"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/dashlets-misc.inc.php:97
+#, fuzzy
+msgid "Available Updates"
+msgstr "可用更新"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/dashlets-misc.inc.php:101
+#, fuzzy
+msgid "Checking for updates..."
+msgstr "检查更新..."
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/tac.php:87
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/tac.php:95
+#, fuzzy
+msgid "Attention"
+msgstr "注意"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/tac.php:87
+#, fuzzy
+msgid "You have not defined any fused servers yet"
+msgstr "您还没有定义任何稠服务器"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/tac.php:88
+#, fuzzy
+msgid "Define some now"
+msgstr "现在定义一些"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/tac.php:95
+#, fuzzy
+msgid "You have chosen not to display any fused servers"
+msgstr "您已选择不显示任何稠服务器"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/tac.php:96
+#, fuzzy
+msgid "Change settings"
+msgstr "更改设置"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:26
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:37
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:976
+#: trunk/nagiosfusion/basedir/html/config/servers.php:109
+#, fuzzy
+msgid "Type"
+msgstr "类型"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:27
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:38
+#, fuzzy
+msgid "State"
+msgstr "国"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:28
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:39
+#, fuzzy
+msgid "Time"
+msgstr "时间"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:29
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:40
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:362
+#, fuzzy
+msgid "Contact"
+msgstr "联系"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:30
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:41
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:177
+#, fuzzy
+msgid "Output"
+msgstr "产量"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:198
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:730
+#, fuzzy
+msgid "Host Recovery"
+msgstr "主机恢复"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:200
+#, fuzzy
+msgid "Host Problem"
+msgstr "主机问题"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:204
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:736
+#, fuzzy
+msgid "Service Recovery"
+msgstr "服务补救"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:206
+#, fuzzy
+msgid "Service Problem"
+msgstr "服务问题"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:210
+#, fuzzy
+msgid "Problem Acknowledged"
+msgstr "问题应答"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:213
+#, fuzzy
+msgid "Flapping Started"
+msgstr "扑开始"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:216
+#, fuzzy
+msgid "Flapping Stopped"
+msgstr "扑停止"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:219
+#, fuzzy
+msgid "Flapping Disabled"
+msgstr "扑残疾人"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:222
+#, fuzzy
+msgid "Downtime Started"
+msgstr "停机时间开始"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:225
+#, fuzzy
+msgid "Downtime Ended"
+msgstr "停机时间截至"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:228
+#, fuzzy
+msgid "Downtime Cancelled"
+msgstr "停机时间取消"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-recentalerts.inc.php:231
+#, fuzzy
+msgid "Custom"
+msgstr "习惯"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:143
+#, fuzzy
+msgid "Update Check Problem: Last update check failed"
+msgstr "更新检查问题：上次更新检查失败"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:146
+#, fuzzy
+msgid "A new Nagios Fusion update is available"
+msgstr "一个新的Nagios的融合更新"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:151
+#, fuzzy
+msgid "Visit"
+msgstr "访问"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:151
+#, fuzzy
+msgid "to obtain the latest update"
+msgstr "获取最新的更新"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:154
+#, fuzzy
+msgid "Your Nagios Fusion installation is up to date"
+msgstr "您的安装Nagios的融合是最新的"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:167
+#, fuzzy
+msgid "Latest Available Version"
+msgstr "最新的版本"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:168
+#, fuzzy
+msgid "Installed Version"
+msgstr "安装的版本"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:169
+#, fuzzy
+msgid "Last Update Check"
+msgstr "最后更新检查"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:202
+#, fuzzy
+msgid "Could not read program data!"
+msgstr "无法读取程序数据！"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:256
+#, fuzzy
+msgid "System Ok"
+msgstr "系统ok"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:259
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:263
+#, fuzzy
+msgid "System Problem"
+msgstr "系统问题"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:298
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:208
+#, fuzzy
+msgid "Subsystem Poller"
+msgstr "子系统轮询"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:307
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:324
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:341
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:354
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:367
+#, fuzzy
+msgid "Last Run"
+msgstr "最后运行"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:310
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:327
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:370
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:220
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:237
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:280
+#, fuzzy
+msgid "Not Run Yet"
+msgstr "尚未运行"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:315
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:225
+#, fuzzy
+msgid "Database Maintenance"
+msgstr "数据库维护"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:332
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:242
+#, fuzzy
+msgid "Command Subsystem"
+msgstr "命令子系统"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:345
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:255
+#, fuzzy
+msgid "Event Manager"
+msgstr "事件管理器"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:358
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:268
+#, fuzzy
+msgid "Cleaner"
+msgstr "清洁器"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:375
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:285
+#, fuzzy
+msgid "System Statistics"
+msgstr "系统的统计数据"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-misc.inc.php:392
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:302
+#, fuzzy
+msgid "Data unavailable"
+msgstr "数据不可用"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:62
+#, fuzzy
+msgid "Server Statistics"
+msgstr "服务器统计信息"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:70
+#, fuzzy
+msgid "Metric"
+msgstr "公"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:71
+#, fuzzy
+msgid "Value"
+msgstr "值"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:76
+#, fuzzy
+msgid "Load"
+msgstr "加载"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:85
+#, fuzzy
+msgid "CPU Stats"
+msgstr "CPU统计"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:86
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:223
+#: trunk/nagiosfusion/basedir/html/admin/components.php:256
+#, fuzzy
+msgid "User"
+msgstr "用户"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:87
+#, fuzzy
+msgid "Nice"
+msgstr "尼斯"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:88
+#, fuzzy
+msgid "System"
+msgstr "系统"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:89
+#, fuzzy
+msgid "I/O Wait"
+msgstr "I / O等待"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:90
+#, fuzzy
+msgid "Steal"
+msgstr "偷"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:91
+#, fuzzy
+msgid "Idle"
+msgstr "空闲"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:94
+#, fuzzy
+msgid "Memory"
+msgstr "记忆"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:98
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:112
+#, fuzzy
+msgid "Used"
+msgstr "使用"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:100
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:114
+#: trunk/nagiosfusion/basedir/html/includes/utilsl.inc.php:734
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:698
+#, fuzzy
+msgid "Free"
+msgstr "免费"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:102
+#, fuzzy
+msgid "Shared"
+msgstr "共享"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:104
+#, fuzzy
+msgid "Buffers"
+msgstr "缓冲器"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:106
+#, fuzzy
+msgid "Cached"
+msgstr "缓存"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:108
+#, fuzzy
+msgid "Swap"
+msgstr "交换"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:152
+#, fuzzy
+msgid "No data"
+msgstr "没有任何数据"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:158
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:975
+#, fuzzy
+msgid "Component"
+msgstr "元件"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:158
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:180
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:686
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:521
+#, fuzzy
+msgid "Status"
+msgstr "状态"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:199
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:173
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:523
+#, fuzzy
+msgid "Actions"
+msgstr "操作"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:201
+#, fuzzy
+msgid "Unknown state"
+msgstr "未知状态"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:217
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:234
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:251
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:264
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:277
+#, fuzzy
+msgid "Last Run "
+msgstr "最后运行"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:217
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:234
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:251
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:264
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:277
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:294
+#, fuzzy
+msgid " Ago"
+msgstr "前"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-sysstat.inc.php:294
+#, fuzzy
+msgid "Last Updated "
+msgstr "最后更新"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:36
+#, fuzzy
+msgid "You have not defined authentication credentials for this server"
+msgstr "您还没有定义此服务器的身份验证凭据"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:36
+#, fuzzy
+msgid "Define them now"
+msgstr "定义他们现在"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:249
+#, fuzzy
+msgid "Unable to parse Nagios Core server response"
+msgstr "无法解析Nagios的核心服务器响应"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:267
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:514
+#, fuzzy
+msgid "Status Summary"
+msgstr "状态摘要"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:267
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:515
+#, fuzzy
+msgid "Notes"
+msgstr "笔记"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:267
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:515
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:295
+#, fuzzy
+msgid "Edit"
+msgstr "编辑"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:295
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:548
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:977
+#, fuzzy
+msgid "Settings"
+msgstr "设置"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:298
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:556
+#, fuzzy
+msgid "Notifications"
+msgstr "通知"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:299
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:557
+#, fuzzy
+msgid "Active Checks"
+msgstr "主动检查"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:300
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:558
+#, fuzzy
+msgid "Passive Checks"
+msgstr "被动检查"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:301
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:559
+#, fuzzy
+msgid "Event Handlers"
+msgstr "事件处理程序"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:346
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:602
+#, fuzzy
+msgid "Enabled"
+msgstr "启用"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:403
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:472
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:658
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:727
+#, fuzzy
+msgid "Acknowledged"
+msgstr "已确认"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:408
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:477
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:663
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:732
+#, fuzzy
+msgid "Scheduled"
+msgstr "预定"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:414
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:488
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:669
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:743
+#, fuzzy
+msgid "Disabled"
+msgstr "残疾人"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:482
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:737
+#, fuzzy
+msgid "On Problem Hosts"
+msgstr "在问题主机"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/fusioncore/ajaxhelpers-status.inc.php:555
+#, fuzzy
+msgid "Monitoring Engine"
+msgstr "监视引擎"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/index.php:68
+#, fuzzy
+msgid "Destination name cannot be blank."
+msgstr "目的地名称不能为空。"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/index.php:72
+#, fuzzy
+msgid "You must select one or more dashboards to deploy."
+msgstr "你必须选择一个或多个仪表板部署。"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/index.php:74
+#, fuzzy
+msgid "You must select at least one user."
+msgstr "您必须选择至少一个用户。"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/index.php:108
+#, fuzzy
+msgid "Dashboards deployed"
+msgstr "仪表板部署"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/index.php:248
+#, fuzzy
+msgid "Dashboard Deployment Tool"
+msgstr "仪表板部署工具"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/index.php:251
+#, fuzzy
+msgid ""
+"This tool allows admins to deploy one or more of their own dashboards to "
+"other users. This can be useful when you design a dashboard that other users"
+" may want access to. If you want each user's copy of your dashboard to stay "
+"synchronized with your dashboard, select the 'Keep Synced' option."
+msgstr ""
+"这个工具允许管理员部署自己的仪表板中的一个或多个其他用户。这可能是有用的，当你设计一个仪表板，其他用户可能想要访问。如果你想你的仪表盘保持同步，与仪表板的每个用户的副本，选择“保持同步'选项。"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/index.php:255
+#, fuzzy
+msgid "Note"
+msgstr "注意"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/index.php:256
+#, fuzzy
+msgid ""
+"Re-deploying a dashboard that has already been deployed will overwrite the "
+"user's old copy of the deployed dashboard."
+msgstr "重新部署已部署的仪表板将覆盖用户的旧副本部署的仪表板。"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/index.php:272
+#, fuzzy
+msgid "Dashboards To Deploy"
+msgstr "仪表板部署"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/index.php:275
+#, fuzzy
+msgid "Specify which of your dashboards should be deployed."
+msgstr "指定的仪表盘应该部署。"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/index.php:281
+#, fuzzy
+msgid "Deploy"
+msgstr "部署"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/index.php:282
+#, fuzzy
+msgid "ID"
+msgstr "ID"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/index.php:283
+#, fuzzy
+msgid "Local Name"
+msgstr "本地名称"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/index.php:284
+#, fuzzy
+msgid "Destination Name"
+msgstr "目的地名称"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/index.php:285
+#, fuzzy
+msgid "Keep Synced"
+msgstr "保持资料同步化"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/index.php:311
+#, fuzzy
+msgid "Deploy To Users"
+msgstr "部署到用户"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/index.php:314
+#, fuzzy
+msgid "Specify which users the dashboards should be deployed to."
+msgstr "指定哪些用户应部署的仪表板。"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/deploydashboard.inc.php:28
+#, fuzzy
+msgid "Error: This component requires Nagios Fusion 2012R1.2 or later."
+msgstr "错误：这个组件需要Nagios的融合2012r1.2或更高版本。"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/deploydashboard.inc.php:38
+#, fuzzy
+msgid "Allows admins to deploy dashboards to other users. "
+msgstr "允许管理员部署仪表板，其他用户。"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/deploydashboard/deploydashboard.inc.php:83
+#, fuzzy
+msgid "Deploy Dashboards"
+msgstr "部署仪表板"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/xidata/xidata.php:118
+#, fuzzy
+msgid "Select a Host"
+msgstr "选择主机"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/xidata/xidata.php:139
+#, fuzzy
+msgid "Select a Hostgroup"
+msgstr "选择一个主机群"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/xidata/xidata.php:149
+#, fuzzy
+msgid "Select a Servicegroup"
+msgstr "选择一个Servicegroup"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/visualizations/visualizations.inc.php:30
+#, fuzzy
+msgid ""
+"Fusion Visualizations is an interactive graphing tool for your Nagios data.\n"
+"\t\t\tFor most reliable graphs and dashlets, use Mozilla Firefox."
+msgstr "融合的可视化是一个交互式绘图工具，为您的Nagios的数据。最可靠的图形和dashlets的，使用Mozilla Firefox。"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/visualizations/visualizations.inc.php:33
+#, fuzzy
+msgid "This component requires Nagios Fusion 2012r1.0 or later"
+msgstr "此组件要求在Nagios的融合2012r1.0或更高版本"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/visualizations/visualizations.inc.php:86
+#, fuzzy
+msgid "Visualizations"
+msgstr "可视化"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/visualizations/visualizations.inc.php:98
+#, fuzzy
+msgid "Host Health"
+msgstr "主机健康"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/visualizations/visualizations.inc.php:109
+#, fuzzy
+msgid "Service Health"
+msgstr "服务生"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/visualizations/visualizations.inc.php:120
+#, fuzzy
+msgid "Alert Histogram"
+msgstr "警报直方图"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/visualizations/visualizations.inc.php:152
+#, fuzzy
+msgid "Displays a column graph of host health across all fused servers"
+msgstr "显示一列在所有融合服务器的主机健康图"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/visualizations/visualizations.inc.php:159
+#, fuzzy
+msgid "Dashlet Copyright &copy; 2012 Nagios Enterprises. All rights reserved."
+msgstr "Dashlet版权所有©2012年Nagios的企业。保留所有权利。"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/visualizations/visualizations.inc.php:168
+#, fuzzy
+msgid "Displays a column graph of service health across all fused servers"
+msgstr "在所有融合服务器显示柱状图的健康服务"
+
+#: trunk/nagiosfusion/basedir/html/includes/components/visualizations/visualizations.inc.php:177
+#, fuzzy
+msgid "Displays a histogram of alerts across all fused servers"
+msgstr "显示直方图融合服务器的所有警报"
+
+#: trunk/nagiosfusion/basedir/html/includes/header.inc.php:51
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:201
+#, fuzzy
+msgid "Logged in as"
+msgstr "登录的"
+
+#: trunk/nagiosfusion/basedir/html/includes/header.inc.php:54
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:190
+#, fuzzy
+msgid "Logout"
+msgstr "登出"
+
+#: trunk/nagiosfusion/basedir/html/includes/header.inc.php:91
+#: trunk/nagiosfusion/basedir/html/includes/header.inc.php:132
+#, fuzzy
+msgid "Home"
+msgstr "家"
+
+#: trunk/nagiosfusion/basedir/html/includes/header.inc.php:92
+#: trunk/nagiosfusion/basedir/html/includes/header.inc.php:133
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:488
+#, fuzzy
+msgid "Views"
+msgstr "浏览次数"
+
+#: trunk/nagiosfusion/basedir/html/includes/header.inc.php:93
+#: trunk/nagiosfusion/basedir/html/includes/header.inc.php:134
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:490
+#, fuzzy
+msgid "Dashboards"
+msgstr "仪表板"
+
+#: trunk/nagiosfusion/basedir/html/includes/header.inc.php:95
+#: trunk/nagiosfusion/basedir/html/includes/header.inc.php:136
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1024
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1029
+#, fuzzy
+msgid "Configure"
+msgstr "配置"
+
+#: trunk/nagiosfusion/basedir/html/includes/header.inc.php:99
+#: trunk/nagiosfusion/basedir/html/includes/header.inc.php:138
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:624
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:625
+#, fuzzy
+msgid "Help"
+msgstr "帮助"
+
+#: trunk/nagiosfusion/basedir/html/includes/header.inc.php:101
+#: trunk/nagiosfusion/basedir/html/includes/header.inc.php:142
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:222
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:489
+#, fuzzy
+msgid "Admin"
+msgstr "管理员"
+
+#: trunk/nagiosfusion/basedir/html/includes/header.inc.php:104
+#: trunk/nagiosfusion/basedir/html/includes/header.inc.php:150
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:15
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:30
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:58
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:73
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:189
+#, fuzzy
+msgid "Login"
+msgstr "注册"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-topalertproducers.inc.php:72
+#, fuzzy
+msgid "No credentials defined for this server yet"
+msgstr "这个服务器没有证书"
+
+#: trunk/nagiosfusion/basedir/html/includes/utils-topalertproducers.inc.php:90
+#, fuzzy
+msgid "Unable to fetch data from server"
+msgstr "无法从服务器获取数据"
+
+#: trunk/nagiosfusion/basedir/html/includes/utilsl.inc.php:725
+#: trunk/nagiosfusion/basedir/html/includes/utilsl.inc.php:734
+#: trunk/nagiosfusion/basedir/html/includes/utilsl.inc.php:743
+#: trunk/nagiosfusion/basedir/html/includes/utilsl.inc.php:757
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:697
+#, fuzzy
+msgid "License Type"
+msgstr "许可证类型"
+
+#: trunk/nagiosfusion/basedir/html/includes/utilsl.inc.php:725
+#: trunk/nagiosfusion/basedir/html/includes/utilsl.inc.php:734
+#, fuzzy
+msgid "Purchase a license"
+msgstr "购买许可证"
+
+#: trunk/nagiosfusion/basedir/html/includes/utilsl.inc.php:725
+#: trunk/nagiosfusion/basedir/html/includes/utilsl.inc.php:734
+#, fuzzy
+msgid "and receive support and upgrade benefits!"
+msgstr "并获得支持和升级的好处！"
+
+#: trunk/nagiosfusion/basedir/html/includes/utilsl.inc.php:743
+#, fuzzy
+msgid "Commercial"
+msgstr "商业的"
+
+#: trunk/nagiosfusion/basedir/html/includes/utilsl.inc.php:757
+#, fuzzy
+msgid "Invalid License Key"
+msgstr "无效的许可证密钥"
+
+#: trunk/nagiosfusion/basedir/html/includes/utilsl.inc.php:757
+#, fuzzy
+msgid "Purchase a License"
+msgstr "购买许可证"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:13
+#, fuzzy
+msgid "Missing Page"
+msgstr "缺页"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:14
+#, fuzzy
+msgid "Unimplemented Feature"
+msgstr "未实现的功能"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:16
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:28
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:74
+#, fuzzy
+msgid "Reset Password"
+msgstr "“重设密码”"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:17
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:31
+#, fuzzy
+msgid "Password Sent"
+msgstr "密码发送"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:18
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:76
+#, fuzzy
+msgid "Install"
+msgstr "安装"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:19
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:41
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:197
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:407
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:598
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:611
+#, fuzzy
+msgid "Error"
+msgstr "错误"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:25
+#, fuzzy
+msgid "What the..."
+msgstr "这是..."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:26
+#, fuzzy
+msgid "Wouldn't that be nice..."
+msgstr "那会不会是很好的..."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:27
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:583
+#, fuzzy
+msgid "Password Change Required"
+msgstr "变更密码"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:29
+#, fuzzy
+msgid "Nagios Fusion&trade;"
+msgstr "Nagios的融合™"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:32
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:155
+#: trunk/nagiosfusion/basedir/html/about/main.php:83
+#, fuzzy
+msgid "Credits"
+msgstr "积分"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:33
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:652
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:653
+#, fuzzy
+msgid "Legal Information"
+msgstr "法律信息"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:39
+#, fuzzy
+msgid "Sending Feedback..."
+msgstr "发送反馈..."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:40
+#, fuzzy
+msgid "Thank You!"
+msgstr "谢谢您！"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:55
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:518
+#, fuzzy
+msgid "Account Preferences"
+msgstr "帐户首选项"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:56
+#, fuzzy
+msgid "General Options"
+msgstr "“常规选项”"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:57
+#, fuzzy
+msgid "User Account Information"
+msgstr "用户帐户信息"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:65
+#, fuzzy
+msgid "General Program Settings"
+msgstr "一般程序设置"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:66
+#, fuzzy
+msgid "Default User Settings"
+msgstr "默认用户设置"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:67
+#, fuzzy
+msgid "Advanced Settings"
+msgstr "高级设置"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:75
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1140
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1141
+#, fuzzy
+msgid "Upgrade"
+msgstr "升级"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:77
+#: trunk/nagiosfusion/basedir/html/login.php:641
+#, fuzzy
+msgid "Change Password"
+msgstr "更改密码"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:78
+#, fuzzy
+msgid "Update"
+msgstr "更新"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:79
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:88
+#, fuzzy
+msgid "Update Settings"
+msgstr "更新设置"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:80
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:225
+#, fuzzy
+msgid "Cancel"
+msgstr "取消"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:81
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:224
+#, fuzzy
+msgid "Continue"
+msgstr "继续"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:83
+#, fuzzy
+msgid "Add User"
+msgstr "添加用户"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:84
+#, fuzzy
+msgid "Update User"
+msgstr "更新用户"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:85
+#, fuzzy
+msgid "Submit"
+msgstr "提交"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:86
+#, fuzzy
+msgid "Go"
+msgstr "去"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:87
+#, fuzzy
+msgid "Update Permissions"
+msgstr "UPDATE权限"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:89
+#, fuzzy
+msgid "Upload File"
+msgstr "上传文件"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:90
+#, fuzzy
+msgid "Upload Plugin"
+msgstr "上传插件"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:91
+#, fuzzy
+msgid "Check For Updates Now"
+msgstr "现在检查更新"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:97
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:170
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:194
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1006
+#: trunk/nagiosfusion/basedir/html/config/main.php:87
+#, fuzzy
+msgid "Username"
+msgstr "用户名"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:98
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:195
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1007
+#: trunk/nagiosfusion/basedir/html/config/main.php:88
+#, fuzzy
+msgid "Password"
+msgstr "密码"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:99
+#, fuzzy
+msgid "New Password"
+msgstr "新密码"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:100
+#, fuzzy
+msgid "Repeat New Password"
+msgstr "重复新密码"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:101
+#, fuzzy
+msgid "Repeat Password"
+msgstr "重复密码"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:102
+#, fuzzy
+msgid "Admin Email Address"
+msgstr "管理员电子邮件地址"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:103
+#, fuzzy
+msgid "Email Address"
+msgstr "电邮地址"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:104
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:199
+#, fuzzy
+msgid "Language"
+msgstr "语"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:105
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:200
+#, fuzzy
+msgid "Theme"
+msgstr "主题"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:106
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:171
+#, fuzzy
+msgid "Name"
+msgstr "名称"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:107
+#, fuzzy
+msgid "Authorization Level"
+msgstr "授权等级"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:108
+#, fuzzy
+msgid "Force Password Change at Next Login"
+msgstr "强制在下次登录时的密码更改"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:109
+#, fuzzy
+msgid "Email User Account Information"
+msgstr "电子邮件用户帐户信息"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:110
+#, fuzzy
+msgid "Email User New Password"
+msgstr "电子邮件用户的新密码"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:111
+#, fuzzy
+msgid "Date Format"
+msgstr "日期格式"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:112
+#, fuzzy
+msgid "Number Format"
+msgstr "数字格式"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:113
+#, fuzzy
+msgid "Comments"
+msgstr "评论"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:114
+#, fuzzy
+msgid "Your Name (Optional)"
+msgstr "您的姓名（可选）"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:115
+#, fuzzy
+msgid "Your Email Address (Optional)"
+msgstr "您的电子邮件地址（可选）"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:120
+#, fuzzy
+msgid "Invalid username or password."
+msgstr "无效的用户名或密码。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:121
+#, fuzzy
+msgid "No username specified."
+msgstr "未指定用户名。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:122
+#, fuzzy
+msgid "No account was found by that name."
+msgstr "没有帐号被发现叫这个名字。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:123
+#, fuzzy
+msgid "Unable to get account email address."
+msgstr "无法获取帐户的电子邮件地址。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:124
+#, fuzzy
+msgid "Unable to get admin email address."
+msgstr "无法获得管理员的电子邮件地址。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:125
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:128
+#, fuzzy
+msgid "Email address is invalid."
+msgstr "电子邮件地址是无效的。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:126
+#, fuzzy
+msgid "Username is blank."
+msgstr "用户名是空白的。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:127
+#, fuzzy
+msgid "Email address is blank."
+msgstr "电子邮件地址是空白的。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:129
+#, fuzzy
+msgid "Password is blank."
+msgstr "密码为空。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:130
+#, fuzzy
+msgid "Security level is blank."
+msgstr "安全级别是空白的。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:131
+#, fuzzy
+msgid "An account with that username already exists."
+msgstr "用该用户名已经存在的帐户。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:132
+#, fuzzy
+msgid "Failed to add account"
+msgstr "无法添加帐户"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:133
+#, fuzzy
+msgid "Unable to assign account privileges."
+msgstr "无法指定帐户权限。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:134
+#, fuzzy
+msgid "URL is blank."
+msgstr "URL是空白的。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:135
+#, fuzzy
+msgid "Passwords do not match."
+msgstr "密码不匹配。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:136
+#, fuzzy
+msgid "Default language not specified."
+msgstr "没有指定默认语言。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:137
+#, fuzzy
+msgid "Default theme not specified."
+msgstr "默认主题没有指定。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:138
+#, fuzzy
+msgid "Name is blank."
+msgstr "名称为空。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:139
+#, fuzzy
+msgid "Invalid URL."
+msgstr "无效的URL。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:140
+#, fuzzy
+msgid "User account was not found."
+msgstr "用户帐户没有被发现。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:141
+#, fuzzy
+msgid "Blank authorization level."
+msgstr "空白的授权级别。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:142
+#, fuzzy
+msgid "Invalid authorization level."
+msgstr "无效的授权级别。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:143
+#, fuzzy
+msgid "User account was not specified."
+msgstr "未指定用户帐户。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:144
+#, fuzzy
+msgid "You cannot delete your own account."
+msgstr "您无法删除自己的帐户。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:145
+#, fuzzy
+msgid "No account selected."
+msgstr "没有帐号选择。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:146
+#, fuzzy
+msgid "Invalid account."
+msgstr "无效的帐户。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:147
+#, fuzzy
+msgid "No admin name specified."
+msgstr "没有指定的管理员名称。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:148
+#, fuzzy
+msgid "No admin email address specified."
+msgstr "没有管理员指定的电子邮件地址。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:149
+#, fuzzy
+msgid "Admin email address is invalid."
+msgstr "管理员的电子邮件地址是无效的。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:154
+#, fuzzy
+msgid "Legal Info"
+msgstr "法律信息"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:157
+#, fuzzy
+msgid "Privacy Policy"
+msgstr "隐私权政策"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:160
+#, fuzzy
+msgid "First Page"
+msgstr "第一页"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:161
+#, fuzzy
+msgid "Last Page"
+msgstr "尾页"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:162
+#, fuzzy
+msgid "Next Page"
+msgstr "下一页"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:163
+#, fuzzy
+msgid "Previous Page"
+msgstr "上一页"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:164
+#, fuzzy
+msgid "Page"
+msgstr "页"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:172
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:715
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1129
+#: trunk/nagiosfusion/basedir/html/loginsplash.inc.php:36
+#: trunk/nagiosfusion/basedir/html/about/main.php:79
+#: trunk/nagiosfusion/basedir/html/login.php:255
+#, fuzzy
+msgid "Email"
+msgstr "电子邮件"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:174
+#: trunk/nagiosfusion/basedir/html/admin/components.php:242
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:522
+#, fuzzy
+msgid "Date"
+msgstr "日期"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:175
+#, fuzzy
+msgid "Result"
+msgstr "导致"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:176
+#, fuzzy
+msgid "File"
+msgstr "文件"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:178
+#, fuzzy
+msgid "Snapshot Result"
+msgstr "快照结果"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:179
+#: trunk/nagiosfusion/basedir/html/admin/components.php:240
+#, fuzzy
+msgid "Version"
+msgstr "版本"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:187
+#, fuzzy
+msgid "The page that went missing was: "
+msgstr "失踪的页面是："
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:188
+#, fuzzy
+msgid ""
+"We're currently working on this feature.  Until it's completed, you can't "
+"have it!  Seriously though - just sit tight for a while and we'll get it "
+"done."
+msgstr "我们目前正在此功能。 ，直到它完成，你可以没有呢！虽然严重 - 刚刚坐稳了一段时间，我们将完成它。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:191
+#, fuzzy
+msgid "Forgot your password?"
+msgstr "忘记密码？"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:192
+#, fuzzy
+msgid "You have logged out."
+msgstr "您已注销。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:193
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:635
+#, fuzzy
+msgid "Try Again"
+msgstr "再试一次"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:196
+#, fuzzy
+msgid "Administrator Password"
+msgstr "管理员密码"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:198
+#, fuzzy
+msgid "Query"
+msgstr "询问"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:202
+#, fuzzy
+msgid "Menu"
+msgstr "菜单"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:203
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:578
+#, fuzzy
+msgid "Settings Updated."
+msgstr "设置更新。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:204
+#, fuzzy
+msgid "Yes"
+msgstr "是"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:205
+#, fuzzy
+msgid "No"
+msgstr "没有"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:206
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:207
+#, fuzzy
+msgid "Options Updated."
+msgstr "选项​​已更新。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:208
+#, fuzzy
+msgid "User Updated."
+msgstr "用户更新。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:209
+#, fuzzy
+msgid "User Added."
+msgstr "用户加入。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:210
+#, fuzzy
+msgid "User Deleted."
+msgstr "用户删除。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:211
+#, fuzzy
+msgid "Users Deleted."
+msgstr "用户删除。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:212
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:567
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:568
+#, fuzzy
+msgid "Add New User"
+msgstr "添加新用户"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:213
+#, fuzzy
+msgid "Your session has timed out."
+msgstr "您的会话已超时。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:214
+#, fuzzy
+msgid "Search..."
+msgstr "搜索..."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:215
+#, fuzzy
+msgid "With Selected:"
+msgstr "随着选择："
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:216
+#, fuzzy
+msgid "Check Now"
+msgstr "立即检查"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:217
+#, fuzzy
+msgid "Your version is up to date."
+msgstr "您的版本是最新的。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:218
+#, fuzzy
+msgid "An update is available."
+msgstr "有可用的更新。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:219
+#, fuzzy
+msgid "New version information"
+msgstr "新版本的信息"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:220
+#, fuzzy
+msgid "Your current version"
+msgstr "您当前的版本"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:221
+#, fuzzy
+msgid "Notices"
+msgstr "声明"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:226
+#, fuzzy
+msgid "Per Page"
+msgstr "每页"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:228
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:229
+#, fuzzy
+msgid "N/A"
+msgstr "N / A"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:238
+#, fuzzy
+msgid "total records"
+msgstr "总记录"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:239
+#, fuzzy
+msgid "total matches for"
+msgstr "总匹配的"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:240
+#, fuzzy
+msgid "Showing"
+msgstr "显示"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:241
+#, fuzzy
+msgid "of"
+msgstr "的"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:242
+#, fuzzy
+msgid "You are currently running"
+msgstr "当前正在运行"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:243
+#, fuzzy
+msgid "was released on"
+msgstr "被释放"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:249
+#, fuzzy
+msgid ""
+"The page you requested seems to be missing.  It is theoretically possible - "
+"though highly unlikely - that we are to blame for this.  It is far more "
+"likely that something is wrong with the Universe.  Run for it!"
+msgstr "您请求的页面似乎缺少。这在理论上是可能的 - 虽然极不可能的 - 我们是应该为此负责。这是更为可能的，什么是错的宇宙。快跑吧！"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:250
+#, fuzzy
+msgid "Enter your username to have your password reset and emailed to you."
+msgstr "输入您的用户名，重置您的密码，并通过电子邮件发送给您。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:251
+#, fuzzy
+msgid "Your account password has been reset and emailed to you."
+msgstr "您的帐户密码已重设，并通过电子邮件发送给您。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:252
+#, fuzzy
+msgid "Nagios Reports is already installed and up-to-date."
+msgstr "已经安装Nagios的报告和到的日期。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:253
+#, fuzzy
+msgid ""
+"Your installation requires an upgrade.  Click the button below to begin."
+msgstr "您的安装需要升级。点击下面的按钮开始。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:254
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:256
+#, fuzzy
+msgid "One or more errors were encountered:"
+msgstr "遇到一个或多个错误："
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:255
+#, fuzzy
+msgid ""
+"Nagios Reports has not yet been setup.  Complete the form below to install "
+"it."
+msgstr "Nagios的报告至今尚未安装。填写下面的表格来安装它。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:257
+#, fuzzy
+msgid ""
+"One or more fatal errors were encountered during the installation process:"
+msgstr "在安装过程中遇到的一个或多个致命的错误："
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:258
+#, fuzzy
+msgid "Upgrade is complete!"
+msgstr "升级已经完成！"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:259
+#, fuzzy
+msgid ""
+"Installation is complete!  You can now login with the following credentials:"
+msgstr "安装完成！现在，您可以登录使用以下凭证："
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:260
+#, fuzzy
+msgid "An error occurred while executing the following SQL query."
+msgstr "执行下列SQL查询时发生错误。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:261
+#, fuzzy
+msgid "Unable to connect to database"
+msgstr "无法连接到数据库"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:262
+#, fuzzy
+msgid "You are required to change your password before proceeding."
+msgstr "您需要更改您的密码，然后再继续。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:263
+#, fuzzy
+msgid ""
+"We love input!  Tell us what you think about this product and you'll "
+"directly drive future innovation!"
+msgstr "我们热爱输入！请告诉我们您考虑一下这款产品，您将直接推动未来的创新！"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:264
+#, fuzzy
+msgid "Please wait..."
+msgstr "请稍候..."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:265
+#, fuzzy
+msgid ""
+"Thanks for helping to make this product better!  We'll review your comments "
+"as soon as we get a chance.  Until then, kudos to you for being awesome and "
+"helping drive innovation!<br><br>   - The Dedicated Team @ Nagios "
+"Enterprises"
+msgstr ""
+"感谢您的帮助，以更好地使这种产品！只要我们有机会，我们将审核您的评论。在此之前，荣誉给你真棒，推动创新！ <br><br> - "
+"专门的团队Nagios的企业"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:266
+#, fuzzy
+msgid "An error occurred.  Please try again later."
+msgstr "发生错误。请稍后再试一次。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:275
+#, fuzzy
+msgid "Nagios Fusion Password Reset"
+msgstr "Nagios的融合重设密码"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:276
+#, fuzzy
+msgid "Nagios Fusion Password Changed"
+msgstr "Nagios的融合更改密码"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:277
+#, fuzzy
+msgid "Nagios Fusion Account Created"
+msgstr "Nagios的融合创建的帐户"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:279
+#, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, fuzzy
+msgid ""
+"Your Nagios Fusion account password has been reset to:\n"
+"\n"
+"%s\n"
+"\n"
+"You can login to Nagios Fusion at the following URL:\n"
+"\n"
+"%s\n"
+"\n"
+msgstr ""
+"你的Nagios的融合帐户密码已重置为:\n"
+"\n"
+"％s\n"
+"在下面的URL，您可以登录到Nagios的融合：\n"
+"\n"
+"%s\n"
+"\n"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:281
+#, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, fuzzy
+msgid ""
+"Your Nagios Fusion account password has been changed by an administrator.  You can login using the following information:\n"
+"\n"
+"Username: %s\n"
+"Password: %s\n"
+"URL: %s\n"
+"\n"
+msgstr ""
+"你的Nagios的融合帐户的密码已更改管理员。您可以登录以下信息：\n"
+"\n"
+"用户名：％s\n"
+"密码：％s\n"
+"的URL：％s\n"
+"\n"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:283
+#, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, php-format, fuzzy
+msgid ""
+"An account has been created for you to access Nagios Fusion.  You can login using the following information:\n"
+"\n"
+"Username: %s\n"
+"Password: %s\n"
+"URL: %s\n"
+"\n"
+msgstr ""
+"已经创建了一个帐户，您可以访问Nagios的融合。您可以登录以下信息：\n"
+"\n"
+"用户名：％s\n"
+"密码：％s\n"
+"的URL：％s\n"
+"\n"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:296
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:471
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:538
+#, fuzzy
+msgid "Delete"
+msgstr "删除"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:297
+#, fuzzy
+msgid "Clear Search Criteria"
+msgstr "清除搜索标准"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:299
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:914
+#, fuzzy
+msgid "Permissions"
+msgstr "权限"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:300
+#, fuzzy
+msgid "Customize Permissions"
+msgstr "自定义权限"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:301
+#, fuzzy
+msgid "Masquerade As"
+msgstr "伪装成"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:302
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:536
+#, fuzzy
+msgid "View"
+msgstr "看"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:303
+#, fuzzy
+msgid "Popout"
+msgstr "弹出式视窗"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:304
+#, fuzzy
+msgid "Add to My Views"
+msgstr "我的意见"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:305
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:412
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:418
+#, fuzzy
+msgid "Add View"
+msgstr "添加视图"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:306
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:425
+#, fuzzy
+msgid "Edit View"
+msgstr "编辑视图"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:307
+#, fuzzy
+msgid "Delete View"
+msgstr "删除视图"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:308
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:406
+#, fuzzy
+msgid "Send Us Feedback"
+msgstr "给我们反馈"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:309
+#, fuzzy
+msgid "Get Permalink"
+msgstr "获取固定链接"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:310
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:537
+#, fuzzy
+msgid "Download"
+msgstr "下载"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:311
+#, fuzzy
+msgid "View Output"
+msgstr "查看输出"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:312
+#, fuzzy
+msgid "View Host Notifications"
+msgstr "查看主机通知"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:313
+#, fuzzy
+msgid "View Current Host Status"
+msgstr "查看当前主机状态"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:314
+#, fuzzy
+msgid "View Current Status of Host Services"
+msgstr "查看主机服务的现状"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:315
+#, fuzzy
+msgid "View Service Notifications"
+msgstr "查看服务通知"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:316
+#, fuzzy
+msgid "View Current Service Status"
+msgstr "查看当前的服务状态"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:317
+#, fuzzy
+msgid "View Current Status For Host Services"
+msgstr "查看当前的状态，对于主机服务"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:318
+#, fuzzy
+msgid "View Host History"
+msgstr "查看主机记录"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:319
+#, fuzzy
+msgid "View Service History"
+msgstr "查看服务历史记录"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:320
+#, fuzzy
+msgid "View Host Trends"
+msgstr "查看主机发展趋势"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:321
+#, fuzzy
+msgid "View Service Trends"
+msgstr "查看服务趋势"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:322
+#, fuzzy
+msgid "View Host Availability"
+msgstr "查看主机的可用性"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:323
+#, fuzzy
+msgid "View Service Availability"
+msgstr "服务可用性"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:324
+#, fuzzy
+msgid "View Host Alert Histogram"
+msgstr "查看主机警报直方图"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:325
+#, fuzzy
+msgid "View Service Alert Histogram"
+msgstr "服务警报直方图"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:326
+#, fuzzy
+msgid "Refresh"
+msgstr "刷新"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:327
+#, fuzzy
+msgid "Force Refresh"
+msgstr "强行刷新"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:328
+#, fuzzy
+msgid "Clear Filter"
+msgstr "清除过滤器"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:329
+#, fuzzy
+msgid "Edit Settings"
+msgstr "编辑设置"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:335
+#, fuzzy
+msgid "YYYY-MM-DD HH:MM:SS"
+msgstr "YYYY-MM-DD HH：MM：SS"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:336
+#, fuzzy
+msgid "MM/DD/YYYY HH:MM:SS"
+msgstr "MM / DD / YYYY HH：MM：SS"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:337
+#, fuzzy
+msgid "DD/MM/YYYY HH:MM:SS"
+msgstr "DD / MM / YYYY HH：MM：SS"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:343
+#, fuzzy
+msgid "1000.00"
+msgstr "1000.00"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:344
+#, fuzzy
+msgid "1,000.00"
+msgstr "1,000.00"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:345
+#, fuzzy
+msgid "1.000,00"
+msgstr "1,000.00"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:346
+#, fuzzy
+msgid "1 000,00"
+msgstr "1 000,00"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:347
+#, fuzzy
+msgid "1'000,00"
+msgstr "1'000，00"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:354
+#, fuzzy
+msgid "Host Group"
+msgstr "主机组"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:356
+#, fuzzy
+msgid "Service Group"
+msgstr "服务组"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:357
+#, fuzzy
+msgid "Host Escalation"
+msgstr "主机升级"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:358
+#, fuzzy
+msgid "Service Escalation"
+msgstr "服务升级"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:359
+#, fuzzy
+msgid "Host Dependency"
+msgstr "主机依赖"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:360
+#, fuzzy
+msgid "Service Dependency"
+msgstr "服务的依赖"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:361
+#, fuzzy
+msgid "Timeperiod"
+msgstr "TIMEPERIOD"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:363
+#, fuzzy
+msgid "Contact Group"
+msgstr "联络小组"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:364
+#, fuzzy
+msgid "Command"
+msgstr "命令"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:367
+#, fuzzy
+msgid "Host Groups"
+msgstr "主机组"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:369
+#, fuzzy
+msgid "Service Groups"
+msgstr "服务组"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:370
+#, fuzzy
+msgid "Host Escalations"
+msgstr "主机上报"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:371
+#, fuzzy
+msgid "Service Escalations"
+msgstr "服务上报"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:372
+#, fuzzy
+msgid "Host Dependencies"
+msgstr "主机的依赖"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:373
+#, fuzzy
+msgid "Service Dependencies"
+msgstr "服务间的依赖关系"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:374
+#, fuzzy
+msgid "Timeperiods"
+msgstr "Timeperiods"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:375
+#, fuzzy
+msgid "Contacts"
+msgstr "往来"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:376
+#, fuzzy
+msgid "Contact Groups"
+msgstr "联络组"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:377
+#, fuzzy
+msgid "Commands"
+msgstr "命令"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:395
+#, fuzzy
+msgid "Hard"
+msgstr "硬"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:396
+#, fuzzy
+msgid "Soft"
+msgstr "软"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:398
+#, fuzzy
+msgid "Passive"
+msgstr "被动"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:399
+#, fuzzy
+msgid "Active"
+msgstr "活跃"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:408
+#, fuzzy
+msgid "An error occurred processing your request. :-("
+msgstr "处理您的请求时发生错误。 :-("
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:409
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:641
+#, fuzzy
+msgid "Please Wait"
+msgstr "请稍候"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:410
+#, fuzzy
+msgid "Processing..."
+msgstr "处理中..."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:413
+#, fuzzy
+msgid "Use this to add what you see on the screen to your <b>Views</b> page."
+msgstr "使用此添加你所看到的在屏幕上你的<b>意见</b> 。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:414
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:420
+#, fuzzy
+msgid "View Added"
+msgstr "查看添加"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:415
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:421
+#, fuzzy
+msgid "Success! Your view was added to your <b>Views</b> page."
+msgstr "成功了！你的加入你的<b>意见</b> 。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:416
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:423
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:430
+#, fuzzy
+msgid "View Title"
+msgstr "查看标题"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:422
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:429
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:434
+#, fuzzy
+msgid "URL"
+msgstr "URL"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:427
+#, fuzzy
+msgid "View Changed"
+msgstr "改变视图"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:428
+#, fuzzy
+msgid "Success! Your view was updated successfully."
+msgstr "成功了！已成功更新您的观点。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:432
+#, fuzzy
+msgid "Permalink"
+msgstr "固定链接"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:433
+#, fuzzy
+msgid "Copy the URL below to retain a direct link to your current view."
+msgstr "复制下面的URL保留直接链接到您的当前视图。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:437
+#, fuzzy
+msgid "No Views Defined"
+msgstr "没有定义的视图"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:438
+#, fuzzy
+msgid "You have no views defined."
+msgstr "你有没有定义的视图。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:441
+#, fuzzy
+msgid "No Dashboards Defined"
+msgstr "没有仪表板定义"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:442
+#, fuzzy
+msgid "You have no dashboards defined."
+msgstr "你有没有仪表盘定义。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:444
+#, fuzzy
+msgid "Add A New Dashboard"
+msgstr "添加一个新的仪表板"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:445
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:460
+#, fuzzy
+msgid "Edit Dashboard"
+msgstr "编辑仪表板"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:446
+#, fuzzy
+msgid "Delete Dashboard"
+msgstr "删除仪表板"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:448
+#, fuzzy
+msgid "Pause"
+msgstr "暂停"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:452
+#, fuzzy
+msgid ""
+"The following dashlets can be added to any one or more of your dashboards.  "
+"How awesome!"
+msgstr "可以被添加到你的仪表板中的任何一个或多个下列dashlets。如何真棒！"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:454
+#, fuzzy
+msgid "Add Dashboard"
+msgstr "新增仪表板"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:455
+#, fuzzy
+msgid "Use this to add a new dashboard to your <b>Dashboards</b> page."
+msgstr "添加一个新的仪表板， <b>仪表板</b>页面。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:456
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:464
+#, fuzzy
+msgid "Dashboard Title"
+msgstr "仪表板标题"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:457
+#, fuzzy
+msgid "Dashboard Added"
+msgstr "仪表盘添加"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:458
+#, fuzzy
+msgid "Success! Your new dashboard has been added."
+msgstr "成功了！你的新的仪表板已被添加。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:462
+#, fuzzy
+msgid "Dashboard Changed"
+msgstr "仪表板改变"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:463
+#, fuzzy
+msgid "Success! Your dashboard was updated successfully."
+msgstr "成功了！您的仪表板已成功更新。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:466
+#, fuzzy
+msgid "Confirm Dashboard Deletion"
+msgstr "确认控制面板删除"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:467
+#, fuzzy
+msgid ""
+"Are you sure you want to delete this dashboard and all dashlets it contains?"
+msgstr "您确定您要删除此仪表板和它包含的所有dashlets吗？"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:468
+#, fuzzy
+msgid "Dashboard Deleted"
+msgstr "仪表板删除"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:469
+#, fuzzy
+msgid "The requested dashboard has been deleted.  Good riddance!"
+msgstr "所要求的仪表板已被删除。太好了！"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:473
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:474
+#, fuzzy
+msgid "Bad Dashboard"
+msgstr "坏仪表板"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:475
+#, fuzzy
+msgid "Unfortunately for you, that dashboard is not valid...  Too bad."
+msgstr "不幸的是，你是无效的，该仪表板...太糟糕了。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:477
+#, fuzzy
+msgid "View Deleted"
+msgstr "查看已删除"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:478
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:507
+#, fuzzy
+msgid "Good riddance!"
+msgstr "太好了！"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:480
+#, fuzzy
+msgid "Add To Dashboard"
+msgstr "添加到控制台"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:481
+#, fuzzy
+msgid ""
+"Add this powerful little dashlet to one of your dashboards for visual "
+"goodness."
+msgstr "将此功能强大的仪表盘视觉善良的小dashlet。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:482
+#, fuzzy
+msgid "Dashlet Title"
+msgstr "Dashlet标题"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:484
+#, fuzzy
+msgid "Dashlet Added"
+msgstr "Dashlet添加"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:485
+#, fuzzy
+msgid ""
+"The little dashlet that could will now be busy at work on your dashboard..."
+msgstr "的的小dashlet，现在是繁忙的工作，你的仪表盘..."
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:486
+#, fuzzy
+msgid "Which Dashboard?"
+msgstr "哪个板？"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:491
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:492
+#, fuzzy
+msgid "Addons"
+msgstr "附加产品"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:494
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:496
+#, fuzzy
+msgid "No View"
+msgstr "没有查看"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:495
+#, fuzzy
+msgid "There is no active view to delete."
+msgstr "不存在活跃删除。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:497
+#, fuzzy
+msgid "There is no active view to edit."
+msgstr "不存在活跃的编辑。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:499
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:501
+#, fuzzy
+msgid "No Dashboard"
+msgstr "无仪表板"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:500
+#, fuzzy
+msgid "There is no active dashboard to delete."
+msgstr "不存在活跃的仪表盘上删除。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:502
+#, fuzzy
+msgid "There is no active dashboard to edit."
+msgstr "不存在活跃的仪表盘上编辑。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:504
+#, fuzzy
+msgid "Add It"
+msgstr "其添加"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:506
+#, fuzzy
+msgid "Dashlet Deleted"
+msgstr "Dashlet删除"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:509
+#, fuzzy
+msgid "Pin / Float Dashlet"
+msgstr "锁定/浮动Dashlet的"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:510
+#, fuzzy
+msgid "Configure Dashlet"
+msgstr "配置Dashlet"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:511
+#, fuzzy
+msgid "Delete Dashlet"
+msgstr "删除Dashlet"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:512
+#, fuzzy
+msgid "Background Color"
+msgstr "背景颜色"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:517
+#, fuzzy
+msgid "General Account Settings"
+msgstr "一般帐户设定"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:520
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:521
+#, fuzzy
+msgid "Notification Preferences"
+msgstr "通知首选项"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:524
+#, fuzzy
+msgid "Ignore Update Notices"
+msgstr "忽略更新通知"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:525
+#, fuzzy
+msgid "Changes are disabled while in demo mode."
+msgstr "而在演示模式下被禁用更改。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:527
+#, fuzzy
+msgid "System Settings"
+msgstr "系统设置"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:528
+#, fuzzy
+msgid "Automatically Check for Updates"
+msgstr "自动检查更新"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:536
+#, fuzzy
+msgid "Server added."
+msgstr "服务器。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:537
+#, fuzzy
+msgid "Server updated."
+msgstr "服务器更新。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:538
+#, fuzzy
+msgid "Server deleted."
+msgstr "服务器上删除。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:539
+#, fuzzy
+msgid "servers deleted."
+msgstr "服务器删除。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:540
+#, fuzzy
+msgid "Add a new server"
+msgstr "添加一个新的服务器"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:542
+#, fuzzy
+msgid "Update Server"
+msgstr "更新服务器"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:543
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:545
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:546
+#, fuzzy
+msgid "Add Server"
+msgstr "添加服务器"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:547
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:548
+#, fuzzy
+msgid "Edit Server"
+msgstr "编辑服务器"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:550
+#, fuzzy
+msgid "Server Name"
+msgstr "服务器名称"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:551
+#, fuzzy
+msgid "Server Address"
+msgstr "服务器地址"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:552
+#, fuzzy
+msgid "Public URL"
+msgstr "公开网址"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:553
+#, fuzzy
+msgid "Internal URL"
+msgstr "内部URL"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:554
+#: trunk/nagiosfusion/basedir/html/config/main.php:83
+#, fuzzy
+msgid "Server Type"
+msgstr "服务器类型"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:555
+#, fuzzy
+msgid "Server Location"
+msgstr "服务器位置"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:556
+#, fuzzy
+msgid "Server Notes"
+msgstr "服务器注意事项"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:557
+#, fuzzy
+msgid "Authentication Method"
+msgstr "验证方法"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:560
+#, fuzzy
+msgid "Not Matching Records Found."
+msgstr "不匹配的记录。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:562
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:603
+#, fuzzy
+msgid "Clone"
+msgstr "克隆"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:564
+#, fuzzy
+msgid "Masquerade Notice"
+msgstr "假面舞会的通知"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:565
+#, fuzzy
+msgid ""
+"You are about to masquerade as another user.  If you choose to continue you "
+"will be logged out of your current account and logged in as the selected "
+"user.  In the process of doing so, you may loose your admin privileges."
+msgstr "你是伪装成另一个用户。如果你选择继续，您将被注销您的当前帐户，并为选定的用户身份登录。在这样做的过程中，你可能会失去你的管理员权限。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:569
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:570
+#, fuzzy
+msgid "Edit User"
+msgstr "编辑用户"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:572
+#, fuzzy
+msgid "General Settings"
+msgstr "“常规设置”"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:573
+#, fuzzy
+msgid "Preferences"
+msgstr "首选项"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:574
+#, fuzzy
+msgid "Security Settings"
+msgstr "“安全设置”"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:576
+#, fuzzy
+msgid "Program URL"
+msgstr "程序URL"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:580
+#, fuzzy
+msgid "Administrator Name"
+msgstr "管理员名称"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:581
+#, fuzzy
+msgid "Administrator Email Address"
+msgstr "管理员电子邮件地址"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:585
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:586
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:587
+#, fuzzy
+msgid "Clone User"
+msgstr "克隆用户"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:589
+#, fuzzy
+msgid "User cloned."
+msgstr "用户克隆。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:591
+#, fuzzy
+msgid ""
+"Use this functionality to create a new user account that is an exact clone "
+"of another account on the system.  The cloned account will inherit all "
+"preferences, views, and dashboards of the original user."
+msgstr "使用此功能来创建一个新的用户帐户，这是一个确切的克隆系统上的另一个帐户。克隆的帐户将继承原用户的喜好，观点和仪表盘。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:595
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:596
+#, fuzzy
+msgid "Monitoring Engine Status"
+msgstr "监控引擎状态"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:599
+#, fuzzy
+msgid "You cannot delete your home page dashboard."
+msgstr "您无法删除您的主页仪表板。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:601
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:605
+#, fuzzy
+msgid "Clone Dashboard"
+msgstr "克隆仪表板"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:606
+#, fuzzy
+msgid ""
+"Use this to make an exact clone of the current dashboard and all its "
+"wonderful dashlets."
+msgstr "这，使当前仪表板的精确克隆和它的所有精彩的dashlets。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:607
+#, fuzzy
+msgid "Dashboard Cloned"
+msgstr "仪表板克隆"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:608
+#, fuzzy
+msgid "Dashboard successfully cloned."
+msgstr "仪表板成功克隆了。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:609
+#, fuzzy
+msgid "New Title"
+msgstr "新标题"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:612
+#, fuzzy
+msgid ""
+"Deleting dashlets from the home page dashboard is disabled while in demo "
+"mode."
+msgstr "而在演示模式下删除主页仪表板dashlets从被禁用。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:614
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:615
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1025
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1030
+#, fuzzy
+msgid "Performance Graphs"
+msgstr "性能图"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:617
+#, fuzzy
+msgid "There are no datasources to display for this service."
+msgstr "有没有数据源显示此服务。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:619
+#, fuzzy
+msgid "Clear Date"
+msgstr "清除日期"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:620
+#, fuzzy
+msgid ""
+"You are not authorized to access this feature.  Contact your Nagios Fusion "
+"administrator for more information, or to obtain access to this feature."
+msgstr "您没有权限访问此功能。请联系您的的Nagios的融合管理员的更多信息，或获得访问该功能。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:622
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:623
+#, fuzzy
+msgid "Reports"
+msgstr "报告"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:627
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:628
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:634
+#, fuzzy
+msgid "Apply Configuration"
+msgstr "应用配置"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:630
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:631
+#, fuzzy
+msgid "Applying Configuration"
+msgstr "应用配置"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:632
+#, fuzzy
+msgid ""
+"Use this feature to apply any outstanding configuration changes to Nagios "
+"Core.  Changes will be applied and the monitoring engine will be restarted "
+"with the updated configuration."
+msgstr "使用此功能适用于任何悬而未决的配置更改Nagios的核心。更改将被应用与更新的配置和监控引擎将重新启动。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:636
+#, fuzzy
+msgid "Success!  Nagios Core was restarted with an updated configuration."
+msgstr "成功了！ Nagios的核心是重新开始一个更新的配置。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:637
+#, fuzzy
+msgid ""
+"An error occurred while attempting to apply your configuration to Nagios "
+"Core.  Monitoring engine configuration files have been rolled back to their "
+"last known good checkpoint."
+msgstr "试图运用你的配置Nagios的核心时发生错误。监控引擎配置文件已被回滚到最后一次正确的检查站。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:638
+#, fuzzy
+msgid "View configuration snapshots"
+msgstr "查看配置快照"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:639
+#, fuzzy
+msgid "View a snapshot of this configuration error"
+msgstr "查看此配置错误的快照"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:642
+#, fuzzy
+msgid "Submitting command"
+msgstr "提交命令"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:644
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:645
+#, fuzzy
+msgid "Help for Nagios Fusion"
+msgstr "Nagios的融合帮助"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:646
+#, fuzzy
+msgid "Get Help Online"
+msgstr "获取在线帮助"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:647
+#, fuzzy
+msgid "More Options"
+msgstr "更多选项"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:649
+#: trunk/nagiosfusion/basedir/html/loginsplash.inc.php:11
+#: trunk/nagiosfusion/basedir/html/login.php:230
+#, fuzzy
+msgid "About Nagios Fusion"
+msgstr "关于Nagios的融合"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:659
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:660
+#, fuzzy
+msgid "Administration"
+msgstr "管理"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:663
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:664
+#, fuzzy
+msgid "Host Status Detail"
+msgstr "主机状态详细信息"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:665
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:666
+#, fuzzy
+msgid "Service Status Detail"
+msgstr "服务状态详细信息"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:667
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:668
+#, fuzzy
+msgid "Service Group Status"
+msgstr "服务组的状态"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:669
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:670
+#, fuzzy
+msgid "Host Group Status"
+msgstr "主机组状态"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:677
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:678
+#, fuzzy
+msgid "Open Problems"
+msgstr "开放式问题"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:679
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:680
+#, fuzzy
+msgid "Host Problems"
+msgstr "主机问题"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:681
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:682
+#, fuzzy
+msgid "Service Problems"
+msgstr "服务问题"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:687
+#, fuzzy
+msgid "Last Check"
+msgstr "最后检查"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:688
+#, fuzzy
+msgid "Attempt"
+msgstr "尝试"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:689
+#, fuzzy
+msgid "Duration"
+msgstr "为期"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:690
+#, fuzzy
+msgid "Status Information"
+msgstr "状态信息"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:696
+#, fuzzy
+msgid "License Key"
+msgstr "许可证密钥"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:699
+#, fuzzy
+msgid "(Limited edition without support)"
+msgstr "（限量版不支持）"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:700
+#, fuzzy
+msgid "Licensed"
+msgstr "许可"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:702
+#, fuzzy
+msgid "Your License Key"
+msgstr "您的授权码"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:703
+#, fuzzy
+msgid "Update Key"
+msgstr "更新密钥"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:704
+#, fuzzy
+msgid "The license key you entered is not valid."
+msgstr "您输入的许可证密钥是无效的。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:705
+#, fuzzy
+msgid "License key updated successfully"
+msgstr "许可证密钥更新成功"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:706
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:707
+#, fuzzy
+msgid "License Exceeded"
+msgstr "许可证超出"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:708
+#, fuzzy
+msgid "You have exceeded your license, so this feature is not available."
+msgstr "您已超过许可证，因此这个功能是不可用的。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:712
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1120
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1121
+#, fuzzy
+msgid "Notification Methods"
+msgstr "通知的方法"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:713
+#, fuzzy
+msgid ""
+"Specify the methods by which you'd like to receive alert messages.  "
+"<br><b>Note:</b>These methods are only used if you have <a "
+"href='notifyprefs.php'>enabled notifications</a> for your account."
+msgstr ""
+"指定的方法，通过它您希望接收警报消息。 <br> <b>注意：</b>这些方法仅用于为您的帐户，如果您有<a "
+"href='notifyprefs.php'>启用的通知</a> 。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:716
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1132
+#, fuzzy
+msgid "Mobile Phone Text Message"
+msgstr "手机短信"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:717
+#, fuzzy
+msgid "Enable Notifications"
+msgstr "启用通知"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:718
+#, fuzzy
+msgid ""
+"Choose whether or not you want to receive alert messages.  <br><b>Note:</b> "
+"You must specify which notification methods to use in the <a "
+"href='notifymethods.php'>notification methods</a> page."
+msgstr ""
+"选择是否要接收警报消息。 <br> <b>注意：</b>您必须指定通知方法使用的<a href='notifymethods.php'>通知方法</a>"
+" 。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:719
+#, fuzzy
+msgid "Notification Status"
+msgstr "通知状态"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:720
+#, fuzzy
+msgid "Mobile Phone Number"
+msgstr "手机号码"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:721
+#, fuzzy
+msgid "Mobile Phone Carrier"
+msgstr "移动电话运营商"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:722
+#, fuzzy
+msgid "Invalid mobile phone number."
+msgstr "无效的手机号码。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:723
+#, fuzzy
+msgid "Missing mobile phone number."
+msgstr "遗失的手机号码。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:724
+#, fuzzy
+msgid "Notification preferences updated."
+msgstr "更新通知偏好设定。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:725
+#, fuzzy
+msgid "Notification Types"
+msgstr "通知类型"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:726
+#, fuzzy
+msgid "Select the types of alerts you'd like to receive."
+msgstr "选择你想收到警报的类型。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:727
+#, fuzzy
+msgid "Notification Times"
+msgstr "通知时间"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:728
+#, fuzzy
+msgid "Specify the times of day you'd like to receive alerts."
+msgstr "指定的时间，你想收到警报。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:731
+#, fuzzy
+msgid "Host Down"
+msgstr "主机向下"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:732
+#, fuzzy
+msgid "Host Unreachable"
+msgstr "主机不可达"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:733
+#, fuzzy
+msgid "Host Flapping"
+msgstr "主机扑"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:734
+#, fuzzy
+msgid "Host Downtime"
+msgstr "主机停机"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:735
+#, fuzzy
+msgid "Service Warning"
+msgstr "服务警告"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:737
+#, fuzzy
+msgid "Service Unknown"
+msgstr "服务未知"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:738
+#, fuzzy
+msgid "Service Critical"
+msgstr "服务严重"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:739
+#, fuzzy
+msgid "Service Flapping"
+msgstr "服务扑"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:740
+#, fuzzy
+msgid "Service Downtime"
+msgstr "服务停机时间"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:742
+#, fuzzy
+msgid "No notification methods selected."
+msgstr "没有选择的通知方法。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:743
+#, fuzzy
+msgid "One or more time ranges is invalid."
+msgstr "一个或多个时间范围是无效的。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:744
+#, fuzzy
+msgid "No mobile carrier selected."
+msgstr "移动运营商选择。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:757
+#, fuzzy
+msgid "From"
+msgstr "从"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:758
+#, fuzzy
+msgid "To"
+msgstr "对"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:760
+#, fuzzy
+msgid "Can see all hosts and services"
+msgstr "可以看到所有的主机和服务"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:761
+#, fuzzy
+msgid "Can (re)configure hosts and services"
+msgstr "可以（重新）配置的主机和服务"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:762
+#, fuzzy
+msgid "Can control all hosts and services"
+msgstr "可以控制所有的主机和服务"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:763
+#, fuzzy
+msgid "Can see/control monitoring engine"
+msgstr "可以看到/控制监控引擎"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:764
+#, fuzzy
+msgid "Can access advanced features"
+msgstr "可以访问高级功能"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:765
+#, fuzzy
+msgid "Has read-only access"
+msgstr "具有只读访问"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:767
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:768
+#, fuzzy
+msgid "Not Authorized"
+msgstr "未授权"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:769
+#, fuzzy
+msgid ""
+"You are not authorized to view the requested object, or the object does not "
+"exist."
+msgstr "您未被授权查看所请求的对象，或对象不存在。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:771
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:772
+#, fuzzy
+msgid "Notification Messages"
+msgstr "通知消息"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:773
+#, fuzzy
+msgid ""
+"Use this feature to customize the content of the notification messages you "
+"receive."
+msgstr "使用此功能自定义通知您收到的邮件的内容。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:775
+#, fuzzy
+msgid "Email Notifications"
+msgstr "电子邮件通知"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:776
+#, fuzzy
+msgid ""
+"Specify the format of the host and service alert messages you receive via "
+"email."
+msgstr "指定的主机和服务，通过电子邮件收到警报消息的格式。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:778
+#, fuzzy
+msgid "Mobile Text Notifications"
+msgstr "移动文字通知"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:779
+#, fuzzy
+msgid ""
+"Specify the format of the host and service alert messages you receive via "
+"mobile text message."
+msgstr "指定的主机和服务警报消息通过手机短信接收的格式。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:781
+#, fuzzy
+msgid "Host Alert Subject"
+msgstr "主机警报主题"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:782
+#, fuzzy
+msgid "Host Alert Message"
+msgstr "主机报警信息"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:783
+#, fuzzy
+msgid "Service Alert Subject"
+msgstr "服务警报主题"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:784
+#, fuzzy
+msgid "Service Alert Message"
+msgstr "服务警报信息"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:786
+#, fuzzy
+msgid "You must agree to the license before using this software."
+msgstr "使用本软件前，您必须同意许可。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:787
+#, fuzzy
+msgid ""
+"I have read, understood, and agree to be bound by the terms of the license "
+"above."
+msgstr "我已阅读，理解并同意上面的许可条款的约束。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:789
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:790
+#, fuzzy
+msgid "License Agreement"
+msgstr "许可协议"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:791
+#, fuzzy
+msgid ""
+"You must agree to the Nagios Software License Terms and Conditions before "
+"continuing using this software."
+msgstr "，然后再继续使用本软件，您必须同意在Nagios软件许可证条款和条件。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:793
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:794
+#, fuzzy
+msgid "Nagios Fusion Installer"
+msgstr "Nagios的Fusion安装程序"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:795
+#, fuzzy
+msgid ""
+"Welcome to the Nagios Fusion installation.  Just answer a few simple "
+"questions and you'll be ready to go."
+msgstr "安装Nagios的融合。只需回答几个简单的问题，你已经准备好去。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:797
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:798
+#, fuzzy
+msgid "Installation Complete"
+msgstr "安装完成"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:799
+#, fuzzy
+msgid "Congratulations! You have successfully installed Nagios Fusion."
+msgstr "恭喜！您已经成功安装Nagios的融合。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:802
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:803
+#, fuzzy
+msgid "Configuration Options"
+msgstr "配置选项"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:804
+#, fuzzy
+msgid "What would you like to configure?"
+msgstr "你要什么配置？"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:806
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:807
+#, fuzzy
+msgid "Server Credentials"
+msgstr "服务器凭据"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:808
+#, fuzzy
+msgid ""
+"You must configure authentication credentials for each server you wish to "
+"access in Nagios Fusion.  To prevent a server from being displayed elsewhere"
+" in Fusion, uncheck the server's <i>Display</i> checkbox."
+msgstr ""
+"您要访问的每个服务器在Nagios的融合，您必须配置身份验证凭据。为了防止服务器被其他地方的融合显示，服务器的<i>显示</i>复选框取消选中。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:810
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:811
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:817
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:822
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:825
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:828
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:831
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:834
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:837
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:838
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:846
+#, fuzzy
+msgid "Monitoring Wizard"
+msgstr "监视向导"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:814
+#, fuzzy
+msgid "Next"
+msgstr "下"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:815
+#, fuzzy
+msgid "Back"
+msgstr "背面"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:818
+#, fuzzy
+msgid "Monitoring Wizard - Step 1"
+msgstr "监测向导 - 步骤1"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:820
+#, fuzzy
+msgid ""
+"Monitoring wizards guide you through the process of monitoring devices, "
+"servers, applications, services, and more.  Select the appropriate wizard "
+"below to get started."
+msgstr "监测向导将引导您通过监控设备，服务器，应用程序，服务和过程的。选择合适的向导，下面以开始浏览网页。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:823
+#, fuzzy
+msgid "Monitoring Wizard - Step 2"
+msgstr "监视向导 - 步骤2"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:826
+#, fuzzy
+msgid "Monitoring Wizard - Step 3"
+msgstr "监测向导 -  3步骤"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:829
+#, fuzzy
+msgid "Monitoring Wizard - Step 4"
+msgstr "监视向导 - 步骤4"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:832
+#, fuzzy
+msgid "Monitoring Wizard - Step 5"
+msgstr "监视向导 - 步骤5"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:835
+#, fuzzy
+msgid "Monitoring Wizard - Final Step"
+msgstr "监视向导 - 最后一步"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:840
+#, fuzzy
+msgid "Configuration Request Successful"
+msgstr "配置请求成功"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:841
+#, fuzzy
+msgid ""
+"Your configuration changes have been successfully applied to the monitoring "
+"engine."
+msgstr "您的配置更改已成功地应用于监测引擎。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:843
+#, fuzzy
+msgid "Configuration Error"
+msgstr "配置错误"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:844
+#, fuzzy
+msgid ""
+"An error occurred while attempting to apply your configuration to the "
+"monitoring engine.  Contact your Nagios administrator if this problem "
+"persists."
+msgstr "适用于您的配置的监控引擎时发生错误。如果这个问题仍然存在，请联系您的Nagios的管理员。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:847
+#, fuzzy
+msgid "Monitoring Wizard - An Error Occurrred"
+msgstr "监视向导 - 错误Occurrred"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:849
+#, fuzzy
+msgid "Configuration Request Error"
+msgstr "配置请求错误"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:850
+#, fuzzy
+msgid ""
+"An error occurred while attempting to modify the monitoring engine.  This "
+"error occurred because the wizard attempted to modify hosts or services that"
+" you do not have permission for.  Contact your Nagios Fusion administrator "
+"for more information."
+msgstr "发生错误，而试图修改监测引擎。发生这个错误，因为向导试图修改主机或服务，您没有权限为。更多信息，请联系您的Nagios的融合管理员。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:852
+#, fuzzy
+msgid "No wizard selected."
+msgstr "没有向导的选择。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:854
+#, fuzzy
+msgid "Apply"
+msgstr "申请"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:855
+#, fuzzy
+msgid "Run the Monitoring Wizard Again"
+msgstr "再次运行监视向导"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:857
+#, fuzzy
+msgid "Apply Settings"
+msgstr "应用设置"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:859
+#, fuzzy
+msgid "Quick Find"
+msgstr "快速查找"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:861
+#, fuzzy
+msgid ""
+"<p>Manage your Fusion installation with the administrative options available"
+" to you in this section.  Make sure you complete any setup tasks that are "
+"shown below before using your Fusion installation.</p>"
+msgstr "<p>管理您的Fusion安装的系统管理选项提供给您在本节。确保完成如下所示的设置任务，使用前Fusion安装。 </p>"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:863
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:864
+#, fuzzy
+msgid "Security Credentials"
+msgstr "安全性认证"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:866
+#, fuzzy
+msgid ""
+"<p>Use this form to reset various internal security credentials used by your"
+" Fusion system.  This is an important step to ensure your Fusion system does"
+" not use default passwords or tokens, which may leave it open to a security "
+"breach.</p>"
+msgstr ""
+"<p>使用这种形式，将各种融合系统内部使用的安全凭据。这是一个重要的步骤，以确保您的Fusion系统不使用默认的密码或令牌，这可能把它开到一个安全漏洞。"
+" </p>"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:868
+#, fuzzy
+msgid "Component Credentials"
+msgstr "组件的全​​权证书"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:870
+#, fuzzy
+msgid ""
+"The credentials listed below are used to manage various aspects of the "
+"Fusion system.  Remember these passwords!"
+msgstr "下面列出的凭据，用于管理各方面的融合系统。记住这些密码！"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:872
+#, fuzzy
+msgid "Sub-System Credentials"
+msgstr "子系统证书"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:874
+#, fuzzy
+msgid ""
+"<p>You do not need to remember the credentials below, as they are only used "
+"internally by the Fusion system.</p>"
+msgstr "<p>您不需要记住以下凭据，因为它们只在内部使用的融合系统。 </p>"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:876
+#, fuzzy
+msgid "Fusion Subsystem Ticket"
+msgstr "融合子系统票务"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:877
+#, fuzzy
+msgid "Update Credentials"
+msgstr "更新凭据"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:878
+#, fuzzy
+msgid "Current"
+msgstr "当前"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:879
+#, fuzzy
+msgid "Config Manager Backend Password"
+msgstr "配置管理后台密码"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:880
+#, fuzzy
+msgid "New Config Manager Admin Password"
+msgstr "新的配置管理的管理员密码"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:881
+#, fuzzy
+msgid "Admin Username"
+msgstr "管理员用户名"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:883
+#, fuzzy
+msgid "No subsystem ticket."
+msgstr "无子系统票。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:884
+#, fuzzy
+msgid "No config backend password."
+msgstr "没有配置的后台密码。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:886
+#, fuzzy
+msgid "Security credentials updated successfully."
+msgstr "安全性认证成功更​​新。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:888
+#, fuzzy
+msgid "Nagios Core Backend Password"
+msgstr "Nagios的核心骨干密码"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:890
+#, fuzzy
+msgid "No Nagios Core backend password."
+msgstr "没有Nagios的核心骨干密码。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:892
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:893
+#, fuzzy
+msgid "Audit Log"
+msgstr "审计日志"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:894
+#, fuzzy
+msgid ""
+"The audit log provides admins with a record of changes that occur on the "
+"Fusion system, which is useful for ensuring your organization meets "
+"compliance requirements."
+msgstr "提供管理员审计日志与融合系统，这是有用的，以确保您的组织符合合规性要求的记录所发生的变化。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:896
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:897
+#, fuzzy
+msgid "Monitoring Configuration Snapshots"
+msgstr "监控组态快照"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:898
+#, fuzzy
+msgid ""
+"The latest configuration snapshots of the Fusion monitoring engine are shown"
+" below.  Download the most recent snapshots as backups, or get vital "
+"information for troubleshooting configuration errors."
+msgstr "融合监测发动机的最新配置快照如下所示。下载最新的快照，备份，或得到的重要信息排查配置错误。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:900
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:901
+#, fuzzy
+msgid "Monitoring Plugins"
+msgstr "监控插件"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:902
+#, fuzzy
+msgid ""
+"Manage the monitoring plugins and scripts that are installed on this system."
+"  Use caution when deleting plugins or scripts, as they may cause your "
+"monitoring system to generate errors."
+msgstr "管理此系统上安装的监控插件和脚本。删除插件或脚本使用时要小心，因为它们可能导致您的监控系统产生错误。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:904
+#, fuzzy
+msgid "Browse File"
+msgstr "浏览文件"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:905
+#, fuzzy
+msgid "Upload A New Plugin"
+msgstr "上传一个新的插件"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:907
+#, fuzzy
+msgid "New plugin was installed successfully."
+msgstr "新的插件安装成功。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:908
+#, fuzzy
+msgid ""
+"Plugin could not be installed - directory permissions may be incorrect."
+msgstr "无法安装插件 - 可能是不正确的目录权限。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:910
+#, fuzzy
+msgid "Plugin deleted."
+msgstr "插件删除。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:911
+#, fuzzy
+msgid "Plugin delete failed - directory permissions may be incorrect."
+msgstr "插件删除失败 - 可能是不正确的目录权限。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:912
+#, fuzzy
+msgid "No plugin selected for upload."
+msgstr "无插件选择上传。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:915
+#, fuzzy
+msgid "Owner"
+msgstr "业主"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:916
+#, fuzzy
+msgid "Group"
+msgstr "组"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:918
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:919
+#, fuzzy
+msgid "Manage Configuration Wizards"
+msgstr "管理配置向导"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:920
+#, fuzzy
+msgid ""
+"Manage the configuration wizards installed on this system.  You can find "
+"additional configuration wizards at <a "
+"href='http://exchange.nagios.org/directory/Addons/Configuration"
+"/Configuration-Wizards' target='_blank'>Nagios Exchange</a>.  Need a custom "
+"configuration wizard created for your organization?  <a "
+"href='http://www.nagios.com/contact/' target='_blank'>Contact us</a> for "
+"pricing information."
+msgstr ""
+"管理此系统上安装的配置向导。您可以找到更多的配置向导在<a "
+"href='http://exchange.nagios.org/directory/Addons/Configuration"
+"/Configuration-Wizards' target='_blank'>Nagios的交易所</a> "
+"。需要创建一个自定义的配置向导，为您的组织？ <a href='http://www.nagios.com/contact/' "
+"target='_blank'>联系我们</a>的定价信息。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:922
+#, fuzzy
+msgid "Upload A New Wizard"
+msgstr "上传一个新的向导"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:923
+#, fuzzy
+msgid "Upload Wizard"
+msgstr "上传精灵"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:925
+#, fuzzy
+msgid "Wizard"
+msgstr "巫师"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:926
+#, fuzzy
+msgid "Wizard Type"
+msgstr "向导类型"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:928
+#, fuzzy
+msgid "No wizard selected for upload."
+msgstr "没有向导，选择上传。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:929
+#, fuzzy
+msgid "Wizard upload failed."
+msgstr "精灵上传失败。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:930
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:934
+#, fuzzy
+msgid "Wizard scheduled for installation."
+msgstr "向导计划安装。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:931
+#, fuzzy
+msgid "Wizard installed."
+msgstr "向导安装。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:932
+#, fuzzy
+msgid "Wizard installation failed."
+msgstr "向导安装失败。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:933
+#, fuzzy
+msgid "Wizard packaging timed out."
+msgstr "向导包装超时。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:935
+#, fuzzy
+msgid "Wizard deleted."
+msgstr "向导删除。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:936
+#, fuzzy
+msgid "Wizard scheduled for deletion."
+msgstr "精灵定为删除。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:940
+#, fuzzy
+msgid ""
+"Manage the dashlets installed on this system.  You can find additional "
+"dashlets at <a href='http://exchange.nagios.org/directory/Addons/Dashlets' "
+"target='_blank'>Nagios Exchange</a>.<br>Need a custom dashlet created for "
+"your organization?  <a href='http://www.nagios.com/contact/' "
+"target='_blank'>Contact us</a> for pricing information."
+msgstr ""
+"管理安装的dashlets，在此系统上。你可以找到更多的dashlets在<a "
+"href='http://exchange.nagios.org/directory/Addons/Dashlets' "
+"target='_blank'>Nagios的交易所</a> 。 <br>创建需要一个定制dashlet，为您的组织？ <a "
+"href='http://www.nagios.com/contact/' target='_blank'>联系我们</a>的定价信息。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:944
+#, fuzzy
+msgid "Upload a New Dashlet"
+msgstr "上传新Dashlet"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:945
+#, fuzzy
+msgid "Upload Dashlet"
+msgstr "上传Dashlet"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:947
+#, fuzzy
+msgid "Dashlet"
+msgstr "Dashlet"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:949
+#, fuzzy
+msgid "Dashlet scheduled for installation."
+msgstr "Dashlet计划安装。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:950
+#, fuzzy
+msgid "Dashlet upload failed."
+msgstr "Dashlet上传失败。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:951
+#, fuzzy
+msgid "Dashlet packaging timed out."
+msgstr "Dashlet包装超时。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:952
+#, fuzzy
+msgid "Dashlet deleted."
+msgstr "Dashlet删除。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:953
+#, fuzzy
+msgid "Dashlet scheduled for deletion."
+msgstr "为删除Dashlet计划。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:954
+#, fuzzy
+msgid "Dashlet installed."
+msgstr "Dashlet安装。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:955
+#, fuzzy
+msgid "Dashlet installation failed."
+msgstr "Dashlet安装失败。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:959
+#, fuzzy
+msgid ""
+"Manage the components installed on this system.  You can find additional "
+"dashlets at <a href='http://exchange.nagios.org/directory/Addons/Components'"
+" target='_blank'>Nagios Exchange</a>.<br>Need a custom component created to "
+"extend Nagios Fusion's capabilities?  <a "
+"href='http://www.nagios.com/contact/' target='_blank'>Contact us</a> for "
+"pricing information."
+msgstr ""
+"管理此系统上安装的组件。你可以找到更多的dashlets在<a "
+"href='http://exchange.nagios.org/directory/Addons/Components' "
+"target='_blank'>Nagios的交易所</a> 。 <br>需要创建一个自定义组件扩展Nagios的融合的能力？ <a "
+"href='http://www.nagios.com/contact/' target='_blank'>联系我们</a>的定价信息。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:961
+#, fuzzy
+msgid "Component deleted."
+msgstr "组件删除。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:962
+#, fuzzy
+msgid "Component scheduled for delettion."
+msgstr "组件原定于delettion。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:963
+#, fuzzy
+msgid "Component upload failed."
+msgstr "组件上传失败。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:964
+#, fuzzy
+msgid "Component scheduled for installation."
+msgstr "计划安装的组件。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:965
+#, fuzzy
+msgid "Component installed."
+msgstr "组件安装。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:966
+#, fuzzy
+msgid "Component installation failed."
+msgstr "组件安装失败。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:967
+#, fuzzy
+msgid "Component packaging timed out."
+msgstr "组件包装超时。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:969
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:970
+#, fuzzy
+msgid "Config snapshot deleted."
+msgstr "配置快照删除。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:972
+#, fuzzy
+msgid "Upload a New Component"
+msgstr "上传一个新的组件"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:973
+#, fuzzy
+msgid "Upload Component"
+msgstr "上传组件"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:979
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:980
+#, fuzzy
+msgid "Component Configuration"
+msgstr "组件配置"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:982
+#, fuzzy
+msgid "Component settings updated."
+msgstr "更新组件设置。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:984
+#, fuzzy
+msgid "Error submitting command."
+msgstr "错误递交命令。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:986
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:987
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:990
+#, fuzzy
+msgid "Send Test Notifications"
+msgstr "发送测试通知"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:988
+#, fuzzy
+msgid ""
+"Click the button below to send test notifications to your email and/or "
+"mobile phone."
+msgstr "点击下面的按钮来测试通知发送到您的电子邮件和/或移动电话。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:992
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:993
+#, fuzzy
+msgid "Mail Settings"
+msgstr "邮件设置"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:994
+#, fuzzy
+msgid ""
+"Modify the settings used by your Nagios Fusion system for sending "
+"informational messages.<br><b>Note:</b> Mail messages may fail to be "
+"delivered if your Fusion server does not have a valid DNS name."
+msgstr ""
+"修改发送信息性消息的Nagios的融合系统所使用的设置。 <br> "
+"<b>注：Mail</b>邮件可能无法交付，融合服务器，如果没有一个有效的DNS名称。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:996
+#, fuzzy
+msgid "Mail settings updated."
+msgstr "邮件设置更新。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:998
+#, fuzzy
+msgid "General Mail Settings"
+msgstr "一般邮件设置"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:999
+#, fuzzy
+msgid "Mail Method"
+msgstr "邮件的方法"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1000
+#, fuzzy
+msgid "Send Mail From"
+msgstr "发送邮件，"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1002
+#, fuzzy
+msgid "SMTP Settings"
+msgstr "SMTP设置"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1005
+#, fuzzy
+msgid "Port"
+msgstr "端口"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1008
+#, fuzzy
+msgid "Security"
+msgstr "安全"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1010
+#, fuzzy
+msgid "No from address specified."
+msgstr "从指定的地址。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1011
+#, fuzzy
+msgid "No SMTP host specified."
+msgstr "没有指定的SMTP主机。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1012
+#, fuzzy
+msgid "No SMTP port specified."
+msgstr "没有指定的SMTP端口。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1014
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1015
+#, fuzzy
+msgid "Test Email Settings"
+msgstr "测试电子邮件设置"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1016
+#, fuzzy
+msgid "Use this to test your mail settings."
+msgstr "使用它来测试您的邮件设置。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1017
+#, fuzzy
+msgid "Send Test Email"
+msgstr "发送测试电子邮件"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1019
+#, fuzzy
+msgid "No performance graphs were found for this service."
+msgstr "性能图表，发现这项服务。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1020
+#, fuzzy
+msgid "No performance graphs were found for this host."
+msgstr "性能图表，发现该主机。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1022
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1027
+#, fuzzy
+msgid "Overview"
+msgstr "概观"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1023
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1028
+#, fuzzy
+msgid "Advanced"
+msgstr "先进"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1032
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1033
+#, fuzzy
+msgid "Monitoring Process"
+msgstr "监控过程"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1035
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1036
+#, fuzzy
+msgid "Monitoring Performance"
+msgstr "监视性能"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1039
+#, fuzzy
+msgid "Your Comment"
+msgstr "您的评论"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1041
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1042
+#, fuzzy
+msgid "Network Outages"
+msgstr "网络故障"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1044
+#, fuzzy
+msgid "View Hostgroup Overview"
+msgstr "查看主机群概述"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1045
+#, fuzzy
+msgid "View Hostgroup Summary"
+msgstr "查看主机群摘要"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1046
+#, fuzzy
+msgid "View Hostgroup Grid"
+msgstr "查看主机群网格"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1047
+#, fuzzy
+msgid "View Hostgroup Service Details"
+msgstr "查看主机群服务详情"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1048
+#, fuzzy
+msgid "View Hostgroup Commands"
+msgstr "查看主机群命令"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1050
+#, fuzzy
+msgid "View Servicegroup Overview"
+msgstr "服务组概述"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1051
+#, fuzzy
+msgid "View Servicegroup Summary"
+msgstr "服务组总结"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1052
+#, fuzzy
+msgid "View Servicegroup Grid"
+msgstr "查看服务组网格"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1053
+#, fuzzy
+msgid "View Servicegroup Service Details"
+msgstr "查看服务组服务详情"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1054
+#, fuzzy
+msgid "View Servicegroup Commands"
+msgstr "查看服务组命令"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1056
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1057
+#, fuzzy
+msgid "Network Status Map"
+msgstr "网络状态图"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1059
+#, fuzzy
+msgid "View Tree Map"
+msgstr "查看树图"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1060
+#, fuzzy
+msgid "View Balloon Map"
+msgstr "气球地图"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1062
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1063
+#, fuzzy
+msgid "Acknowledgements and Comments"
+msgstr "致谢及评论"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1065
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1066
+#, fuzzy
+msgid "Confirm Service Deletion"
+msgstr "确认服务删除"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1067
+#, fuzzy
+msgid ""
+"Are you sure you want to delete this service and remove it from the "
+"monitoring configuration?"
+msgstr "您确定您要删除此服务，将其从监控配置吗？"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1069
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1070
+#, fuzzy
+msgid "Service Deletion Error"
+msgstr "服务删除错误"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1072
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1073
+#, fuzzy
+msgid "Service Deletion Scheduled"
+msgstr "预定服务删除"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1075
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1076
+#, fuzzy
+msgid "Confirm Host Deletion"
+msgstr "确认主机删除"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1077
+#, fuzzy
+msgid ""
+"Are you sure you want to delete this host and remove it from the monitoring "
+"configuration?"
+msgstr "您确定您要删除此主机将其从监控配置吗？"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1079
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1080
+#, fuzzy
+msgid "Host Deletion Error"
+msgstr "主机删除错误"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1082
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1083
+#, fuzzy
+msgid "Host Deletion Scheduled"
+msgstr "调度主机删除"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1085
+#, fuzzy
+msgid "Create as Monitoring Contact"
+msgstr "创建监控联系"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1087
+#, fuzzy
+msgid ""
+"Management of notification preferences is not available because your account"
+" is not configured to be a monitoring contact.  Contact your Nagios Fusion "
+"administrator for details."
+msgstr "管理的通知偏好不可用，因为您的帐户被配置为一个监测接触。的详细信息，请联系您的Nagios的融合管理员。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1088
+#, fuzzy
+msgid ""
+"Management of notification preferences is not available for your account.  "
+"Contact your Nagios Fusion administrator for details."
+msgstr "不适用于您的帐户管理的通知偏好。的详细信息，请联系您的Nagios的融合管理员。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1089
+#, fuzzy
+msgid ""
+"Testing notification messages is not available for your account.  Contact "
+"your Nagios Fusion administrator for details."
+msgstr "测试通知邮件不适用于您的帐户。的详细信息，请联系您的Nagios的融合管理员。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1091
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1092
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1094
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1095
+#, fuzzy
+msgid "Configure Service"
+msgstr "配置服务"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1097
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1098
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1100
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1101
+#, fuzzy
+msgid "Configure Host"
+msgstr "配置主机"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1103
+#, fuzzy
+msgid "Service Re-Configuration Successful"
+msgstr "服务重新配置成功"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1104
+#, fuzzy
+msgid "The service has successfully been re-configured with the new settings."
+msgstr "服务已成功地重新配置新的设置。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1106
+#, fuzzy
+msgid "Service Re-Configuration Failed"
+msgstr "服务重新配置失败"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1107
+#, fuzzy
+msgid ""
+"A failure occurred while attempting to re-configure the service with the new"
+" settings."
+msgstr "出现故障，在试图使用新的设置重新配置的服务。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1110
+#, fuzzy
+msgid "Host Re-Configuration Successful"
+msgstr "主机重新配置成功"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1111
+#, fuzzy
+msgid "The host has successfully been re-configured with the new settings."
+msgstr "主机已经被成功地重新配置新的设置。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1113
+#, fuzzy
+msgid "Host Re-Configuration Failed"
+msgstr "主机重配置失败"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1114
+#, fuzzy
+msgid ""
+"A failure occurred while attempting to re-configure the host with the new "
+"settings."
+msgstr "在试图使用新的设置重新配置主机出现故障。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1116
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1117
+#, fuzzy
+msgid "Updates"
+msgstr "更新"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1118
+#, fuzzy
+msgid ""
+"Ensure your IT infrastructure is monitored effectively by keeping up with "
+"the latest updates to Nagios Fusion.  Visit <a "
+"href='http://www.nagios.com/products/nagiosfusion/' "
+"target='_blank'>www.nagios.com</a> to get the latest versions of Nagios "
+"Fusion."
+msgstr ""
+"请确保您的IT基础设施进行监控，有效地保持了Nagios的融合了最新的更新。请访问<a "
+"href='http://www.nagios.com/products/nagiosfusion/' "
+"target='_blank'>www.nagios.com</a> Nagios的融合以获得最新的版本。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1122
+#, fuzzy
+msgid ""
+"Select the methods by which you'd like to receive host and service alerts."
+msgstr "选择的方法，你想收到的主机和服务警报。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1124
+#, fuzzy
+msgid "Notification methods updated."
+msgstr "更新通知方法。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1126
+#, fuzzy
+msgid "Built-In Notification Methods"
+msgstr "内置的通知方法"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1127
+#, fuzzy
+msgid "Additional Notification Methods"
+msgstr "其他通知方法"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1130
+#, fuzzy
+msgid "Receive alerts via email."
+msgstr "通过电子邮件接收警报。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1133
+#, fuzzy
+msgid "Receive text alerts to your cellphone."
+msgstr "接收短信提醒到您的手机。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1135
+#, fuzzy
+msgid ""
+"No additional notification methods have been installed or enabled by the "
+"administrator."
+msgstr "已安装的任何其他通知方法或由管理员启用。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1138
+#, fuzzy
+msgid "Finish Upgrade"
+msgstr "完成升级"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1142
+#, fuzzy
+msgid ""
+"Your Nagios Fusion instance requires some modifications to complete the "
+"upgrade process.  Don't worry - its easy."
+msgstr "您的Nagios的的融合实例需要一些修改，以完成升级过程。不要担心 - 它很容易。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1144
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1145
+#, fuzzy
+msgid "Upgrade Complete"
+msgstr "升级完成"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1146
+#, fuzzy
+msgid ""
+"Congratulations!  Your Nagios Fusion upgrade has completed successfully."
+msgstr "恭喜！你的Nagios的融合已成功完成升级。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1148
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1149
+#, fuzzy
+msgid "Recurring Scheduled Downtime"
+msgstr "经常性计划的停机时间"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1157
+#, fuzzy
+msgid ""
+"These options allow you to configure a user account that should be used to "
+"automatically login visitors.  Visitors can logout of the default account "
+"and into their own if they wish."
+msgstr "这些选项允许您配置一个用户帐户，应使用自动登录游客。游客可以注销的默认帐户和成自己的，如果他们想。"
+
+#: trunk/nagiosfusion/basedir/html/includes/lang/en.inc.php:1158
+#, fuzzy
+msgid "Auto-Login"
+msgstr "下次自动登录"
+
+#: trunk/nagiosfusion/basedir/html/install.php:95
+#: trunk/nagiosfusion/basedir/html/admin/globalconfig.php:211
+#, fuzzy
+msgid "Timezone Settings"
+msgstr "时区设置"
+
+#: trunk/nagiosfusion/basedir/html/install.php:98
+#: trunk/nagiosfusion/basedir/html/admin/globalconfig.php:214
+#, fuzzy
+msgid "Timezone"
+msgstr "时区"
+
+#: trunk/nagiosfusion/basedir/html/install.php:161
+#, fuzzy
+msgid "Unable to get user id for admin account."
+msgstr "无法获得管理员帐户的用户ID。"
+
+#: trunk/nagiosfusion/basedir/html/install.php:233
+#, fuzzy
+msgid "You may now login to Nagios Fusion using the following credentials"
+msgstr "现在，您可以使用下面的凭据登录到Nagios的融合"
+
+#: trunk/nagiosfusion/basedir/html/install.php:242
+#, fuzzy
+msgid "Login to Nagios Fusion"
+msgstr "登录到Nagios的融合"
+
+#: trunk/nagiosfusion/basedir/html/help/main.php:49
+#, fuzzy
+msgid "Get help for Nagios Fusion online."
+msgstr "获得Nagios的融合在线帮助。"
+
+#: trunk/nagiosfusion/basedir/html/help/main.php:51
+#, fuzzy
+msgid "Visit the Nagios Library"
+msgstr "访问Nagios的图书馆"
+
+#: trunk/nagiosfusion/basedir/html/help/main.php:52
+#, fuzzy
+msgid "Visit the Support Forum"
+msgstr "访问支持论坛"
+
+#: trunk/nagiosfusion/basedir/html/help/main.php:53
+#, fuzzy
+msgid "Visit the Support Wiki"
+msgstr "访问支持维基"
+
+#: trunk/nagiosfusion/basedir/html/help/main.php:61
+#, fuzzy
+msgid "Learn more about Fusion and its capabilities."
+msgstr "了解更多关于Fusion和它的功能"
+
+#: trunk/nagiosfusion/basedir/html/help/main.php:65
+#, fuzzy
+msgid "Stay informed of the latest updates and happenings for Fusion."
+msgstr "随时了解最新的更新和发生聚变"
+
+#: trunk/nagiosfusion/basedir/html/loginsplash.inc.php:13
+#: trunk/nagiosfusion/basedir/html/login.php:232
+#, fuzzy
+msgid ""
+"Nagios Fusion is a powerful enterprise dashboard for visualizing IT "
+"infrastructure status and enabling faster problem resolution across an "
+"organization's entire IT infrastructure.\tFor more information on Nagios "
+"Fusion, visit"
+msgstr ""
+"Nagios的融合是一个功能强大的企业仪表盘可视化的IT基础设施状况，使整个组织的整个IT基础设施更快地解决问题。 "
+"Nagios的融合欲了解更多信息，请访问："
+
+#: trunk/nagiosfusion/basedir/html/loginsplash.inc.php:16
+#: trunk/nagiosfusion/basedir/html/login.php:235
+#, fuzzy
+msgid "Nagios Learning Opportunities"
+msgstr "Nagios的学习机会"
+
+#: trunk/nagiosfusion/basedir/html/loginsplash.inc.php:18
+#: trunk/nagiosfusion/basedir/html/login.php:237
+#, fuzzy
+msgid "Learn about Nagios"
+msgstr "了解关于Nagios"
+
+#: trunk/nagiosfusion/basedir/html/loginsplash.inc.php:19
+#: trunk/nagiosfusion/basedir/html/login.php:238
+#, fuzzy
+msgid "training"
+msgstr "训练"
+
+#: trunk/nagiosfusion/basedir/html/loginsplash.inc.php:20
+#: trunk/nagiosfusion/basedir/html/login.php:239
+#, fuzzy
+msgid "and"
+msgstr "和"
+
+#: trunk/nagiosfusion/basedir/html/loginsplash.inc.php:21
+#: trunk/nagiosfusion/basedir/html/login.php:240
+#, fuzzy
+msgid "certification"
+msgstr "证明"
+
+#: trunk/nagiosfusion/basedir/html/loginsplash.inc.php:24
+#: trunk/nagiosfusion/basedir/html/login.php:243
+#, fuzzy
+msgid ""
+"Want to learn about how other experts are utilizing Nagios?  Don't miss your"
+" chance to attend the next"
+msgstr "要了解其他专家如何利用Nagios的吗？千万不要错过机会参加下"
+
+#: trunk/nagiosfusion/basedir/html/loginsplash.inc.php:26
+#: trunk/nagiosfusion/basedir/html/login.php:245
+#, fuzzy
+msgid "Nagios World Conference"
+msgstr "Nagios的世界会议"
+
+#: trunk/nagiosfusion/basedir/html/loginsplash.inc.php:28
+#: trunk/nagiosfusion/basedir/html/about/main.php:71
+#: trunk/nagiosfusion/basedir/html/login.php:247
+#, fuzzy
+msgid "Contact Us"
+msgstr "联系我们"
+
+#: trunk/nagiosfusion/basedir/html/loginsplash.inc.php:30
+#: trunk/nagiosfusion/basedir/html/about/main.php:73
+#: trunk/nagiosfusion/basedir/html/login.php:249
+#, fuzzy
+msgid "Have a question or technical problem? Contact us today"
+msgstr "有问题或技术问题吗？联系我们"
+
+#: trunk/nagiosfusion/basedir/html/loginsplash.inc.php:33
+#: trunk/nagiosfusion/basedir/html/about/main.php:76
+#: trunk/nagiosfusion/basedir/html/login.php:252
+#, fuzzy
+msgid "Support"
+msgstr "支持"
+
+#: trunk/nagiosfusion/basedir/html/loginsplash.inc.php:34
+#: trunk/nagiosfusion/basedir/html/about/main.php:77
+#: trunk/nagiosfusion/basedir/html/login.php:253
+#, fuzzy
+msgid "Online Support Forum"
+msgstr "在线支持论坛"
+
+#: trunk/nagiosfusion/basedir/html/loginsplash.inc.php:35
+#: trunk/nagiosfusion/basedir/html/about/main.php:78
+#: trunk/nagiosfusion/basedir/html/login.php:254
+#, fuzzy
+msgid "Sales"
+msgstr "销售"
+
+#: trunk/nagiosfusion/basedir/html/loginsplash.inc.php:35
+#: trunk/nagiosfusion/basedir/html/about/main.php:78
+#: trunk/nagiosfusion/basedir/html/login.php:254
+#, fuzzy
+msgid "Phone"
+msgstr "电话"
+
+#: trunk/nagiosfusion/basedir/html/loginsplash.inc.php:36
+#: trunk/nagiosfusion/basedir/html/about/main.php:79
+#: trunk/nagiosfusion/basedir/html/login.php:255
+#, fuzzy
+msgid "Fax"
+msgstr "传真"
+
+#: trunk/nagiosfusion/basedir/html/loginsplash.inc.php:37
+#: trunk/nagiosfusion/basedir/html/about/main.php:80
+#: trunk/nagiosfusion/basedir/html/login.php:256
+#, fuzzy
+msgid "Web"
+msgstr "卷筒纸"
+
+#: trunk/nagiosfusion/basedir/html/about/main.php:61
+#, fuzzy
+msgid "All rights reserved"
+msgstr "保留所有权利"
+
+#: trunk/nagiosfusion/basedir/html/about/main.php:64
+#, fuzzy
+msgid "License"
+msgstr "许可证"
+
+#: trunk/nagiosfusion/basedir/html/about/main.php:67
+#: trunk/nagiosfusion/basedir/html/about/main.php:134
+#, fuzzy
+msgid "Use of Nagios Fusion is subject to acceptance of the"
+msgstr "使用Nagios的融合是接受"
+
+#: trunk/nagiosfusion/basedir/html/about/main.php:68
+#: trunk/nagiosfusion/basedir/html/about/main.php:135
+#, fuzzy
+msgid "Nagios Software License Terms and Conditions"
+msgstr "Nagios的软件的许可证条款和条件"
+
+#: trunk/nagiosfusion/basedir/html/about/main.php:86
+#, fuzzy
+msgid ""
+"We'd like to thank the many individuals, companies, partners, and customers who have shared their ideas \n"
+"\tand stories with us and participaged in developing some really great software solutions that have \n"
+"\tmade Nagios Fusion a possibility.  Neither Nagios Enterprises nor Nagios Fusion are necessarily endorsed \n"
+"\tby any of these parties - we just wanted to list them here as a public way of thanking them for the contributions they've made in various ways."
+msgstr ""
+"我们要感谢许多个人，企业，合作伙伴，与客户分享他们的想法和故事，我们在开发一些真正伟大的软件解决方案，取得了Nagios的融合的可能性和participaged。无论是Nagios的企业也不一定认可的Nagios的融合上述任何一方"
+" - 我们只是想在这里一一列举了，感谢他们所做的贡献，他们以各种方式公开的方式。"
+
+#: trunk/nagiosfusion/basedir/html/about/main.php:93
+#, fuzzy
+msgid ""
+"Some particular Open Source projects and development communities we'd like to thank include:<br>\n"
+"\tThe PHP development community, the MySQL and Postgres development communities, the ADODB project team, \n"
+"\tThe Jquery project team and expanded Jquery community, the PHPMailer team, the RRDTool project, and the \n"
+"\tentire Nagios Community and greater OSS community members who make great OSS solutions a possibility \n"
+"\tthrough their tireless contributions.  We just wanted to let you know that we think you rock."
+msgstr ""
+"一些特定的开源项目和开发的社区，我们要感谢包括： <br> "
+"PHP开发社区，MySQL和Postgres的开发社区，ADODB项目的团队，的jQuery项目团队和扩展jQuery社区，PHPMailer的团队，RRDTool的项目，和整个Nagios的社区和更大的OSS社区成员，使伟大的OSS解决方案通过自己的不懈贡献的可能性。我们只是想让你知道，我们想你摇滚。"
+
+#: trunk/nagiosfusion/basedir/html/about/main.php:101
+#, fuzzy
+msgid ""
+"\tWe'd like to give an extra special thanks to the individual founders and leaders of each OSS project mentioned \n"
+"\tabove.  We know that it takes a lot to build something that stands head and shoulders above the competition.  \n"
+"\tKudos for you to bringing awesomeness into the world."
+msgstr ""
+"我们想给一个额外的特别感谢上述每个OSS项目的创始人和领导人。我们知道，它需要建立了很多的东西，代表头部和肩膀以上的竞争。荣誉给你带来迷死人走向世界。"
+
+#: trunk/nagiosfusion/basedir/html/about/main.php:128
+#: trunk/nagiosfusion/basedir/html/about/main.php:171
+#, fuzzy
+msgid "All rights reserved."
+msgstr "保留所有权利。"
+
+#: trunk/nagiosfusion/basedir/html/about/main.php:138
+#, fuzzy
+msgid "Disclaimer of Warranty"
+msgstr "不保证声明"
+
+#: trunk/nagiosfusion/basedir/html/about/main.php:141
+#, fuzzy
+msgid ""
+"Nagios Fusion and all information, documentation, and software components contained in and \n"
+"\tdistributed with it are provided AS IS with NO WARRANTY OF ANY KIND, INCLUDING THE WARRANTY OF DESIGN, MERCHANTABILITY, AND FITNESS FOR A PARTICULAR PURPOSE."
+msgstr "Nagios的融合和它包含的所有信息，文件和软件组件，同时也有没有任何形式的担保，包括设计的担保，适销性和适用于特定目的的适用性。"
+
+#: trunk/nagiosfusion/basedir/html/about/main.php:145
+#, fuzzy
+msgid "Trademarks"
+msgstr "商标"
+
+#: trunk/nagiosfusion/basedir/html/about/main.php:148
+#, fuzzy
+msgid ""
+"Nagios, Nagios Fusion, Nagios XI, Nagios Core, and Nagios graphics are trademarks, servicemarks, \n"
+"\tregistered servicemarks or registered trademarks of Nagios Enterprises. All other trademarks, \n"
+"\tservicemarks, registered trademarks, and registered servicemarks mentioned herein may be the \n"
+"\tproperty of their respective owner(s).  Use of our trademarks is subject to Nagios Enterprises"
+msgstr ""
+"的Nagios，第十一，Nagios的Nagios的融合，Nagios的核心，和Nagios图形商标，服务标记，注册服务标记或注册商标Nagios的企业。本文中提及的所有其他商标，服务标记，注册商标和注册服务标记可能是其各自所有者的财产（S）。使用我们的商标是受Nagios的企业"
+
+#: trunk/nagiosfusion/basedir/html/about/main.php:152
+#, fuzzy
+msgid "Trademark Use Restrictions"
+msgstr "商标使用限制"
+
+#: trunk/nagiosfusion/basedir/html/login.php:286
+#, fuzzy
+msgid "Username/password match Nagios Fusion database information."
+msgstr "用户名/密码匹配Nagios的的融合数据库中的信息。"
+
+#: trunk/nagiosfusion/basedir/html/login.php:290
+#, fuzzy
+msgid "Username/password do not match data stored in Nagios Fusion database."
+msgstr "用户名/密码不匹配在Nagios的融合数据库中存储的数据。"
+
+#: trunk/nagiosfusion/basedir/html/login.php:293
+#, fuzzy
+msgid "Error running SQL query against NagiosFusion database."
+msgstr "正在运行的SQL查询对NagiosFusion数据库错误。"
+
+#: trunk/nagiosfusion/basedir/html/login.php:393
+#, fuzzy
+msgid "The specified user account has been disabled or does not exist."
+msgstr "指定的用户帐户已被禁用或不存在。"
+
+#: trunk/nagiosfusion/basedir/html/login.php:446
+#, fuzzy
+msgid ""
+"The specified user account has not been setup in this application - contact "
+"your Nagios Fusion administrator."
+msgstr "指定的用户帐户一直没有在此应用程序设置 -  Nagios的融合管理员联系。"
+
+#: trunk/nagiosfusion/basedir/html/login.php:453
+#, fuzzy
+msgid ""
+"An error was encountered when looking up the user in the Nagios Fusion "
+"database."
+msgstr "查找用户在Nagios的融合数据库时，遇到了一个错误。"
+
+#: trunk/nagiosfusion/basedir/html/login.php:463
+#, fuzzy
+msgid "Debug Information"
+msgstr "调试信息"
+
+#: trunk/nagiosfusion/basedir/html/admin/components.php:110
+#, fuzzy
+msgid "Get Components"
+msgstr "获得组件"
+
+#: trunk/nagiosfusion/basedir/html/admin/components.php:244
+#, fuzzy
+msgid "Author"
+msgstr "作者"
+
+#: trunk/nagiosfusion/basedir/html/admin/components.php:246
+#, fuzzy
+msgid "Website"
+msgstr "网站"
+
+#: trunk/nagiosfusion/basedir/html/admin/components.php:253
+#, fuzzy
+msgid "Core"
+msgstr "核心"
+
+#: trunk/nagiosfusion/basedir/html/admin/components.php:295
+#, fuzzy
+msgid "Up to date"
+msgstr "的最新"
+
+#: trunk/nagiosfusion/basedir/html/admin/components.php:578
+#, fuzzy
+msgid ""
+"Could not download component version list from Nagios Server, check Internet"
+" Connnectivity"
+msgstr "无法下载组件的版本从Nagios服务器列表，检查互联网connnectivity"
+
+#: trunk/nagiosfusion/basedir/html/admin/dashlets.php:102
+#, fuzzy
+msgid "Get Dashlets"
+msgstr "获得dashlets"
+
+#: trunk/nagiosfusion/basedir/html/admin/dashlets.php:441
+#, fuzzy
+msgid "Dashlet Versions Updated"
+msgstr "dashlet版本更新"
+
+#: trunk/nagiosfusion/basedir/html/admin/dashlets.php:445
+#, fuzzy
+msgid ""
+"Could not download dashlet version list from Nagios Server, check Internet "
+"Connnectivity"
+msgstr "Nagios服务器，不能下载dashlet的版本列表，检查互联网connnectivity"
+
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:178
+#, fuzzy
+msgid "This action is not available in Demo Mode."
+msgstr "这个动作是不是在演示模式。"
+
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:215
+#, fuzzy
+msgid "<strong>The update was completed successfully!</strong>"
+msgstr "<strong>更新过程成功完成！</strong>"
+
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:220
+#, fuzzy
+msgid ""
+"The update did not complete successfully. Please try updating manually."
+msgstr "更新没有成功完成。请尝试手动更新。"
+
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:227
+#, fuzzy
+msgid "Command not found."
+msgstr "未找到命令。"
+
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:301
+#, fuzzy
+msgid ""
+"Are you sure you want to upgrade Nagios Fusion?\\n\\nWarning: Overwriting "
+"Fusion files ... Please make backups of any edited files before running this"
+" upgrade. Does not include components unless it's a core Fusion component."
+msgstr ""
+"你确定你要升级的nagios融合\\ n \\ "
+"n警告：覆盖融合文件...请在运行此升级之前进行的任何编辑的文件的备份。不包括组件，除非它是一个融合的核心组成部分。"
+
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:346
+#, fuzzy
+msgid "View Update Log"
+msgstr "查看更新日志"
+
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:347
+#, fuzzy
+msgid "Update Ran:"
+msgstr "更新运行："
+
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:348
+#, fuzzy
+msgid "Update Status:"
+msgstr "更新状态："
+
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:374
+#, fuzzy
+msgid "<strong>Please wait.</strong> Upgrade is starting..."
+msgstr "<strong>请稍候。</strong>升级开始..."
+
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:400
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:509
+#, fuzzy
+msgid "Go Back"
+msgstr "回去"
+
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:403
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:507
+#, fuzzy
+msgid "Complete Upgrade"
+msgstr "完整的升级"
+
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:470
+#, fuzzy
+msgid "Checking..."
+msgstr "检查..."
+
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:475
+#, fuzzy
+msgid "Upgrade to Latest Version"
+msgstr "升级到最新版本"
+
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:490
+#, fuzzy
+msgid ""
+"<strong>Update in progress.</strong> Please wait. Update may take a few "
+"minutes."
+msgstr "<strong>正在进行更新，</strong>请稍候。更新可能需要几分钟的时间。"
+
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:515
+#, fuzzy
+msgid "Update History"
+msgstr "更新历史记录"
+
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:516
+#, fuzzy
+msgid "History of all updates performed from the Fusion web UI."
+msgstr "从融合Web用户界面进行的所有更新的历史。"
+
+#: trunk/nagiosfusion/basedir/html/admin/updates.php:546
+#, fuzzy
+msgid "No updates have been performed from the UI yet."
+msgstr "没有更新已经完成从UI呢。"
+
+#: trunk/nagiosfusion/basedir/html/admin/globalconfig.php:96
+#, fuzzy
+msgid "You must set a theme"
+msgstr "您必须设定一个主题"
+
+#: trunk/nagiosfusion/basedir/html/admin/globalconfig.php:236
+#, fuzzy
+msgid "Default Display/Theme Settings"
+msgstr "默认的显示/主题设置"
+
+#: trunk/nagiosfusion/basedir/html/admin/globalconfig.php:239
+#, fuzzy
+msgid "XI User Interface Theme"
+msgstr "喜的用户界面主题"
+
+#: trunk/nagiosfusion/basedir/html/admin/globalconfig.php:242
+#, fuzzy
+msgid "Classic XI"
+msgstr "经典喜"
+
+#: trunk/nagiosfusion/basedir/html/admin/globalconfig.php:243
+#, fuzzy
+msgid "XI 2014"
+msgstr "喜2014"
+
+#: trunk/nagiosfusion/basedir/html/admin/globalconfig.php:248
+#, fuzzy
+msgid "Highcharts Color Theme"
+msgstr "highcharts颜色主题"
+
+#: trunk/nagiosfusion/basedir/html/admin/globalconfig.php:251
+#, fuzzy
+msgid "Default (White)"
+msgstr "默认（白色）"
+
+#: trunk/nagiosfusion/basedir/html/admin/globalconfig.php:252
+#, fuzzy
+msgid "Classic (Gray)"
+msgstr "经典（灰色）"
+
+#: trunk/nagiosfusion/basedir/html/admin/globalconfig.php:257
+#, fuzzy
+msgid "Use Highcharts for Perfdata Graphs"
+msgstr "使用highcharts的perfd​​ata图"
+
+#: trunk/nagiosfusion/basedir/html/admin/autologin.php:93
+#, fuzzy
+msgid "Auto-Login Settings"
+msgstr "自动登录设置"
+
+#: trunk/nagiosfusion/basedir/html/admin/autologin.php:99
+#, fuzzy
+msgid "Enable Auto-Login"
+msgstr "启用自动登录"
+
+#: trunk/nagiosfusion/basedir/html/admin/autologin.php:108
+#, fuzzy
+msgid "Account"
+msgstr "帐户"
+
+#: trunk/nagiosfusion/basedir/html/admin/mailsettings.php:88
+#, fuzzy
+msgid "Send A Test Email"
+msgstr "发送测试电子邮件"
+
+#: trunk/nagiosfusion/basedir/html/admin/testemail.php:70
+#, fuzzy
+msgid "An email will be sent to"
+msgstr "一封电子邮件将被发送到"
+
+#: trunk/nagiosfusion/basedir/html/admin/testemail.php:73
+#, fuzzy
+msgid "Change your email address"
+msgstr "更改您的电子邮件地址"
+
+#: trunk/nagiosfusion/basedir/html/admin/testemail.php:116
+#, fuzzy
+msgid "Nagios XI Email Test"
+msgstr "Nagios的XI电子邮件测试"
+
+#: trunk/nagiosfusion/basedir/html/admin/testemail.php:117
+#, fuzzy
+msgid "This is a test email from Nagios XI"
+msgstr "这是一个测试电子邮件从Nagios XI"
+
+#: trunk/nagiosfusion/basedir/html/admin/testemail.php:129
+#, fuzzy
+msgid "A test email was sent to"
+msgstr "测试电子邮件发送到"
+
+#: trunk/nagiosfusion/basedir/html/admin/testemail.php:132
+#, fuzzy
+msgid "Mailer said"
+msgstr "梅勒说："
+
+#: trunk/nagiosfusion/basedir/html/admin/testemail.php:136
+#, fuzzy
+msgid "An error occurred sending a test email!"
+msgstr "发生错误发送测试电子邮件！"
+
+#: trunk/nagiosfusion/basedir/html/config/system_config.php:63
+#, fuzzy
+msgid "Global system settings for Nagios Fusion"
+msgstr "全局系统设置Nagios的融合"
+
+#: trunk/nagiosfusion/basedir/html/config/system_config.php:70
+#, fuzzy
+msgid ""
+"The active interval is the frequency in seconds which Fusion polls the "
+"remote servers for data while actively being used"
+msgstr "有效间隔是融合轮询的远程服务器数据的同时，积极使用的频率，以秒"
+
+#: trunk/nagiosfusion/basedir/html/config/system_config.php:71
+#, fuzzy
+msgid "Active Polling Interval"
+msgstr "主动轮询间隔"
+
+#: trunk/nagiosfusion/basedir/html/config/system_config.php:72
+#: trunk/nagiosfusion/basedir/html/config/system_config.php:77
+#, fuzzy
+msgid "seconds"
+msgstr "秒"
+
+#: trunk/nagiosfusion/basedir/html/config/system_config.php:74
+#, fuzzy
+msgid ""
+"The passive interval is the frequency in seconds which Fusion polls the remote servers for data while the Fusion interface is not in use. \n"
+"\tSome components in Fusion will continue to aquire data for trending purposes"
+msgstr "被动间隔是融合轮询远程服务器的融合界面的数据，同时在不使用的频率，以秒。融合中的某些组件将继续AQUIRE数据趋势分析"
+
+#: trunk/nagiosfusion/basedir/html/config/system_config.php:76
+#, fuzzy
+msgid "Passive Polling Interval"
+msgstr "被动轮询间隔"
+
+#: trunk/nagiosfusion/basedir/html/config/main.php:84
+#, fuzzy
+msgid "Display"
+msgstr "显示"
+
+#: trunk/nagiosfusion/basedir/html/config/main.php:85
+#, fuzzy
+msgid "Auth Type"
+msgstr "验证类型"
+
+#: trunk/nagiosfusion/basedir/html/config/main.php:89
+#, fuzzy
+msgid "Auth Check"
+msgstr "验证检查"
+
+#: trunk/nagiosfusion/basedir/html/config/main.php:99
+#, fuzzy
+msgid "No fused servers have been defined"
+msgstr "融合服务器已定义"
+
+#: trunk/nagiosfusion/basedir/html/config/main.php:101
+#, fuzzy
+msgid "Define fused servers now"
+msgstr "现在定义融合服务器"
+
+#: trunk/nagiosfusion/basedir/html/config/servers.php:110
+#, fuzzy
+msgid "Address"
+msgstr "地址"
+
+#: trunk/nagiosfusion/basedir/html/config/servers.php:111
+#, fuzzy
+msgid "Authentication"
+msgstr "认证"
+
+#: trunk/nagiosfusion/basedir/html/config/servers.php:112
+#, fuzzy
+msgid "Location"
+msgstr "位置"
+
+#: trunk/nagiosfusion/basedir/html/config/servers.php:298
+#, fuzzy
+msgid "Nagios XI"
+msgstr "Nagios的喜"
+
+#: trunk/nagiosfusion/basedir/html/config/servers.php:305
+#, fuzzy
+msgid "Nagios Core"
+msgstr "Nagios的核心"
+
+#: trunk/nagiosfusion/basedir/html/config/servers.php:336
+#, fuzzy
+msgid "A friendly name associated with this server"
+msgstr "与这台服务器的友好名称"
+
+#: trunk/nagiosfusion/basedir/html/config/servers.php:346
+#, fuzzy
+msgid "The IP address or FQDNS of the server"
+msgstr "的服务器的IP地址或FQDN"
+
+#: trunk/nagiosfusion/basedir/html/config/servers.php:366
+#, fuzzy
+msgid "The type of monitoring server this is"
+msgstr "这是监控服务器的类型"
+
+#: trunk/nagiosfusion/basedir/html/config/servers.php:386
+#, fuzzy
+msgid "The authentication method used to access the server"
+msgstr "用于访问该服务器的认证方法"
+
+#: trunk/nagiosfusion/basedir/html/config/servers.php:396
+#: trunk/nagiosfusion/basedir/html/config/servers.php:407
+#, fuzzy
+msgid "The full URL used to access this"
+msgstr "用于访问这个完整的URL"
+
+#: trunk/nagiosfusion/basedir/html/config/servers.php:396
+#, fuzzy
+msgid "instance by a client's browser"
+msgstr "例如，通过客户端的浏览器"
+
+#: trunk/nagiosfusion/basedir/html/config/servers.php:397
+#: trunk/nagiosfusion/basedir/html/config/servers.php:408
+#, fuzzy
+msgid "Example"
+msgstr "例子"
+
+#: trunk/nagiosfusion/basedir/html/config/servers.php:407
+#, fuzzy
+msgid ""
+"instance from the Nagios Fusion server (if different from the public URL)"
+msgstr "从Nagios的融合服务器实例（如果从公共URL不同）"
+
+#: trunk/nagiosfusion/basedir/html/config/servers.php:418
+#, fuzzy
+msgid "An optional text description of the location of this server"
+msgstr "一个可选的文字描述这台服务器的位置"
+
+#: trunk/nagiosfusion/basedir/html/config/servers.php:430
+#, fuzzy
+msgid "Optional notes about this server"
+msgstr "此服务器的选购注意事项"
+
+#: trunk/nagiosfusion/basedir/html/dashboards/dashlets.php:53
+#, fuzzy
+msgid "Need a custom dashlet created for your organization?  No problem!"
+msgstr "创建需要一个定制dashlet，为您的组织吗？没问题！"
+
+#: trunk/nagiosfusion/basedir/html/dashboards/dashlets.php:54
+#, fuzzy
+msgid "Contact us"
+msgstr "联系我们"
+
+#: trunk/nagiosfusion/basedir/html/dashboards/dashlets.php:54
+#, fuzzy
+msgid "for pricing information"
+msgstr "价格信息"
+
+#: trunk/nagiosfusion/basedir/html/dashboards/index.php:47
+#, fuzzy
+msgid "Untitled Dashboard"
+msgstr "无标题仪表板"
+
+#~ msgid ""
+#~ "The full URL used to access this Nagios Core or Nagios XI instance by a "
+#~ "client's browser"
+#~ msgstr "完整的URL来访问此Nagios的核心或Nagios的XI实例的由客户端的浏览器"
+
+#~ msgid ""
+#~ "The full URL used to access this Nagios Core or Nagios XI instance from the "
+#~ "Nagios Fusion server (if different from the public URL)"
+#~ msgstr "完整的URL来访问此Nagios的核心或Nagios XI实例从Nagios的融合服务器（如不同的公共URL）"
+
+#~ msgid "User Guide"
+#~ msgstr "用户指南"
+
+#~ msgid "Error: This component requires Nagios Fusion 2012R1.2 or later"
+#~ msgstr "错误：此组件要求在Nagios的融合2012R1.2或更高版本"
+
+#~ msgid "Uses Active Directory as a user authentication source. "
+#~ msgstr "使用Active Directory用户的身份验证源。"
+
+#~ msgid "Active Directory Settings"
+#~ msgstr "Active Directory设置"
+
+#~ msgid "Enable Active Directory Authentication"
+#~ msgstr "启用Active Directory身份验证"
+
+#~ msgid "Enables test authentication for Nagios XI"
+#~ msgstr "启用Nagios的XI的测试认证"
+
+#~ msgid "Account Suffix"
+#~ msgstr "帐户后缀"
+
+#~ msgid "The part of the full user identification after the username, such as"
+#~ msgstr "的一部分，完整的用户识别后的用户名，如"
+
+#~ msgid "Base"
+#~ msgstr "基地"
+
+#~ msgid ""
+#~ "The LDAP-format starting object (distinguished name) that your users are "
+#~ "defined below, such as"
+#~ msgstr "LDAP格式的起始对象（专有名称），用户定义见下文，如"
+
+#~ msgid "Domain Controllers"
+#~ msgstr "域控制器"
+
+#~ msgid "A comma-separated list of domain controllers on your network"
+#~ msgstr "域控制器的网络上的一个逗号分隔的列表"
+
+#~ msgid ""
+#~ "The type of security (if any) and port number to use for the connection to "
+#~ "the domain controller"
+#~ msgstr "用于连接到域控制器的安全性（如果有的话）的类型和端口号，"
+
+#~ msgid "No account suffix specified."
+#~ msgstr "没有指定的帐户后缀。"
+
+#~ msgid "No base Distinguished Name specified."
+#~ msgstr "无基可分辨名称指定。"
+
+#~ msgid "No domain controllers specified."
+#~ msgstr "没有指定的域控制器。"
+
+#~ msgid ""
+#~ "LDAP libraries not installed!  To install them, log into the server, and run"
+#~ " 'yum install php-ldap'."
+#~ msgstr "LDAP库未安装！要安装它们，请登录到该服务器，并运行“yum的安装php-LDAP”。"
+
+#~ msgid "Active Directory authentication okay!"
+#~ msgstr "Active Directory身份验证好呀！"
+
+#~ msgid "Active Directory authentication failed - bad username or password."
+#~ msgstr "Active Directory身份验证失败 - 无效的用户名或密码。"
+
+#~ msgid "Error: This component requires Nagios Fusion 2012R1.4 or later."
+#~ msgstr "错误：此组件要求在Nagios的融合2012R1.4或更高版本。"
+
+#~ msgid "Allows a custom login splash page to be defined. "
+#~ msgstr "允许来定义一个自定义登录初始页面。"
+
+#~ msgid "Custom Login Settings"
+#~ msgstr "自定义登录设置"
+
+#~ msgid "Enable Custom Login Splash"
+#~ msgstr "启用自定义登录飞溅"
+
+#~ msgid ""
+#~ "Enables use of a custom login splash defined by the specified PHP include "
+#~ "file."
+#~ msgstr "允许使用一个自定义登录溅定义指定的PHP包含文件。"
+
+#~ msgid "Include File"
+#~ msgstr "包含文件"
+
+#~ msgid "The include file to be used on the login page"
+#~ msgstr "在登录页面上使用包含文件"
+
+#~ msgid "Provides LDAP authentication for Nagios Fusion. "
+#~ msgstr "Nagios的融合提供了LDAP身份验证。"
+
+#~ msgid "Authentication Settings"
+#~ msgstr "身份验证设置"
+
+#~ msgid "Enable LDAP Authentication"
+#~ msgstr "启用LDAP身份验证"
+
+#~ msgid "Enables LDAP authentication for Nagios Fusion"
+#~ msgstr "启用Nagios的融合的LDAP认证"
+
+#~ msgid "LDAP Host"
+#~ msgstr "LDAP主机"
+
+#~ msgid "The IP address of your LDAP host"
+#~ msgstr "您的LDAP主机的IP地址"
+
+#~ msgid "LDAP Port"
+#~ msgstr "LDAP端口"
+
+#~ msgid "The port that your LDAP host is running on"
+#~ msgstr "您的LDAP主机上运行的端口"
+
+#~ msgid ""
+#~ "The base DN to use for authenticating to and/or browsing the LDAP server"
+#~ msgstr "使用身份验证和/或浏览LDAP服务器的基本DN"
+
+#~ msgid ""
+#~ "The user DN (fully distinguished name) that is used to check user "
+#~ "authentication.  Note"
+#~ msgstr "用户DN（完全可分辨名称），用来检查用户身份验证。注意"
+
+#~ msgid ""
+#~ "will be automatically replaced with the user's username when they "
+#~ "authenticate."
+#~ msgstr "会自动替换与该用户的用户名，当他们的身份验证。"
+
+#~ msgid "No LDAP host specified."
+#~ msgstr "没有指定的LDAP主机。"
+
+#~ msgid "No LDAP port specified."
+#~ msgstr "没有指定的LDAP端口。"
+
+#~ msgid "No base DN specified."
+#~ msgstr "没有基本DN规定。"
+
+#~ msgid "No user DN specified."
+#~ msgstr "没有指定的用户DN。"
+
+#~ msgid "pattern not found in user"
+#~ msgstr "模式中找不到用户"
+
+#~ msgid "LDAP authentication not enabled - skipping."
+#~ msgstr "LDAP认证功能 - 跳绳。"
+
+#~ msgid "Unable to connect to LDAP server '"
+#~ msgstr "无法连接到LDAP服务器“"
+
+#~ msgid "Sucessfully authenticated against LDAP!"
+#~ msgstr "成功地对LDAP的认证！"
+
+#~ msgid "Unable to bind to LDAP server "
+#~ msgstr "无法绑定到LDAP服务器"
+
+#~ msgid ""
+#~ "This component adds a read-only NOC screen for all current unhandled problems to the home menu. \n"
+#~ "\t\tFor larger environments an active polling interval of 60 seconds or more is recommended."
+#~ msgstr "此组件添加了一个只读的NOC目前所有的未处理的问题，到主菜单画面。对于较大的环境中，主动轮询的时间间隔为60秒或更长时间的建议。"
+
+#~ msgid "Operations Center"
+#~ msgstr "运营中心"
+
+#~ msgid "Displays summary information for unhandled problems"
+#~ msgstr "显示未处理的问题的摘要信息"
+
+#~ msgid ""
+#~ "Displays unhandled host problems across all Nagios XI servers. "
+#~ "<strong>(Nagios XI Only)</strong>"
+#~ msgstr "显示在所有的Nagios XI服务器的未处理的主机问题<strong>。（Nagios的XI只有）</strong>"
+
+#~ msgid ""
+#~ "Displays all open service problems across all Nagios XI servers. "
+#~ "<strong>(Nagios XI Only)</strong>"
+#~ msgstr "显示所有打开的所有的Nagios XI服务器的服务问题<strong>。（Nagios的XI只有）</strong>"
+
+#~ msgid "Open Problems Summary"
+#~ msgstr "开放式的问题总结"
+
+#~ msgid "Open Host Problems"
+#~ msgstr "打开主机问题"
+
+#~ msgid "Host Name"
+#~ msgstr "Host Name（主机名）"
+
+#~ msgid "Open Service Problems"
+#~ msgstr "打开服务问题"
+
+#~ msgid ""
+#~ "This component creates a proxy configuration menu in the Admin panel \n"
+#~ "\tand is used to configure proxy settings for update checks. \n"
+#~ "\t<strong>Requires Fusion 2012R1.1 or later.</strong>"
+#~ msgstr ""
+#~ "此组件创建一个代理配置“菜单中的管理面板，用于配置代理服务器设置检查更新。 <strong>需要融合2012R1.1或更高版本。</strong>"
+
+#~ msgid "Proxy Configuration"
+#~ msgstr "代理服务器配置"
+
+#~ msgid "Proxy Settings"
+#~ msgstr "代理服务器设置"
+
+#~ msgid "Enable Proxy For Update Checks"
+#~ msgstr "启用代理，对于更新检查"
+
+#~ msgid "Proxy Address"
+#~ msgstr "代理服务器地址"
+
+#~ msgid "Proxy Port"
+#~ msgstr "代理服务器端口"
+
+#~ msgid "Proxy Auth"
+#~ msgstr "代理认证"
+
+#~ msgid "Proxy settings updated successfully!"
+#~ msgstr "代理服务器设置更新成功！"
+
+#~ msgid "Nagios XI Servers Only."
+#~ msgstr "Nagios的XI服务器上。"
+
+#~ msgid ""
+#~ "This dashlet displays service status information for Nagios BPI Groups."
+#~ msgstr "在此dashlet显示Nagios的BPI组的服务状态信息。"
+
+#~ msgid "BPI Status"
+#~ msgstr "BPI状态"
+
+#~ msgid "Access Nagios BPI on"
+#~ msgstr "访问Nagios BPI上"
+
+#~ msgid ""
+#~ "This tool allows admins to deploy one or more of their own dashboards to other users.  \n"
+#~ "\tThis can be useful when you design a dashboard that other users may want access to.  \n"
+#~ "\tIf you want each user's copy of your dashboard to stay synchronized with your dashboard, select the "
+#~ msgstr ""
+#~ "该工具允许管理员部署自己的仪表板中的一个或多个其他用户。这可能是有用的，当你设计一个仪表板，其他用户可能想要访问。如果你想你的仪表盘保持同步，与仪表板的每个用户的副本，请选择"

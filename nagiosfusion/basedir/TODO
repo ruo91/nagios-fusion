@@ -1,0 +1,20 @@
+FUSION 2012 TODO
+===================
+X - Add some sort of sanity check for servers that timeout or can't connect. getmagicpixel pretty much kills the page load
+X - Update the poller to output the human readable names for the servers
+X - Add a subsystem checker to make sure we know if the subsystem crons aren't actually running like in XI
+X - Update CSS to use the rounded corners again
+
+
+[FEATURES]
+
+
+
+[LATER REVISIONS]
+
+- XI 2012 needs a built-in gettacstatus API call to get pre-processed counts
+**- Recent Problems Aggregation??
+
+- Save "yesterday's" alert histogram for viewing in graph. 
+- "Yesterdays" top alert producers
+

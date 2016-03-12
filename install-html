@@ -1,0 +1,37 @@
+#!/bin/sh
+
+. ./fusion-sys.cfg
+
+##########################################
+# COPY OVER NEW FUSION HTML FILES
+##########################################
+
+# Save old config.inc file
+if [ -f $proddir/html/config.inc.php ]; then
+	cp -f $proddir/html/config.inc.php $proddir/html/config.inc.saved
+fi
+
+# Copy over Fusion files
+echo "Copying over new Fusion directory..."
+`cp -r ./nagiosfusion/basedir/* $proddir`
+
+# Restore original config.inc file, but save a copy of the new one
+if [ -f $proddir/html/config.inc.saved ]; then
+	cp -f $proddir/html/config.inc.php $proddir/html/config.inc.dist
+	cp -f $proddir/html/config.inc.saved $proddir/html/config.inc.php
+fi
+
+# Change ownership on directories and files
+`$chownbin -R $nagiosuser.$nagiosgroup $proddir`
+chmod g+s $proddir/tmp
+
+# Set permissions on component etc directory
+`$chownbin -R $apacheuser.$nagiosgroup $proddir/etc/components`
+find $proddir/etc/components/ -type d -exec chmod 6775 {} \;
+
+# Set permissions on component var directory
+`$chownbin -R  $apacheuser.$nagiosgroup $proddir/var/components`
+find $proddir/var/components/ -type d -exec chmod 6775 {} \;
+
+
+

@@ -1,0 +1,4 @@
+# Backup MySQL Databases (daily 7:00am w/ weekly and monthly rotations)
+#0 7 * * *       /root/scripts/automysqlbackup
+# Backup Postgresql Databases (daily 8:00am w/ weekly and monthly rotations)
+#0 8 * * *       /root/scripts/autopostgresqlbackup

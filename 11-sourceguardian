@@ -1,0 +1,29 @@
+#!/bin/sh -e
+
+. ./fusion-sys.cfg
+
+# Was previous step completed?
+if [ ! -f installed.dbservers ]; then
+	echo "Databases were not installed - run previous script" >&2
+	exit 1
+fi
+
+if [ -f installed.sourceguardian ]; then
+	echo "Sourceguardian already installed" >&2
+	exit 0
+fi
+
+# 64 bit machines
+if [ -d /usr/lib64/php/modules ]; then
+    unzip sourceguardian/ixed4.lin.x86-64.zip  -d  /usr/lib64/php/modules
+else
+# 32 bit machines
+    unzip sourceguardian/ixed4.lin.x86-32.zip  -d  /usr/lib/php/modules
+fi
+
+# Install Sourceguardian extension in PHP.ini
+./install-sourceguardian-extension.sh
+
+service httpd restart
+
+touch installed.sourceguardian
