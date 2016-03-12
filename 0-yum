@@ -20,15 +20,15 @@ case "$dist" in
 esac
 
 # Check that the Red Hat installation is valid
-if [ -x /usr/sbin/rhn_check ] && ! /usr/sbin/rhn_check 2>/dev/null; then
-	echo "Your Red Hat Installation is not registered or does not have proper entitlements." >&2
-	echo "Please register or enable entitlements at rhn.redhat.com." >&2
-	exit 1
-# Check for the proper "Channels" - added conditional to make sure it's not CentOS 6  -MG 
-elif [ "$dist" = el6 ] && ! rpm -q centos-release && ! rhn-channel -l | grep -q rhel-.\*-server-optional-6 ; then
-	echo "ERROR: Please add the 'Optional' channel to your Red Hat systems subscriptions." >&2
-	echo "       You can do so in the Redhat Network web interface or using the rhn-channel command." >&2
-	exit 1
+if [ "$distro" = "RedHatEnterpriseServer" ] && [ -x /usr/sbin/rhn_check ] && ! /usr/sbin/rhn_check 2>/dev/null; then
+    ## Fails initial check with newer subscription method, nested if to check for subscription and proceed correctly if found -SR
+    if [ -x /usr/bin/subscription-manager ] && [[ -z `subscription-manager list | grep Status: | grep -qF Subscribed` ]]; then
+        echo "Passed New Subscription Check" > /dev/null;
+    else
+        echo "Your Red Hat Installation is not registered or does not have proper entitlements." >&2
+        echo "Please register or enable entitlements at rhn.redhat.com." >&2
+        exit 1;
+    fi
 fi
 
 # Make sure everything needed is still present, and we should be working 
